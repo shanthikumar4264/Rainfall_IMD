@@ -1,0 +1,410 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import LabelEncoder
+from sklearn.svm import SVR
+from sklearn.ensemble import RandomForestRegressor
+from xgboost import XGBRegressor
+import numpy as np
+import geopandas as gpd
+import contextily as ctx  # For basemaps
+
+# Load the dataset
+file_path = "tsfinal.csv"
+df = pd.read_csv(file_path)
+
+# Encode categorical variables (District and Month)
+label_encoders = {}
+for col in ["District", "Month"]:
+    le = LabelEncoder()
+    df[col] = le.fit_transform(df[col])
+    label_encoders[col] = le
+
+# Define features and target
+X = df.drop(columns=["Rainfall (mm)"])
+y = df["Rainfall (mm)"]
+
+# Split the dataset
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Initialize and train models
+svm_model = SVR()
+rf_model = RandomForestRegressor(n_estimators=50, random_state=42)
+xgb_model = XGBRegressor(n_estimators=30, random_state=42)
+
+svm_model.fit(X_train, y_train)
+rf_model.fit(X_train, y_train)
+xgb_model.fit(X_train, y_train)
+
+# Generate predictions for all models
+svm_pred = svm_model.predict(X)
+rf_pred = rf_model.predict(X)
+xgb_pred = xgb_model.predict(X)
+
+# Calculate ensemble prediction
+ensemble_pred = np.mean([svm_pred, rf_pred, xgb_pred], axis=0)
+
+# Add all predictions to dataframe
+df["SVM_Predicted_Rainfall"] = svm_pred
+df["RF_Predicted_Rainfall"] = rf_pred
+df["XGB_Predicted_Rainfall"] = xgb_pred
+df["Ensemble_Predicted_Rainfall"] = ensemble_pred
+
+# Save enhanced dataset
+df.to_csv("telangana_rainfall_with_all_predictions.csv", index=False)
+
+# Create district-wise summary statistics
+district_stats = df.groupby("District").agg({
+    "SVM_Predicted_Rainfall": "mean",
+    "RF_Predicted_Rainfall": "mean",
+    "XGB_Predicted_Rainfall": "mean",
+    "Ensemble_Predicted_Rainfall": "mean"
+}).reset_index()
+
+# Decode district numbers back to names
+district_stats["District"] = label_encoders["District"].inverse_transform(district_stats["District"])
+district_stats.to_csv("district_wise_model_predictions.csv", index=False)
+
+# Load Telangana district shapefile
+telangana_shapefile = gpd.read_file("/content/TS_District_Boundary_33_FINAL.shp")  # Replace with your shapefile path
+
+# Merge district stats with shapefile
+merged_data = telangana_shapefile.merge(district_stats, left_on="DISTRICT_N", right_on="District")
+
+# Visualization
+fig, axes = plt.subplots(2, 2, figsize=(18, 12))
+
+# Model Comparison Plot
+sns.lineplot(data=df[["SVM_Predicted_Rainfall", "RF_Predicted_Rainfall",
+                     "XGB_Predicted_Rainfall", "Ensemble_Predicted_Rainfall"]], ax=axes[0, 0])
+axes[0, 0].set_title("Model Predictions Comparison")
+axes[0, 0].set_xlabel("Data Points")
+axes[0, 0].set_ylabel("Rainfall (mm)")
+
+# District-wise Ensemble Predictions (Bar Plot)
+sns.barplot(x=merged_data["District"], y=merged_data["Ensemble_Predicted_Rainfall"], ax=axes[0, 1])
+axes[0, 1].set_title("District-wise Average Rainfall Predictions")
+axes[0, 1].set_xlabel("Districts")
+axes[0, 1].set_ylabel("Rainfall (mm)")
+axes[0, 1].tick_params(axis='x', rotation=90)
+
+# Prediction Distribution Plot
+sns.histplot(df["Ensemble_Predicted_Rainfall"], kde=True, color='purple', ax=axes[1, 0])
+axes[1, 0].set_title("Rainfall Distribution Pattern")
+axes[1, 0].set_xlabel("Rainfall (mm)")
+axes[1, 0].set_ylabel("Frequency")
+
+# Model Correlation Heatmap
+corr_matrix = df[["SVM_Predicted_Rainfall", "RF_Predicted_Rainfall",
+                    "XGB_Predicted_Rainfall", "Ensemble_Predicted_Rainfall"]].corr()
+sns.heatmap(corr_matrix, annot=True, cmap="coolwarm", ax=axes[1, 1])
+axes[1, 1].set_title("Model Predictions Correlation")
+
+plt.tight_layout()
+plt.show()
+
+
+print("Processing completed!")
+print("Full predictions saved to: telangana_rainfall_with_all_predictions.csv")
+print("District summaries saved to: district_wise_model_predictions.csv")
+
+#visualization
+plt.figure(figsize=(12, 6))  # Adjust figure size as needed
+sns.barplot(x=merged_data["District"], y=merged_data["Ensemble_Predicted_Rainfall"])
+plt.title("District-wise Average Rainfall Predictions")
+plt.xlabel("Districts")
+plt.ylabel("Rainfall (mm)")
+plt.xticks(rotation=90)  # Rotate x-axis labels for better readability
+plt.show()
+
+# --- Block 4: Model Correlation Heatmap ---
+plt.figure(figsize=(8, 6))  # Adjust figure size as needed
+corr_matrix = df[["SVM_Predicted_Rainfall", "RF_Predicted_Rainfall",
+                    "XGB_Predicted_Rainfall", "Ensemble_Predicted_Rainfall"]].corr()
+sns.heatmap(corr_matrix, annot=True, cmap="coolwarm")
+plt.title("Model Predictions Correlation")
+plt.show()
+
+#ensemble
+import geopandas as gpd
+import matplotlib.pyplot as plt
+import contextily as ctx
+
+
+
+# Geospatial Visualization with customizations
+fig, ax = plt.subplots(1, 1, figsize=(10, 10))
+
+# Plot the districts with dark outer borders
+merged_data.plot(column="Ensemble_Predicted_Rainfall", ax=ax, legend=True,
+                 cmap="viridis", edgecolor="black", linewidth=1.5)  # Adjust linewidth for border thickness
+
+ax.set_title("Ensemble Rainfall Predictions by District")
+
+# Add basemap
+ctx.add_basemap(ax, crs=merged_data.crs.to_string(), source=ctx.providers.OpenStreetMap.Mapnik)
+
+# Display only inner names (district names inside the polygons)
+for x, y, label in zip(merged_data.geometry.centroid.x, merged_data.geometry.centroid.y, merged_data["District"]):
+    ax.text(x, y, label, fontsize=8, ha='center', va='center')  # Adjust fontsize as needed
+
+# Remove the axis
+ax.set_axis_off()
+
+plt.show()
+
+
+#for map
+import geopandas as gpd
+import matplotlib.pyplot as plt
+import contextily as ctx
+
+# ... (Your previous code for data loading, model training, and merging) ...
+
+# Geospatial Visualization with customizations
+fig, ax = plt.subplots(1, 1, figsize=(10, 10))
+
+# Plot the districts with dark outer borders
+merged_data.plot(column="Ensemble_Predicted_Rainfall", ax=ax, legend=True,
+                 cmap="viridis", edgecolor="black", linewidth=1.5)  # Adjust linewidth for border thickness
+
+ax.set_title("Ensemble Rainfall Predictions by District")
+
+# Add basemap
+ctx.add_basemap(ax, crs=merged_data.crs.to_string(), source=ctx.providers.OpenStreetMap.Mapnik)
+
+# Display only inner names (district names inside the polygons)
+for x, y, label in zip(merged_data.geometry.centroid.x, merged_data.geometry.centroid.y, merged_data["District"]):
+    ax.text(x, y, label, fontsize=8, ha='center', va='center')  # Adjust fontsize as needed
+
+# Remove the axis
+ax.set_axis_off()
+
+plt.show()
+#svm,RF,xgboost
+import geopandas as gpd
+import matplotlib.pyplot as plt
+import contextily as ctx
+
+# Load Telangana shapefile
+telangana_shapefile = gpd.read_file("/content/TS_District_Boundary_33_FINAL.shp")  # Replace with your shapefile path
+# Merge district stats with shapefile
+merged_data = telangana_shapefile.merge(district_stats, left_on="DISTRICT_N", right_on="District")
+
+# Create subplots and plot district boundaries
+fig, axes = plt.subplots(1, 3, figsize=(20, 8)) # 1 row, 3 columns for SVM, RF, and XGB
+
+for i, model in enumerate(["SVM_Predicted_Rainfall", "RF_Predicted_Rainfall", "XGB_Predicted_Rainfall"]):
+    ax = axes[i]
+    merged_data.plot(column=model, ax=ax, legend=True, cmap="viridis", edgecolor="black", linewidth=0.5)
+    ax.set_title(f"{model.split('_')[0]} Rainfall Predictions")  # Extract model name from column
+    ctx.add_basemap(ax, crs=merged_data.crs.to_string(), source=ctx.providers.OpenStreetMap.Mapnik)
+    ax.set_axis_off()
+
+plt.tight_layout()
+plt.show()
+#metrics
+from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
+import numpy as np
+
+# Calculate metrics for SVM
+svm_mse = mean_squared_error(y_test, svm_model.predict(X_test))
+svm_rmse = np.sqrt(svm_mse)
+svm_r2 = r2_score(y_test, svm_model.predict(X_test))
+svm_mae = mean_absolute_error(y_test, svm_model.predict(X_test))
+
+# Calculate metrics for Random Forest
+rf_mse = mean_squared_error(y_test, rf_model.predict(X_test))
+rf_rmse = np.sqrt(rf_mse)
+rf_r2 = r2_score(y_test, rf_model.predict(X_test))
+rf_mae = mean_absolute_error(y_test, rf_model.predict(X_test))
+
+# Calculate metrics for XGBoost
+xgb_mse = mean_squared_error(y_test, xgb_model.predict(X_test))
+xgb_rmse = np.sqrt(xgb_mse)
+xgb_r2 = r2_score(y_test, xgb_model.predict(X_test))
+xgb_mae = mean_absolute_error(y_test, xgb_model.predict(X_test))
+
+# Calculate metrics for Ensemble
+ensemble_mse = mean_squared_error(y_test, ensemble_pred[len(y_train):])  # Use only the test set portion of predictions
+ensemble_rmse = np.sqrt(ensemble_mse)
+ensemble_r2 = r2_score(y_test, ensemble_pred[len(y_train):])  # Use only the test set portion of predictions
+ensemble_mae = mean_absolute_error(y_test, ensemble_pred[len(y_train):])  # Use only the test set portion of predictions
+
+
+
+# Display the performance metrics
+print("Model\t\tMSE\t\tRMSE\t\tR-squared\t\tMAE")
+print("-----------------------------------------------------------------------")
+print(f"SVM\t\t{svm_mse:.4f}\t\t{svm_rmse:.4f}\t\t{svm_r2:.4f}\t\t{svm_mae:.4f}")
+print(f"Random Forest\t{rf_mse:.4f}\t\t{rf_rmse:.4f}\t\t{rf_r2:.4f}\t\t{rf_mae:.4f}")
+print(f"XGBoost\t\t{xgb_mse:.4f}\t\t{xgb_rmse:.4f}\t\t{xgb_r2:.4f}\t\t{xgb_mae:.4f}")
+print(f"Ensemble\t{ensemble_mse:.4f}\t\t{ensemble_rmse:.4f}\t\t{ensemble_r2:.4f}\t\t{ensemble_mae:.4f}")
+#result
+#!pip install contextily
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import LabelEncoder
+from sklearn.svm import SVR
+from sklearn.ensemble import RandomForestRegressor
+from xgboost import XGBRegressor
+import numpy as np
+import geopandas as gpd
+import contextily as ctx  # For basemaps
+from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
+
+# Load the dataset
+file_path = "tsfinal.csv"
+df = pd.read_csv(file_path)
+
+# Encode categorical variables (District and Month)
+label_encoders = {}
+for col in ["District", "Month"]:
+    le = LabelEncoder()
+    df[col] = le.fit_transform(df[col])
+    label_encoders[col] = le
+
+# Define features and target
+X = df.drop(columns=["Rainfall (mm)"])
+y = df["Rainfall (mm)"]
+
+# Split the dataset
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Initialize models
+svm_model = SVR()
+rf_model = RandomForestRegressor(n_estimators=50, random_state=42)
+# Initialize XGBoost with eval_metric
+xgb_model = XGBRegressor(n_estimators=30, random_state=42, eval_metric='rmse')
+
+# --- Training with loss tracking ---
+
+# 1. SVM (using a loop to track loss after each epoch/iteration)
+svm_loss = []
+num_epochs = 10  # Or any desired number of iterations
+for epoch in range(num_epochs):
+    svm_model.fit(X_train, y_train)  # Assuming partial_fit is not available
+    svm_pred = svm_model.predict(X_train)
+    loss = mean_squared_error(y_train, svm_pred) # using MSE for example
+    svm_loss.append(loss)
+
+# 2. Random Forest (tracking loss for different tree counts)
+rf_loss = []
+tree_counts = [10, 20, 30, 40, 50]  # Or a range of tree counts
+for n_trees in tree_counts:
+    # Update rf_model instead of creating a temporary one
+    rf_model = RandomForestRegressor(n_estimators=n_trees, random_state=42)
+    rf_model.fit(X_train, y_train)
+    rf_pred = rf_model.predict(X_train)
+    loss = mean_squared_error(y_train, rf_pred) # using MSE for example
+    rf_loss.append(loss)
+
+# 3. XGBoost (using eval_set and eval_metric within fit)
+# Fit the XGBoost model
+xgb_model.fit(X_train, y_train, eval_set=[(X_train, y_train)])
+eval_results = xgb_model.evals_result()
+xgb_loss = eval_results['validation_0']['rmse']
+
+# --- Plotting Loss Curves ---
+plt.figure(figsize=(12, 6))
+
+plt.subplot(1, 3, 1)
+plt.plot(range(1, num_epochs + 1), svm_loss)
+plt.title('SVM Loss Curve')
+plt.xlabel('Epoch')
+plt.ylabel('Loss (MSE)')
+
+plt.subplot(1, 3, 2)
+plt.plot(tree_counts, rf_loss)
+plt.title('Random Forest Loss Curve')
+plt.xlabel('Number of Trees')
+plt.ylabel('Loss (MSE)')
+
+plt.subplot(1, 3, 3)
+plt.plot(xgb_loss)
+plt.title('XGBoost Loss Curve')
+plt.xlabel('Epoch')
+plt.ylabel('Loss (RMSE)')
+
+plt.tight_layout()
+plt.show()
+
+
+
+# Generate predictions for all models
+svm_pred = svm_model.predict(X)
+rf_pred = rf_model.predict(X)
+xgb_pred = xgb_model.predict(X)
+
+# Calculate ensemble prediction
+ensemble_pred = np.mean([svm_pred, rf_pred, xgb_pred], axis=0)
+
+# Add all predictions to dataframe
+df["SVM_Predicted_Rainfall"] = svm_pred
+df["RF_Predicted_Rainfall"] = rf_pred
+df["XGB_Predicted_Rainfall"] = xgb_pred
+df["Ensemble_Predicted_Rainfall"] = ensemble_pred
+
+# Save enhanced dataset
+df.to_csv("telangana_rainfall_with_all_predictions.csv", index=False)
+
+# Create district-wise summary statistics
+district_stats = df.groupby("District").agg({
+    "SVM_Predicted_Rainfall": "mean",
+    "RF_Predicted_Rainfall": "mean",
+    "XGB_Predicted_Rainfall": "mean",
+    "Ensemble_Predicted_Rainfall": "mean"
+}).reset_index()
+
+# Decode district numbers back to names
+district_stats["District"] = label_encoders["District"].inverse_transform(district_stats["District"])
+district_stats.to_csv("district_wise_model_predictions.csv", index=False)
+
+# Load Telangana district shapefile
+telangana_shapefile = gpd.read_file("/content/TS_District_Boundary_33_FINAL.shp")  # Replace with your shapefile path
+
+# Convert 'DISTRICT_N' to string in telangana_shapefile
+telangana_shapefile['DISTRICT_N'] = telangana_shapefile['DISTRICT_N'].astype(str)
+
+# --- 1. Prepare df for merging (grouping by District and averaging Rainfall) ---
+# Group by 'District' and calculate the average rainfall for each district
+actual_rainfall_by_district = df.groupby('District')['Rainfall (mm)'].mean().reset_index()
+
+# --- 2. Decode District numbers to names in actual_rainfall_by_district ---
+# If 'District' in actual_rainfall_by_district is encoded (numbers), decode it to names
+if actual_rainfall_by_district['District'].dtype != 'object':
+    actual_rainfall_by_district['District'] = label_encoders['District'].inverse_transform(actual_rainfall_by_district['District'])
+    actual_rainfall_by_district['District'] = actual_rainfall_by_district['District'].astype(str)  # Convert to string
+
+# --- 3. Merge actual_rainfall_by_district with shapefile ---
+merged_data_actual = telangana_shapefile.merge(actual_rainfall_by_district, left_on="DISTRICT_N", right_on="District")
+
+# --- Ensure 'District' is string in district_stats ---
+if district_stats['District'].dtype != 'object':
+    district_stats['District'] = district_stats['District'].astype(str)
+# --- End of District column check in district_stats ---
+
+# Merge predicted rainfall data with the shapefile
+merged_data = telangana_shapefile.merge(district_stats, left_on="DISTRICT_N", right_on="District")
+
+# Create subplots for actual and predicted rainfall
+fig, axes = plt.subplots(1, 2, figsize=(15, 8))
+
+# Plot actual rainfall
+merged_data_actual.plot(column="Rainfall (mm)", ax=axes[0], legend=True, cmap="viridis", edgecolor="black", linewidth=0.5)
+axes[0].set_title("Actual Rainfall")
+ctx.add_basemap(axes[0], crs=merged_data_actual.crs.to_string(), source=ctx.providers.OpenStreetMap.Mapnik)
+axes[0].set_axis_off()
+
+# Plot predicted rainfall (Ensemble prediction used here, change if needed)
+merged_data.plot(column="Ensemble_Predicted_Rainfall", ax=axes[1], legend=True, cmap="viridis", edgecolor="black", linewidth=0.5)
+axes[1].set_title("Predicted Rainfall (Ensemble)")
+ctx.add_basemap(axes[1], crs=merged_data.crs.to_string(), source=ctx.providers.OpenStreetMap.Mapnik)
+axes[1].set_axis_off()
+
+plt.tight_layout()
+plt.show()
+

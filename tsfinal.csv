@@ -1,0 +1,3008 @@
+District,Month,Rainfall (mm),Temperature (°C),Humidity (%),Year
+Rangareddy,June,118.78,26.5,46.0,2023
+Khammam,March,10.76,16.6,84.0,2018
+Jogulamba Gadwal,March,12.31,22.1,40.0,2022
+Nizamabad,March,17.11,23.9,27.0,2021
+Yadadri Bhuvanagiri,May,31.42,17.0,36.0,2021
+Rangareddy,February,6.74,24.9,74.0,2023
+Nalgonda,January,10.47,35.4,47.0,2020
+Mulugu,October,92.85,16.8,90.0,2015
+Khammam,October,89.45,16.6,62.0,2025
+Mahabubnagar,June,120.5,17.8,54.0,2015
+Mancherial,July,193.98,29.1,64.0,2019
+Adilabad,February,6.26,31.7,88.0,2015
+Jogulamba Gadwal,November,17.94,17.6,52.0,2024
+Nizamabad,February,6.4,32.2,25.0,2024
+Wanaparthy,September,138.74,41.2,63.0,2021
+Vikarabad,September,136.9,30.8,23.0,2016
+Mahabubnagar,March,12.49,19.3,82.0,2022
+Nirmal,June,121.75,24.4,91.0,2020
+Yadadri Bhuvanagiri,February,7.78,42.8,76.0,2021
+Mulugu,September,133.88,41.8,62.0,2018
+Hanamkonda,September,136.3,42.6,61.0,2021
+Mahabubabad,December,8.75,16.2,63.0,2019
+Rajanna Sircilla,June,117.29,29.4,78.0,2015
+Khammam,December,4.48,26.4,68.0,2020
+Hyderabad,February,6.07,39.8,74.0,2023
+Kumurambheem Asifabad,November,21.07,19.7,71.0,2017
+Kamareddy,June,117.93,17.5,25.0,2016
+Nirmal,July,194.85,30.1,37.0,2019
+Mulugu,July,193.09,35.2,43.0,2016
+Adilabad,February,2.97,21.8,57.0,2018
+Adilabad,October,85.27,42.0,36.0,2018
+Kumurambheem Asifabad,July,196.16,42.8,51.0,2016
+Rajanna Sircilla,November,18.47,24.9,24.0,2015
+Kamareddy,February,6.24,39.2,51.0,2022
+Sangareddy,February,5.35,44.9,74.0,2022
+Suryapet,October,90.8,35.4,22.0,2017
+Kumurambheem Asifabad,December,2.42,27.9,20.0,2025
+Mancherial,March,13.13,19.5,79.0,2023
+Hanamkonda,February,7.3,41.4,41.0,2021
+Nalgonda,August,189.45,39.8,95.0,2015
+Adilabad,August,190.03,32.7,37.0,2023
+Jagtial,August,190.61,22.7,71.0,2025
+Nizamabad,January,8.31,43.0,39.0,2016
+Yadadri Bhuvanagiri,September,136.25,27.3,87.0,2018
+Nalgonda,September,135.9,23.5,44.0,2015
+Adilabad,October,90.91,36.0,84.0,2021
+Rajanna Sircilla,June,116.77,32.7,42.0,2018
+Medak,November,23.59,27.8,70.0,2019
+Wanaparthy,March,7.51,40.8,64.0,2015
+Wanaparthy,January,9.24,36.8,85.0,2020
+Rajanna Sircilla,November,18.39,28.2,73.0,2019
+Mahabubnagar,October,97.79,41.2,29.0,2023
+Wanaparthy,September,139.33,31.4,32.0,2022
+Nagarkurnool,March,12.07,21.2,83.0,2020
+Nalgonda,May,30.66,16.0,82.0,2015
+Kamareddy,December,4.46,18.2,97.0,2022
+Nalgonda,May,30.74,15.8,47.0,2018
+Nagarkurnool,June,121.53,25.1,54.0,2019
+Vikarabad,September,139.67,30.7,31.0,2020
+Jogulamba Gadwal,October,91.27,22.8,82.0,2023
+Karimnagar,January,7.34,30.7,99.0,2021
+Mahabubabad,February,6.63,25.2,42.0,2022
+Khammam,May,31.41,42.5,36.0,2020
+Jagtial,January,9.43,20.7,87.0,2025
+Mahabubnagar,January,9.61,18.2,92.0,2024
+Kamareddy,May,30.15,43.2,55.0,2025
+Suryapet,June,119.38,32.0,23.0,2015
+Vikarabad,November,15.24,17.1,41.0,2022
+Vikarabad,July,191.52,37.8,82.0,2024
+Mancherial,May,31.41,17.9,89.0,2018
+Nagarkurnool,October,91.95,18.6,90.0,2017
+Kamareddy,July,195.92,16.1,55.0,2025
+Yadadri Bhuvanagiri,July,195.41,37.0,98.0,2023
+Wanaparthy,November,18.71,36.9,70.0,2017
+Hanamkonda,March,13.8,28.4,76.0,2022
+Nalgonda,August,189.68,36.5,47.0,2020
+Siddipet,February,7.35,15.9,62.0,2023
+Mahabubnagar,May,32.66,42.1,81.0,2016
+Nagarkurnool,July,191.29,43.6,68.0,2024
+Rangareddy,May,31.64,29.5,79.0,2020
+Mancherial,November,21.09,18.8,45.0,2017
+Khammam,June,122.75,18.8,31.0,2021
+Siddipet,February,3.82,30.4,76.0,2016
+Yadadri Bhuvanagiri,September,139.44,37.4,81.0,2022
+Mancherial,May,31.16,34.5,78.0,2015
+Mahabubabad,February,5.96,27.3,87.0,2016
+Sangareddy,November,15.13,38.0,24.0,2018
+Kamareddy,June,117.74,18.9,56.0,2023
+Sangareddy,February,7.18,43.9,97.0,2016
+Nizamabad,March,13.83,43.6,61.0,2020
+Nirmal,November,13.88,35.7,20.0,2018
+Mulugu,January,11.58,25.4,92.0,2025
+Jagtial,November,18.87,25.1,59.0,2025
+Sangareddy,September,137.15,31.3,68.0,2017
+Khammam,April,17.65,45.0,25.0,2017
+Mulugu,January,11.86,34.6,90.0,2023
+Sangareddy,December,8.28,15.4,24.0,2015
+Mahabubnagar,May,33.33,42.3,68.0,2023
+Nalgonda,January,8.7,30.8,61.0,2018
+Sangareddy,January,9.79,30.6,39.0,2025
+Karimnagar,December,7.51,24.6,48.0,2022
+Siddipet,February,6.7,28.4,80.0,2020
+Nalgonda,August,190.01,31.2,37.0,2021
+Vikarabad,September,136.61,44.2,24.0,2022
+Rangareddy,February,3.49,27.8,23.0,2022
+Jogulamba Gadwal,October,91.77,39.8,46.0,2018
+Mancherial,July,190.64,20.1,39.0,2020
+Mahabubabad,December,5.44,30.3,23.0,2015
+Hanamkonda,June,119.67,34.8,20.0,2025
+Jagtial,October,93.69,16.9,73.0,2019
+Khammam,October,91.85,26.2,31.0,2019
+Mahabubnagar,March,16.28,32.2,95.0,2023
+Hanamkonda,February,4.8,31.6,23.0,2019
+Kumurambheem Asifabad,July,193.25,26.1,70.0,2016
+Siddipet,October,90.92,44.7,61.0,2015
+Sangareddy,December,6.11,43.0,100.0,2024
+Rajanna Sircilla,June,119.54,33.8,90.0,2018
+Vikarabad,April,19.12,16.1,91.0,2018
+Hanamkonda,December,2.89,16.0,93.0,2022
+Nizamabad,June,119.75,34.0,57.0,2015
+Rajanna Sircilla,May,30.54,22.6,49.0,2017
+Wanaparthy,July,190.79,19.4,31.0,2021
+Jagtial,March,13.88,31.5,86.0,2020
+Kumurambheem Asifabad,November,22.67,25.6,81.0,2023
+Mulugu,May,34.44,20.8,29.0,2019
+Yadadri Bhuvanagiri,February,5.9,43.0,37.0,2017
+Hanamkonda,December,5.46,27.0,51.0,2015
+Jogulamba Gadwal,November,18.34,18.5,55.0,2024
+Nagarkurnool,October,93.18,38.2,87.0,2019
+Jogulamba Gadwal,February,5.91,23.2,32.0,2020
+Hanamkonda,January,6.58,21.4,63.0,2018
+Suryapet,June,120.36,33.9,46.0,2015
+Jagtial,December,3.28,32.2,96.0,2015
+Mancherial,November,17.68,17.0,66.0,2021
+Sangareddy,June,118.85,38.4,51.0,2015
+Mulugu,September,137.8,26.5,51.0,2016
+Nalgonda,June,123.01,37.2,80.0,2019
+Mahabubabad,November,17.07,40.9,43.0,2017
+Mahabubabad,October,92.79,42.8,79.0,2019
+Rangareddy,April,18.48,32.5,72.0,2016
+Hanamkonda,February,5.95,24.6,100.0,2023
+Nagarkurnool,June,120.48,18.6,88.0,2023
+Kamareddy,November,20.57,36.2,66.0,2022
+Nizamabad,December,5.48,37.2,53.0,2018
+Khammam,September,134.3,17.5,58.0,2021
+Mahabubnagar,December,4.41,24.5,78.0,2023
+Nizamabad,July,190.99,25.5,93.0,2024
+Karimnagar,March,14.45,26.3,85.0,2021
+Kamareddy,November,19.3,24.2,66.0,2024
+Kamareddy,January,3.49,37.6,85.0,2017
+Jogulamba Gadwal,December,2.93,15.4,98.0,2025
+Rangareddy,June,119.3,23.3,27.0,2025
+Sangareddy,March,9.83,18.5,32.0,2016
+Peddapalli,October,93.3,24.6,47.0,2019
+Adilabad,July,195.53,44.0,24.0,2022
+Jogulamba Gadwal,August,192.5,41.7,72.0,2022
+Jogulamba Gadwal,July,192.32,18.0,85.0,2016
+Hyderabad,May,33.51,15.2,83.0,2022
+Wanaparthy,January,7.52,15.7,64.0,2022
+Peddapalli,October,92.5,41.3,78.0,2024
+Kamareddy,October,92.8,41.9,59.0,2019
+Sangareddy,August,192.16,15.3,100.0,2023
+Wanaparthy,June,118.85,28.9,88.0,2020
+Yadadri Bhuvanagiri,June,119.44,18.6,72.0,2018
+Kamareddy,December,7.12,19.4,43.0,2019
+Kamareddy,November,16.35,16.1,88.0,2019
+Vikarabad,April,21.63,31.7,49.0,2021
+Hyderabad,February,3.56,45.0,51.0,2018
+Peddapalli,September,140.37,31.3,48.0,2024
+Nizamabad,April,20.2,43.9,100.0,2018
+Medak,October,91.15,19.2,51.0,2024
+Khammam,January,9.47,40.8,77.0,2024
+Medak,January,7.98,43.1,30.0,2017
+Hanamkonda,June,118.02,24.0,46.0,2016
+Sangareddy,April,19.56,34.5,75.0,2016
+Yadadri Bhuvanagiri,August,192.55,30.5,76.0,2022
+Rajanna Sircilla,June,115.74,42.5,20.0,2025
+Mulugu,December,3.04,27.5,58.0,2019
+Nagarkurnool,November,18.08,21.1,73.0,2022
+Siddipet,December,10.27,42.8,45.0,2020
+Nagarkurnool,December,3.25,29.9,32.0,2018
+Rajanna Sircilla,January,8.9,23.2,71.0,2020
+Yadadri Bhuvanagiri,December,4.27,27.7,91.0,2024
+Nalgonda,January,9.89,36.4,79.0,2016
+Yadadri Bhuvanagiri,February,3.73,26.8,32.0,2020
+Kumurambheem Asifabad,June,116.49,26.8,46.0,2025
+Wanaparthy,July,192.29,22.2,85.0,2015
+Peddapalli,June,119.8,23.2,100.0,2018
+Mulugu,July,193.06,32.7,57.0,2021
+Peddapalli,March,14.29,31.0,37.0,2022
+Hanamkonda,February,10.05,43.2,87.0,2018
+Mahabubabad,May,32.61,23.9,52.0,2017
+Nizamabad,June,118.58,16.0,94.0,2023
+Jagtial,November,23.87,34.2,68.0,2022
+Nalgonda,July,192.04,29.1,67.0,2016
+Medak,February,5.84,23.7,98.0,2019
+Adilabad,January,11.24,26.8,99.0,2022
+Rangareddy,December,4.88,26.4,52.0,2024
+Khammam,January,8.27,22.5,72.0,2018
+Hyderabad,November,18.08,23.1,42.0,2024
+Jagtial,July,195.32,30.9,22.0,2025
+Wanaparthy,December,3.81,23.3,65.0,2015
+Khammam,December,4.87,42.9,41.0,2021
+Kumurambheem Asifabad,October,93.74,31.2,53.0,2016
+Mulugu,September,136.16,32.5,37.0,2020
+Suryapet,November,16.79,33.4,34.0,2022
+Siddipet,June,115.69,36.8,34.0,2021
+Nirmal,April,15.94,26.8,31.0,2015
+Rajanna Sircilla,April,12.3,31.4,84.0,2015
+Rangareddy,July,187.36,43.9,86.0,2025
+Hyderabad,August,193.63,25.3,80.0,2016
+Rangareddy,March,13.56,41.8,57.0,2016
+Medak,March,10.03,31.5,58.0,2016
+Medak,January,7.74,17.1,72.0,2017
+Suryapet,December,2.34,35.6,62.0,2022
+Kumurambheem Asifabad,May,33.22,19.0,41.0,2022
+Nizamabad,April,15.29,29.1,49.0,2016
+Medak,September,134.97,22.6,48.0,2025
+Rangareddy,May,29.88,30.6,90.0,2015
+Hanamkonda,April,16.19,39.2,81.0,2019
+Mahabubnagar,January,6.52,18.5,57.0,2024
+Hanamkonda,July,191.87,38.9,49.0,2016
+Hanamkonda,September,138.19,19.9,54.0,2016
+Peddapalli,February,4.69,40.7,86.0,2017
+Mancherial,October,90.57,17.2,69.0,2018
+Mahabubabad,February,4.77,35.3,37.0,2025
+Mancherial,November,22.87,41.3,88.0,2019
+Rangareddy,October,91.61,21.8,57.0,2016
+Rajanna Sircilla,November,18.92,41.1,60.0,2021
+Mulugu,May,34.83,36.6,98.0,2016
+Wanaparthy,April,18.6,40.5,87.0,2017
+Peddapalli,August,190.15,19.9,78.0,2019
+Karimnagar,August,193.72,38.4,61.0,2022
+Nalgonda,February,7.28,25.4,27.0,2015
+Kamareddy,February,7.39,24.3,55.0,2023
+Jogulamba Gadwal,April,16.82,18.1,55.0,2018
+Medak,October,94.33,42.7,65.0,2025
+Sangareddy,September,134.51,43.1,70.0,2017
+Rajanna Sircilla,May,27.76,41.0,71.0,2020
+Peddapalli,May,29.91,38.5,28.0,2019
+Jagtial,November,17.58,22.2,52.0,2019
+Jogulamba Gadwal,March,16.4,19.9,100.0,2025
+Suryapet,December,5.92,41.8,27.0,2020
+Adilabad,October,92.8,29.2,96.0,2019
+Rangareddy,June,116.25,31.3,55.0,2015
+Karimnagar,December,3.44,22.8,38.0,2018
+Sangareddy,December,5.47,38.1,78.0,2015
+Mulugu,March,15.55,27.9,55.0,2023
+Rajanna Sircilla,August,188.45,41.9,47.0,2019
+Khammam,December,4.82,33.9,93.0,2019
+Sangareddy,January,8.62,34.0,80.0,2020
+Adilabad,August,192.3,24.6,53.0,2015
+Khammam,April,17.12,37.5,62.0,2015
+Adilabad,April,19.56,24.2,78.0,2019
+Mulugu,October,92.99,18.4,46.0,2022
+Nagarkurnool,May,31.18,44.9,44.0,2025
+Nagarkurnool,February,3.51,29.5,67.0,2017
+Nirmal,December,2.69,30.4,64.0,2016
+Mahabubabad,December,5.94,29.1,89.0,2018
+Nirmal,December,3.11,30.8,90.0,2015
+Khammam,May,29.67,40.0,91.0,2024
+Jagtial,March,13.99,26.5,25.0,2021
+Nagarkurnool,February,7.97,17.5,81.0,2022
+Kamareddy,January,9.26,24.1,20.0,2024
+Nizamabad,October,94.23,30.7,94.0,2025
+Vikarabad,June,120.19,34.3,93.0,2019
+Khammam,September,135.77,15.9,93.0,2023
+Karimnagar,May,32.54,19.1,75.0,2017
+Hanamkonda,March,11.69,35.2,62.0,2025
+Kumurambheem Asifabad,November,15.45,16.4,91.0,2022
+Adilabad,July,192.2,22.6,69.0,2018
+Kamareddy,August,190.43,15.1,87.0,2023
+Yadadri Bhuvanagiri,December,3.58,30.5,52.0,2024
+Mancherial,January,7.01,36.8,26.0,2020
+Sangareddy,July,196.19,40.5,67.0,2020
+Nagarkurnool,October,94.19,23.5,84.0,2024
+Jogulamba Gadwal,April,17.28,40.7,52.0,2025
+Jogulamba Gadwal,April,18.49,39.9,72.0,2024
+Nalgonda,August,191.23,27.9,84.0,2021
+Jagtial,November,15.41,32.8,63.0,2016
+Jagtial,August,190.78,35.7,42.0,2025
+Nirmal,June,117.39,16.0,91.0,2020
+Suryapet,August,193.05,22.5,75.0,2020
+Nizamabad,December,7.51,18.8,24.0,2016
+Adilabad,January,10.91,23.7,85.0,2019
+Wanaparthy,April,16.88,24.4,96.0,2023
+Rajanna Sircilla,February,6.84,43.9,42.0,2018
+Peddapalli,February,4.89,28.0,24.0,2024
+Yadadri Bhuvanagiri,August,188.04,20.6,85.0,2020
+Karimnagar,December,4.07,21.3,91.0,2022
+Wanaparthy,June,121.18,40.4,28.0,2017
+Nizamabad,January,10.34,25.1,92.0,2022
+Hanamkonda,September,138.09,43.7,67.0,2016
+Mahabubnagar,August,192.3,28.5,39.0,2022
+Jogulamba Gadwal,March,11.82,29.7,77.0,2015
+Rajanna Sircilla,March,13.34,39.7,56.0,2021
+Hanamkonda,September,139.52,23.9,37.0,2017
+Jagtial,February,6.93,40.9,76.0,2024
+Siddipet,August,194.01,29.7,85.0,2019
+Rangareddy,August,190.85,32.1,58.0,2021
+Nizamabad,January,9.54,18.2,82.0,2023
+Rajanna Sircilla,March,13.2,24.4,21.0,2025
+Mancherial,August,189.12,28.2,95.0,2022
+Jogulamba Gadwal,June,118.1,28.2,68.0,2024
+Khammam,February,8.53,19.8,43.0,2016
+Jogulamba Gadwal,January,9.78,31.4,70.0,2018
+Adilabad,June,119.27,38.5,99.0,2023
+Peddapalli,July,191.04,22.7,77.0,2021
+Kumurambheem Asifabad,May,30.85,39.2,57.0,2022
+Hyderabad,June,120.66,18.4,78.0,2024
+Jogulamba Gadwal,January,8.61,23.2,67.0,2015
+Mulugu,November,19.98,42.8,34.0,2020
+Kumurambheem Asifabad,March,12.34,29.7,73.0,2018
+Nagarkurnool,March,14.96,19.7,22.0,2024
+Nalgonda,July,190.73,28.0,26.0,2020
+Rangareddy,April,19.31,35.2,44.0,2019
+Adilabad,January,7.56,33.7,100.0,2022
+Mancherial,May,31.11,35.0,93.0,2020
+Hanamkonda,November,19.21,24.7,92.0,2021
+Vikarabad,October,90.46,43.4,52.0,2023
+Jogulamba Gadwal,June,117.33,43.5,42.0,2025
+Kumurambheem Asifabad,September,136.34,42.8,81.0,2020
+Jogulamba Gadwal,June,120.14,40.6,52.0,2015
+Jagtial,December,6.8,34.6,73.0,2023
+Rajanna Sircilla,May,29.77,33.2,51.0,2015
+Nirmal,June,122.12,36.4,58.0,2023
+Kumurambheem Asifabad,January,10.74,43.0,35.0,2019
+Adilabad,August,190.68,18.3,79.0,2024
+Rangareddy,January,8.23,32.3,26.0,2019
+Mancherial,February,8.82,35.0,79.0,2020
+Nirmal,July,194.25,28.3,98.0,2024
+Mahabubnagar,April,19.36,24.9,43.0,2021
+Hyderabad,December,8.59,39.2,95.0,2024
+Mulugu,July,195.82,19.2,67.0,2015
+Jagtial,September,136.66,36.1,79.0,2023
+Nagarkurnool,October,87.6,36.2,33.0,2021
+Suryapet,February,5.96,32.4,39.0,2021
+Mulugu,April,18.36,22.1,64.0,2018
+Adilabad,April,20.49,15.9,78.0,2018
+Medak,December,3.39,18.9,81.0,2020
+Hyderabad,March,11.29,43.8,63.0,2017
+Adilabad,December,5.74,38.1,32.0,2023
+Peddapalli,September,138.07,17.3,39.0,2015
+Mahabubabad,October,91.08,32.5,58.0,2022
+Rajanna Sircilla,April,17.61,29.1,58.0,2025
+Kamareddy,November,17.74,34.8,99.0,2018
+Karimnagar,May,34.21,15.9,25.0,2022
+Kamareddy,November,15.71,22.5,39.0,2024
+Yadadri Bhuvanagiri,July,192.05,35.5,29.0,2021
+Kamareddy,January,6.48,31.9,29.0,2017
+Nalgonda,November,19.24,16.0,25.0,2020
+Nagarkurnool,November,22.57,23.7,97.0,2020
+Suryapet,December,3.91,42.8,50.0,2015
+Vikarabad,September,137.5,33.2,47.0,2015
+Medak,February,5.35,29.5,57.0,2019
+Jagtial,May,31.76,42.0,95.0,2024
+Vikarabad,May,32.28,22.7,96.0,2021
+Karimnagar,June,117.72,19.9,22.0,2018
+Nalgonda,October,90.04,37.8,99.0,2018
+Hanamkonda,May,31.4,41.1,66.0,2018
+Jogulamba Gadwal,May,31.11,15.8,53.0,2017
+Medak,August,190.94,29.1,85.0,2018
+Medak,December,7.39,36.7,61.0,2020
+Wanaparthy,December,4.5,30.4,47.0,2021
+Sangareddy,November,18.49,16.5,78.0,2022
+Mahabubabad,June,120.83,33.6,96.0,2023
+Wanaparthy,February,4.61,35.0,74.0,2020
+Jogulamba Gadwal,December,7.64,28.9,80.0,2025
+Hyderabad,August,191.53,19.2,54.0,2019
+Rangareddy,December,6.41,17.2,39.0,2020
+Mancherial,July,195.03,22.0,57.0,2021
+Nalgonda,November,14.63,15.8,74.0,2015
+Suryapet,April,17.17,24.6,38.0,2016
+Suryapet,December,2.52,18.5,88.0,2024
+Nirmal,October,93.79,15.3,91.0,2024
+Mulugu,July,192.43,40.8,27.0,2019
+Nirmal,February,3.99,30.6,100.0,2023
+Hanamkonda,September,138.41,37.5,43.0,2017
+Jagtial,May,29.93,44.7,97.0,2015
+Jagtial,August,192.15,25.6,50.0,2024
+Peddapalli,August,187.18,38.6,54.0,2022
+Jagtial,October,89.29,41.1,21.0,2017
+Mahabubnagar,February,3.04,20.2,36.0,2022
+Adilabad,January,10.92,22.0,49.0,2018
+Jagtial,June,118.78,43.7,24.0,2022
+Wanaparthy,June,119.4,27.3,60.0,2016
+Wanaparthy,April,16.81,18.4,73.0,2023
+Nalgonda,October,93.06,33.2,52.0,2017
+Nagarkurnool,June,121.85,35.0,27.0,2022
+Nagarkurnool,July,194.68,19.8,50.0,2018
+Jogulamba Gadwal,May,30.29,36.3,77.0,2017
+Hanamkonda,April,18.38,30.9,26.0,2018
+Mahabubnagar,February,4.1,35.6,67.0,2015
+Hanamkonda,August,188.21,38.7,51.0,2017
+Hanamkonda,September,137.11,16.6,26.0,2024
+Hanamkonda,March,10.89,43.8,96.0,2025
+Rangareddy,March,11.88,26.5,61.0,2017
+Rangareddy,December,6.47,18.3,96.0,2024
+Mulugu,December,3.64,33.3,60.0,2025
+Nagarkurnool,November,12.53,24.6,66.0,2019
+Jogulamba Gadwal,January,7.95,17.1,65.0,2017
+Mahabubnagar,December,5.39,25.8,36.0,2015
+Adilabad,November,19.87,40.0,55.0,2024
+Peddapalli,November,22.96,41.7,99.0,2022
+Rajanna Sircilla,August,189.55,36.9,42.0,2019
+Karimnagar,January,7.15,22.6,56.0,2016
+Nalgonda,August,192.03,38.6,30.0,2024
+Nirmal,June,117.74,21.4,62.0,2019
+Mulugu,August,192.84,32.0,82.0,2025
+Kamareddy,May,30.34,20.9,29.0,2021
+Peddapalli,May,30.71,35.8,63.0,2020
+Rangareddy,June,115.62,42.6,47.0,2025
+Nagarkurnool,September,139.53,38.3,50.0,2015
+Suryapet,December,5.31,37.8,32.0,2024
+Nizamabad,October,89.6,30.7,79.0,2019
+Yadadri Bhuvanagiri,May,34.79,16.4,51.0,2018
+Kumurambheem Asifabad,May,30.65,34.3,23.0,2016
+Mahabubnagar,March,15.3,43.0,33.0,2025
+Hyderabad,December,7.65,24.0,85.0,2024
+Peddapalli,April,19.6,44.6,99.0,2018
+Mancherial,August,193.56,17.5,34.0,2025
+Medak,February,10.18,34.1,63.0,2019
+Jogulamba Gadwal,May,34.26,23.2,43.0,2019
+Nagarkurnool,April,19.87,25.6,46.0,2020
+Vikarabad,November,16.78,19.0,57.0,2017
+Khammam,January,10.16,22.7,35.0,2019
+Yadadri Bhuvanagiri,October,90.04,31.7,37.0,2024
+Peddapalli,July,194.03,27.9,72.0,2019
+Nagarkurnool,August,185.8,28.2,46.0,2021
+Hanamkonda,January,7.34,19.6,79.0,2024
+Nalgonda,October,92.88,43.1,41.0,2025
+Hyderabad,August,188.81,43.7,71.0,2024
+Jogulamba Gadwal,July,195.95,26.5,26.0,2021
+Jagtial,December,4.01,29.5,78.0,2020
+Suryapet,January,7.88,40.9,75.0,2018
+Mahabubnagar,August,188.8,16.4,69.0,2025
+Adilabad,May,31.42,18.2,21.0,2019
+Siddipet,June,117.88,28.5,29.0,2018
+Rajanna Sircilla,March,14.72,30.5,81.0,2017
+Jogulamba Gadwal,February,6.19,29.7,22.0,2023
+Kamareddy,June,116.92,22.1,93.0,2023
+Mancherial,November,17.73,15.7,86.0,2016
+Suryapet,March,11.47,36.7,50.0,2022
+Hanamkonda,June,121.38,19.2,76.0,2025
+Mulugu,March,9.95,36.4,50.0,2016
+Adilabad,May,30.96,24.8,56.0,2015
+Nagarkurnool,March,15.1,42.7,40.0,2015
+Vikarabad,June,117.68,20.7,46.0,2022
+Medak,February,4.97,37.8,80.0,2019
+Mahabubnagar,January,12.11,28.9,36.0,2023
+Hanamkonda,November,22.31,23.7,63.0,2025
+Nalgonda,October,89.07,40.1,62.0,2016
+Suryapet,January,12.99,27.5,40.0,2021
+Rangareddy,January,12.78,16.4,57.0,2022
+Nalgonda,April,18.99,23.2,24.0,2024
+Jogulamba Gadwal,April,19.46,41.4,68.0,2021
+Nizamabad,May,31.24,18.9,54.0,2024
+Peddapalli,March,17.13,19.8,65.0,2020
+Yadadri Bhuvanagiri,October,89.3,31.7,24.0,2022
+Mahabubabad,May,30.52,33.5,42.0,2024
+Peddapalli,June,118.01,26.2,67.0,2025
+Mahabubabad,December,6.52,25.9,21.0,2019
+Rangareddy,August,191.71,25.9,95.0,2015
+Nalgonda,February,8.87,43.3,82.0,2019
+Mulugu,January,7.79,17.6,62.0,2019
+Nirmal,November,19.92,38.4,40.0,2020
+Adilabad,September,138.76,25.9,45.0,2024
+Kamareddy,June,117.64,30.4,92.0,2022
+Hanamkonda,October,92.14,16.2,43.0,2019
+Vikarabad,July,192.15,35.2,59.0,2019
+Medak,September,134.33,24.9,66.0,2018
+Peddapalli,December,2.17,40.2,91.0,2025
+Hanamkonda,April,21.19,33.5,91.0,2023
+Nalgonda,May,33.5,44.7,65.0,2015
+Nirmal,July,193.59,30.3,52.0,2020
+Adilabad,August,189.94,37.4,36.0,2017
+Mancherial,June,119.27,32.7,28.0,2020
+Mancherial,May,27.66,18.7,61.0,2024
+Medak,October,91.31,28.4,23.0,2023
+Kumurambheem Asifabad,September,135.49,26.1,32.0,2019
+Suryapet,November,17.49,29.9,78.0,2015
+Yadadri Bhuvanagiri,December,5.6,25.0,88.0,2018
+Mahabubnagar,October,93.6,43.9,37.0,2022
+Mahabubnagar,September,137.88,16.4,56.0,2025
+Peddapalli,March,13.42,16.2,98.0,2017
+Kumurambheem Asifabad,March,15.24,30.2,37.0,2024
+Mulugu,June,118.82,21.1,53.0,2018
+Nirmal,September,135.83,40.7,98.0,2020
+Rangareddy,August,192.69,19.4,45.0,2017
+Adilabad,February,5.83,15.2,26.0,2024
+Kamareddy,May,30.21,44.5,53.0,2016
+Vikarabad,April,19.01,43.6,95.0,2020
+Jogulamba Gadwal,January,9.23,24.0,55.0,2023
+Hyderabad,March,14.17,18.3,84.0,2019
+Vikarabad,October,93.62,41.4,86.0,2017
+Nizamabad,March,16.95,26.1,23.0,2022
+Peddapalli,December,4.1,27.7,56.0,2020
+Rajanna Sircilla,February,5.77,28.7,94.0,2017
+Adilabad,June,122.58,32.6,51.0,2018
+Mulugu,March,13.05,40.3,78.0,2022
+Nagarkurnool,April,15.8,33.8,97.0,2018
+Peddapalli,July,190.0,32.0,57.0,2017
+Hyderabad,October,89.54,32.7,90.0,2025
+Khammam,December,6.97,21.3,76.0,2023
+Siddipet,September,135.75,29.4,21.0,2023
+Rangareddy,September,137.22,26.9,30.0,2017
+Siddipet,May,30.15,15.8,90.0,2018
+Adilabad,July,191.76,15.7,69.0,2022
+Rangareddy,October,91.35,28.7,51.0,2018
+Mancherial,August,192.15,32.0,86.0,2016
+Sangareddy,January,12.24,33.2,82.0,2020
+Hanamkonda,April,16.95,19.3,73.0,2020
+Jagtial,December,5.65,26.2,63.0,2019
+Karimnagar,March,15.93,19.2,34.0,2022
+Nirmal,October,90.78,27.0,94.0,2016
+Nirmal,September,137.42,24.3,29.0,2025
+Karimnagar,June,122.15,26.4,38.0,2023
+Mahabubnagar,January,13.29,37.9,26.0,2025
+Mulugu,August,192.32,23.3,38.0,2024
+Vikarabad,June,120.35,30.5,32.0,2015
+Nagarkurnool,September,135.73,20.3,85.0,2017
+Suryapet,August,189.65,27.7,96.0,2019
+Nirmal,August,190.63,34.1,24.0,2018
+Siddipet,October,91.76,26.4,58.0,2015
+Rajanna Sircilla,August,190.46,21.5,95.0,2017
+Jagtial,August,188.2,21.9,25.0,2015
+Mulugu,February,7.2,18.6,99.0,2025
+Hyderabad,July,190.95,37.1,99.0,2024
+Medak,January,9.14,15.6,70.0,2015
+Nirmal,July,193.57,22.1,45.0,2019
+Jagtial,November,20.14,23.0,27.0,2019
+Mahabubabad,July,191.04,23.0,76.0,2016
+Vikarabad,May,31.53,36.2,52.0,2019
+Medak,July,191.63,33.7,53.0,2016
+Rajanna Sircilla,July,191.7,29.5,79.0,2025
+Mahabubabad,July,192.28,36.3,36.0,2015
+Nirmal,December,6.62,30.6,46.0,2024
+Yadadri Bhuvanagiri,October,94.62,19.3,44.0,2020
+Medak,February,5.93,43.4,91.0,2024
+Khammam,April,17.43,34.5,31.0,2017
+Nalgonda,April,20.13,27.6,85.0,2021
+Nalgonda,June,119.69,41.3,46.0,2019
+Sangareddy,July,193.67,32.5,44.0,2019
+Adilabad,June,119.86,28.9,20.0,2023
+Hanamkonda,March,14.4,42.9,78.0,2024
+Adilabad,February,5.96,30.9,25.0,2019
+Hyderabad,November,16.7,41.7,55.0,2021
+Kumurambheem Asifabad,June,118.42,38.3,76.0,2015
+Medak,July,194.68,16.0,30.0,2023
+Mahabubnagar,October,93.53,19.9,65.0,2019
+Nirmal,February,7.32,27.3,57.0,2018
+Wanaparthy,January,13.37,17.9,85.0,2016
+Nagarkurnool,June,118.39,22.4,68.0,2021
+Nizamabad,July,192.64,25.9,49.0,2020
+Jogulamba Gadwal,July,191.83,37.9,83.0,2022
+Suryapet,September,137.18,41.8,95.0,2024
+Jagtial,November,16.03,26.6,67.0,2025
+Mahabubnagar,September,137.44,17.8,60.0,2017
+Rajanna Sircilla,January,7.95,40.7,73.0,2018
+Nizamabad,April,16.01,41.2,27.0,2016
+Nirmal,July,190.36,18.6,21.0,2022
+Medak,July,193.15,24.3,58.0,2020
+Hyderabad,March,17.29,42.7,29.0,2015
+Adilabad,July,192.81,20.7,95.0,2022
+Medak,May,28.2,27.6,23.0,2020
+Karimnagar,June,119.45,37.1,64.0,2021
+Nirmal,July,190.98,23.4,51.0,2018
+Nagarkurnool,December,4.53,44.3,41.0,2019
+Yadadri Bhuvanagiri,April,19.6,38.3,87.0,2022
+Yadadri Bhuvanagiri,May,28.43,33.6,85.0,2024
+Mulugu,May,30.66,26.2,76.0,2025
+Karimnagar,October,90.76,19.4,48.0,2016
+Kumurambheem Asifabad,March,10.6,28.4,29.0,2022
+Vikarabad,December,3.41,15.3,70.0,2018
+Yadadri Bhuvanagiri,April,20.22,42.7,47.0,2019
+Vikarabad,March,10.85,20.3,64.0,2017
+Mancherial,October,94.85,24.9,28.0,2024
+Nalgonda,March,16.01,37.1,53.0,2023
+Jogulamba Gadwal,March,13.72,19.7,48.0,2022
+Mulugu,April,17.6,29.0,31.0,2017
+Jogulamba Gadwal,March,14.27,39.6,92.0,2021
+Wanaparthy,March,14.19,28.1,40.0,2022
+Hyderabad,February,6.56,30.9,45.0,2022
+Nagarkurnool,June,116.63,25.1,29.0,2021
+Nagarkurnool,March,16.55,18.8,78.0,2020
+Jagtial,January,8.72,42.0,32.0,2020
+Peddapalli,December,8.58,18.3,69.0,2021
+Wanaparthy,March,16.8,21.9,83.0,2019
+Nirmal,December,7.23,40.2,94.0,2022
+Jagtial,January,6.93,41.9,41.0,2020
+Rajanna Sircilla,May,34.57,17.5,34.0,2024
+Nirmal,November,16.66,18.7,45.0,2017
+Mancherial,February,8.36,40.9,78.0,2022
+Mahabubabad,March,13.27,30.2,32.0,2019
+Vikarabad,January,8.33,24.5,54.0,2024
+Peddapalli,August,193.83,17.3,60.0,2023
+Rangareddy,September,134.57,38.0,84.0,2015
+Yadadri Bhuvanagiri,July,193.4,36.5,39.0,2021
+Hanamkonda,April,19.16,26.2,40.0,2019
+Sangareddy,November,20.17,19.0,32.0,2018
+Jogulamba Gadwal,October,89.13,17.5,100.0,2016
+Peddapalli,November,14.05,40.1,32.0,2021
+Siddipet,November,21.76,40.5,34.0,2025
+Khammam,February,5.55,17.6,31.0,2025
+Kumurambheem Asifabad,August,191.18,34.1,20.0,2019
+Suryapet,April,16.45,33.2,70.0,2016
+Vikarabad,April,17.88,24.5,76.0,2018
+Nalgonda,July,192.47,32.8,76.0,2024
+Hanamkonda,March,16.38,34.6,56.0,2018
+Karimnagar,February,12.9,39.4,32.0,2022
+Nalgonda,June,119.27,40.6,74.0,2017
+Peddapalli,December,5.92,24.2,83.0,2021
+Mahabubabad,March,13.17,25.2,84.0,2025
+Rajanna Sircilla,October,91.15,26.7,86.0,2017
+Nirmal,February,7.07,38.6,80.0,2016
+Wanaparthy,January,7.16,25.4,82.0,2015
+Nagarkurnool,July,191.1,31.9,82.0,2018
+Khammam,January,5.78,18.0,64.0,2015
+Siddipet,September,135.88,21.6,35.0,2019
+Jagtial,October,93.76,36.2,84.0,2022
+Jagtial,November,21.74,21.4,29.0,2015
+Medak,October,91.0,23.9,48.0,2024
+Siddipet,March,15.28,42.0,57.0,2017
+Jagtial,June,118.79,35.9,47.0,2024
+Nizamabad,August,190.45,24.0,65.0,2016
+Sangareddy,January,10.66,22.2,23.0,2016
+Jogulamba Gadwal,November,18.38,24.7,47.0,2023
+Siddipet,May,33.42,33.3,20.0,2023
+Mahabubnagar,September,134.05,38.0,31.0,2022
+Mulugu,August,190.05,27.0,25.0,2020
+Peddapalli,September,136.01,18.4,47.0,2021
+Nalgonda,January,6.84,19.4,38.0,2025
+Khammam,September,136.02,29.7,49.0,2022
+Peddapalli,April,18.32,27.3,92.0,2018
+Suryapet,March,11.35,42.2,67.0,2020
+Hanamkonda,August,188.22,26.6,88.0,2023
+Hyderabad,January,8.22,29.1,47.0,2015
+Peddapalli,November,20.36,40.8,53.0,2017
+Yadadri Bhuvanagiri,June,119.13,42.5,29.0,2017
+Rangareddy,September,137.99,23.8,82.0,2020
+Yadadri Bhuvanagiri,May,29.47,16.8,35.0,2017
+Suryapet,February,7.35,25.6,54.0,2020
+Karimnagar,August,190.78,37.7,91.0,2022
+Mancherial,February,8.05,27.8,86.0,2024
+Siddipet,July,191.92,44.5,56.0,2021
+Rajanna Sircilla,October,92.87,36.4,89.0,2021
+Jogulamba Gadwal,February,2.71,41.9,61.0,2017
+Vikarabad,January,10.69,20.7,84.0,2017
+Hyderabad,June,119.24,17.2,88.0,2015
+Jagtial,August,188.7,23.4,53.0,2023
+Nalgonda,May,29.23,31.0,73.0,2021
+Nagarkurnool,October,89.62,18.7,50.0,2024
+Mahabubnagar,December,5.8,34.2,35.0,2015
+Vikarabad,March,13.4,16.8,85.0,2017
+Nizamabad,December,3.74,32.5,27.0,2016
+Mahabubnagar,March,10.95,40.5,56.0,2023
+Rajanna Sircilla,November,18.71,43.1,75.0,2016
+Rajanna Sircilla,January,9.43,33.7,77.0,2023
+Adilabad,April,18.85,26.0,72.0,2020
+Yadadri Bhuvanagiri,May,32.25,34.3,29.0,2023
+Nalgonda,December,4.68,26.9,50.0,2023
+Jagtial,September,137.63,17.5,77.0,2020
+Rajanna Sircilla,February,11.13,30.8,35.0,2024
+Karimnagar,April,20.34,41.9,64.0,2016
+Yadadri Bhuvanagiri,April,16.43,19.1,77.0,2024
+Jogulamba Gadwal,September,137.15,29.1,34.0,2017
+Wanaparthy,September,138.56,32.8,63.0,2023
+Siddipet,June,118.11,37.6,80.0,2015
+Mulugu,September,136.72,18.0,96.0,2021
+Sangareddy,August,189.08,40.5,70.0,2015
+Rajanna Sircilla,October,89.89,40.0,95.0,2024
+Jagtial,April,14.76,20.7,34.0,2016
+Khammam,June,124.8,19.7,64.0,2017
+Kamareddy,March,14.15,24.4,23.0,2020
+Rangareddy,March,14.85,21.0,22.0,2018
+Karimnagar,October,88.67,43.7,76.0,2019
+Mulugu,November,19.89,26.4,77.0,2023
+Mahabubabad,January,6.55,28.8,58.0,2016
+Yadadri Bhuvanagiri,July,194.37,23.8,46.0,2015
+Hyderabad,February,4.63,19.7,62.0,2023
+Mahabubnagar,April,17.86,22.5,61.0,2023
+Karimnagar,April,17.77,23.9,86.0,2018
+Rajanna Sircilla,May,32.61,41.1,32.0,2022
+Jogulamba Gadwal,August,188.49,30.2,35.0,2019
+Sangareddy,April,17.23,29.5,96.0,2019
+Rangareddy,April,16.05,33.7,67.0,2017
+Wanaparthy,April,16.24,25.3,68.0,2015
+Mahabubabad,June,115.16,16.8,73.0,2022
+Sangareddy,January,9.51,26.0,94.0,2022
+Suryapet,October,95.74,36.5,87.0,2023
+Hanamkonda,October,95.1,17.3,69.0,2021
+Nirmal,October,90.96,41.3,79.0,2025
+Nirmal,September,137.6,39.3,47.0,2025
+Nagarkurnool,January,13.09,42.1,27.0,2020
+Khammam,January,11.49,23.6,65.0,2019
+Wanaparthy,October,91.66,38.5,82.0,2019
+Nirmal,June,120.48,32.1,60.0,2018
+Medak,March,11.99,23.2,46.0,2016
+Hyderabad,April,17.09,26.1,100.0,2018
+Siddipet,August,191.37,37.3,39.0,2025
+Sangareddy,February,6.78,39.1,43.0,2020
+Hanamkonda,October,89.56,34.7,100.0,2025
+Adilabad,March,13.92,32.6,59.0,2020
+Sangareddy,November,15.82,32.0,49.0,2017
+Yadadri Bhuvanagiri,December,7.06,18.3,64.0,2025
+Nizamabad,March,14.44,20.0,56.0,2022
+Nizamabad,September,140.02,25.5,80.0,2019
+Mulugu,June,120.32,34.6,45.0,2024
+Nizamabad,December,6.69,29.5,71.0,2017
+Jogulamba Gadwal,May,28.58,16.2,51.0,2021
+Nagarkurnool,September,139.44,22.5,44.0,2016
+Wanaparthy,April,16.85,29.1,20.0,2021
+Kamareddy,August,190.46,28.7,49.0,2024
+Rajanna Sircilla,April,19.6,30.9,22.0,2017
+Nizamabad,July,190.85,32.1,71.0,2018
+Rajanna Sircilla,June,119.96,30.6,97.0,2023
+Wanaparthy,September,134.81,33.7,71.0,2019
+Hyderabad,October,89.4,37.5,42.0,2023
+Medak,July,191.25,23.9,70.0,2018
+Jagtial,April,18.68,40.7,92.0,2019
+Kumurambheem Asifabad,November,17.91,18.5,27.0,2017
+Nagarkurnool,July,193.14,30.9,91.0,2015
+Mahabubnagar,November,21.31,21.2,38.0,2017
+Vikarabad,May,29.55,22.3,63.0,2015
+Mahabubabad,January,9.36,40.9,85.0,2022
+Vikarabad,July,192.99,29.9,73.0,2024
+Rangareddy,March,16.84,42.2,83.0,2018
+Kumurambheem Asifabad,January,7.56,32.0,65.0,2018
+Vikarabad,August,191.12,44.2,73.0,2025
+Wanaparthy,July,194.38,41.6,55.0,2017
+Wanaparthy,October,90.14,23.9,92.0,2016
+Nalgonda,July,191.67,39.8,59.0,2016
+Nalgonda,March,14.32,33.3,46.0,2016
+Nizamabad,November,20.25,35.6,96.0,2020
+Nagarkurnool,August,193.14,32.5,88.0,2020
+Kumurambheem Asifabad,November,16.99,42.2,47.0,2024
+Sangareddy,September,139.24,22.0,71.0,2024
+Vikarabad,March,11.65,27.9,27.0,2021
+Suryapet,August,190.45,42.6,98.0,2025
+Suryapet,June,120.88,25.9,21.0,2025
+Suryapet,March,14.31,31.1,72.0,2017
+Karimnagar,October,88.64,35.1,92.0,2016
+Rangareddy,November,20.24,17.0,87.0,2021
+Nalgonda,May,28.85,33.6,38.0,2016
+Wanaparthy,July,192.48,22.2,29.0,2022
+Sangareddy,February,4.01,34.4,26.0,2018
+Karimnagar,April,15.25,22.9,59.0,2020
+Mahabubabad,November,18.29,21.9,52.0,2020
+Nirmal,December,6.28,22.0,27.0,2020
+Nalgonda,September,139.59,17.8,78.0,2018
+Rajanna Sircilla,May,30.19,42.5,85.0,2016
+Medak,February,7.31,44.0,40.0,2018
+Nizamabad,March,14.57,27.4,21.0,2020
+Nirmal,January,5.79,23.6,100.0,2015
+Khammam,April,19.26,23.1,53.0,2021
+Mahabubabad,August,191.77,24.9,80.0,2019
+Rangareddy,October,90.19,41.0,75.0,2016
+Sangareddy,September,137.99,39.0,30.0,2023
+Jagtial,February,6.53,35.1,99.0,2015
+Hyderabad,August,193.03,41.0,91.0,2022
+Rangareddy,January,8.09,41.6,80.0,2021
+Siddipet,February,6.8,42.4,36.0,2019
+Karimnagar,September,136.57,22.0,32.0,2025
+Nirmal,February,6.6,35.4,100.0,2025
+Vikarabad,August,191.47,35.7,93.0,2022
+Nagarkurnool,January,10.69,26.9,28.0,2022
+Sangareddy,July,191.51,28.2,48.0,2023
+Yadadri Bhuvanagiri,November,15.17,38.1,72.0,2024
+Rajanna Sircilla,October,94.06,37.2,81.0,2024
+Nagarkurnool,April,16.68,41.6,70.0,2018
+Rajanna Sircilla,December,5.28,33.2,50.0,2016
+Mahabubnagar,April,20.05,23.8,85.0,2019
+Nalgonda,July,187.31,18.0,50.0,2018
+Siddipet,August,191.58,21.8,29.0,2021
+Mahabubabad,August,193.39,36.3,61.0,2016
+Jogulamba Gadwal,April,14.54,20.7,70.0,2018
+Nagarkurnool,April,19.4,39.6,59.0,2019
+Hyderabad,April,20.51,27.7,62.0,2019
+Mahabubabad,March,16.15,18.3,94.0,2019
+Kamareddy,November,18.95,39.3,72.0,2018
+Mulugu,December,4.3,39.9,63.0,2016
+Peddapalli,March,17.03,22.0,57.0,2025
+Karimnagar,February,11.0,21.8,70.0,2025
+Nizamabad,February,4.55,39.1,99.0,2024
+Sangareddy,December,3.35,21.3,96.0,2019
+Nalgonda,August,191.54,19.5,86.0,2015
+Suryapet,November,18.92,20.4,52.0,2017
+Kamareddy,July,191.06,16.4,23.0,2024
+Karimnagar,December,4.44,23.6,48.0,2018
+Mancherial,May,31.45,18.2,24.0,2025
+Vikarabad,November,19.62,42.6,76.0,2017
+Nirmal,October,89.79,30.0,75.0,2021
+Yadadri Bhuvanagiri,July,190.33,23.7,53.0,2021
+Kumurambheem Asifabad,April,19.01,30.9,48.0,2021
+Khammam,April,17.16,27.2,54.0,2021
+Rangareddy,November,18.94,30.2,78.0,2022
+Adilabad,December,6.61,30.7,59.0,2019
+Kumurambheem Asifabad,November,18.7,17.9,57.0,2024
+Jogulamba Gadwal,September,135.46,18.0,36.0,2021
+Mancherial,June,115.48,19.5,46.0,2016
+Jogulamba Gadwal,May,29.02,37.6,45.0,2017
+Nagarkurnool,March,10.67,43.5,34.0,2019
+Adilabad,October,90.23,19.9,52.0,2015
+Nagarkurnool,May,32.62,32.3,21.0,2019
+Siddipet,May,28.7,42.3,30.0,2022
+Siddipet,March,11.96,42.2,57.0,2016
+Sangareddy,February,4.97,34.4,31.0,2021
+Peddapalli,June,116.05,15.4,86.0,2020
+Nirmal,March,14.35,43.9,75.0,2021
+Mulugu,August,189.69,39.2,40.0,2019
+Hyderabad,September,138.99,41.1,52.0,2020
+Jogulamba Gadwal,January,15.62,30.6,83.0,2020
+Mulugu,January,8.44,24.6,99.0,2022
+Kumurambheem Asifabad,June,121.09,30.5,76.0,2021
+Rangareddy,January,7.14,27.3,55.0,2016
+Nirmal,June,118.48,43.9,82.0,2024
+Kumurambheem Asifabad,August,190.47,18.1,45.0,2024
+Hyderabad,March,13.76,28.2,45.0,2022
+Khammam,July,193.45,20.1,90.0,2019
+Nagarkurnool,August,192.12,39.1,22.0,2020
+Nagarkurnool,February,8.93,33.1,65.0,2024
+Adilabad,November,17.4,41.2,62.0,2021
+Sangareddy,December,6.52,35.9,34.0,2023
+Karimnagar,January,7.94,35.3,85.0,2015
+Jagtial,November,16.74,15.5,22.0,2023
+Khammam,April,17.52,34.2,46.0,2016
+Mancherial,December,6.27,24.8,99.0,2017
+Kamareddy,August,191.54,16.3,62.0,2022
+Mahabubnagar,January,9.63,44.8,97.0,2015
+Peddapalli,December,6.29,37.9,60.0,2025
+Kumurambheem Asifabad,July,192.85,40.2,56.0,2015
+Nalgonda,December,9.2,30.5,41.0,2016
+Vikarabad,July,195.76,34.7,23.0,2022
+Kumurambheem Asifabad,October,89.11,39.7,66.0,2023
+Rajanna Sircilla,April,18.27,37.9,38.0,2018
+Mahabubabad,February,10.19,42.9,53.0,2015
+Karimnagar,November,17.59,17.2,71.0,2025
+Nalgonda,September,136.76,39.4,52.0,2017
+Medak,October,92.75,28.5,57.0,2016
+Nagarkurnool,March,13.54,42.6,24.0,2024
+Nizamabad,September,136.45,32.7,41.0,2023
+Nalgonda,March,15.21,32.1,62.0,2024
+Jagtial,May,28.03,33.8,54.0,2022
+Kamareddy,November,20.78,40.0,45.0,2022
+Mahabubabad,January,7.46,32.5,72.0,2022
+Vikarabad,March,15.72,22.2,28.0,2015
+Yadadri Bhuvanagiri,July,190.26,32.9,69.0,2024
+Medak,January,5.21,27.2,34.0,2021
+Jogulamba Gadwal,November,19.83,33.2,51.0,2015
+Medak,May,27.17,38.1,90.0,2021
+Mahabubabad,January,9.28,29.2,59.0,2022
+Jagtial,October,91.74,27.2,37.0,2015
+Jagtial,May,30.29,43.2,38.0,2019
+Nizamabad,July,193.57,35.8,84.0,2017
+Mahabubabad,July,193.34,39.5,21.0,2016
+Jagtial,April,21.02,21.0,52.0,2017
+Vikarabad,September,137.22,24.9,81.0,2019
+Kumurambheem Asifabad,June,119.84,35.9,49.0,2019
+Mahabubnagar,September,137.75,44.1,91.0,2024
+Mancherial,December,7.46,40.8,39.0,2018
+Sangareddy,July,192.64,30.3,32.0,2016
+Kumurambheem Asifabad,August,193.91,41.7,76.0,2017
+Rajanna Sircilla,October,87.94,33.6,99.0,2024
+Rajanna Sircilla,October,90.37,29.8,98.0,2020
+Mahabubabad,November,16.62,29.2,74.0,2015
+Kamareddy,August,188.5,32.5,58.0,2025
+Yadadri Bhuvanagiri,March,15.76,31.4,30.0,2015
+Nagarkurnool,May,32.4,42.1,34.0,2019
+Mulugu,March,12.75,23.3,68.0,2024
+Vikarabad,October,92.51,15.5,87.0,2020
+Yadadri Bhuvanagiri,July,195.11,32.9,23.0,2023
+Mulugu,October,91.84,24.9,38.0,2021
+Khammam,May,28.19,37.2,77.0,2025
+Suryapet,May,29.42,27.5,65.0,2017
+Kamareddy,August,191.78,27.0,75.0,2022
+Hanamkonda,July,192.81,23.6,72.0,2019
+Sangareddy,March,12.1,36.1,53.0,2015
+Wanaparthy,December,5.14,29.6,67.0,2019
+Suryapet,October,94.3,25.6,79.0,2024
+Peddapalli,February,7.19,20.8,25.0,2022
+Mahabubnagar,August,194.55,19.8,63.0,2019
+Rangareddy,November,18.54,38.4,61.0,2022
+Rangareddy,March,13.5,41.7,43.0,2025
+Mahabubnagar,October,91.25,44.0,61.0,2022
+Jogulamba Gadwal,April,19.9,15.4,20.0,2025
+Kumurambheem Asifabad,June,114.5,44.7,40.0,2015
+Kumurambheem Asifabad,September,137.2,43.5,24.0,2019
+Jagtial,June,119.47,25.3,59.0,2025
+Nizamabad,March,13.45,35.9,30.0,2023
+Adilabad,April,16.58,41.3,43.0,2021
+Siddipet,April,18.46,32.0,62.0,2018
+Vikarabad,February,7.73,22.5,31.0,2025
+Khammam,February,5.61,29.4,38.0,2017
+Mahabubnagar,February,6.91,21.8,23.0,2016
+Nalgonda,March,14.21,28.4,35.0,2019
+Medak,February,5.62,39.1,23.0,2025
+Mancherial,October,93.39,15.1,94.0,2022
+Hanamkonda,October,93.09,19.4,29.0,2023
+Kamareddy,June,119.05,26.4,74.0,2015
+Hyderabad,March,13.59,39.1,76.0,2024
+Kumurambheem Asifabad,March,14.65,31.4,99.0,2023
+Kamareddy,May,33.42,39.1,88.0,2023
+Jogulamba Gadwal,January,11.83,27.7,27.0,2021
+Nalgonda,November,15.87,16.2,47.0,2024
+Hyderabad,March,12.91,20.6,38.0,2025
+Mancherial,March,12.39,21.3,24.0,2021
+Nalgonda,May,29.3,23.2,30.0,2021
+Medak,February,5.12,33.5,33.0,2017
+Adilabad,December,9.05,26.1,63.0,2024
+Adilabad,November,14.73,42.7,38.0,2025
+Hyderabad,May,30.33,24.6,78.0,2024
+Mahabubnagar,April,18.83,41.1,72.0,2022
+Rajanna Sircilla,May,30.8,39.3,85.0,2017
+Karimnagar,December,3.87,21.2,65.0,2019
+Vikarabad,September,138.8,38.9,98.0,2023
+Nizamabad,October,89.02,37.1,99.0,2023
+Nagarkurnool,March,13.32,22.9,78.0,2017
+Jogulamba Gadwal,April,13.9,39.5,93.0,2021
+Medak,November,17.38,30.0,75.0,2016
+Mancherial,March,11.89,43.2,31.0,2017
+Hanamkonda,September,139.2,28.6,68.0,2024
+Hyderabad,July,190.85,23.3,92.0,2024
+Sangareddy,February,4.51,40.6,86.0,2024
+Peddapalli,March,14.18,33.3,41.0,2022
+Jagtial,May,29.38,35.0,81.0,2020
+Hyderabad,February,6.66,39.1,53.0,2021
+Mahabubnagar,August,190.21,28.4,72.0,2025
+Kumurambheem Asifabad,June,117.21,39.8,86.0,2019
+Nagarkurnool,May,29.41,16.8,34.0,2018
+Hyderabad,November,20.63,18.6,31.0,2017
+Karimnagar,November,17.57,28.4,43.0,2018
+Vikarabad,January,8.45,32.7,96.0,2017
+Mahabubnagar,January,9.67,26.5,65.0,2015
+Medak,September,138.35,32.8,38.0,2017
+Yadadri Bhuvanagiri,July,190.48,27.9,45.0,2021
+Mahabubabad,July,189.81,26.0,91.0,2019
+Kamareddy,March,13.1,16.0,47.0,2023
+Sangareddy,March,13.83,22.6,39.0,2019
+Nirmal,June,122.75,29.5,35.0,2020
+Wanaparthy,September,137.62,41.1,100.0,2021
+Mahabubabad,April,19.59,24.9,52.0,2017
+Mulugu,April,20.31,29.2,48.0,2022
+Sangareddy,December,8.14,22.9,32.0,2021
+Mahabubnagar,August,189.39,38.5,86.0,2016
+Khammam,January,10.17,37.9,59.0,2019
+Nizamabad,April,18.93,35.1,52.0,2023
+Nalgonda,September,136.22,19.0,58.0,2015
+Wanaparthy,July,192.7,36.7,42.0,2023
+Peddapalli,January,11.69,26.2,98.0,2022
+Nizamabad,December,4.02,33.2,58.0,2023
+Hanamkonda,October,91.75,33.5,96.0,2018
+Nizamabad,October,87.36,40.7,21.0,2017
+Siddipet,August,190.77,19.3,86.0,2018
+Karimnagar,August,188.64,28.7,86.0,2016
+Mahabubnagar,September,137.99,19.5,81.0,2025
+Medak,May,32.94,40.6,43.0,2024
+Karimnagar,December,3.46,17.2,45.0,2021
+Mahabubabad,July,194.4,34.0,100.0,2022
+Karimnagar,February,5.7,27.7,69.0,2021
+Suryapet,August,190.48,30.4,86.0,2019
+Khammam,September,135.54,15.1,24.0,2016
+Jogulamba Gadwal,February,5.74,36.3,80.0,2020
+Sangareddy,December,3.63,16.7,48.0,2016
+Kumurambheem Asifabad,February,5.72,40.2,24.0,2018
+Khammam,January,8.56,22.0,88.0,2019
+Rangareddy,February,9.51,32.8,81.0,2024
+Jogulamba Gadwal,March,15.02,37.2,66.0,2019
+Nizamabad,October,92.03,20.8,73.0,2024
+Mahabubabad,November,14.52,20.2,51.0,2020
+Nirmal,September,138.08,30.2,67.0,2021
+Rajanna Sircilla,December,7.54,16.4,72.0,2018
+Karimnagar,November,18.66,26.1,38.0,2024
+Wanaparthy,August,188.75,30.7,66.0,2015
+Wanaparthy,September,140.01,41.7,56.0,2024
+Khammam,March,16.5,32.2,43.0,2025
+Jagtial,September,136.88,40.7,94.0,2020
+Sangareddy,June,116.4,26.5,34.0,2025
+Khammam,June,119.24,33.3,82.0,2016
+Sangareddy,April,18.54,26.4,62.0,2020
+Rajanna Sircilla,January,11.68,44.4,30.0,2017
+Adilabad,December,2.48,18.4,48.0,2021
+Vikarabad,August,190.64,15.8,37.0,2015
+Suryapet,October,93.47,19.8,61.0,2021
+Jagtial,June,120.2,28.1,85.0,2019
+Suryapet,August,192.14,41.6,86.0,2019
+Nalgonda,February,7.27,43.0,72.0,2023
+Wanaparthy,March,10.64,29.7,29.0,2016
+Rangareddy,April,16.08,44.4,23.0,2022
+Nizamabad,October,94.11,26.9,94.0,2015
+Kumurambheem Asifabad,September,135.86,42.2,45.0,2024
+Mahabubabad,August,188.14,21.6,40.0,2025
+Siddipet,August,191.85,31.1,35.0,2023
+Nalgonda,June,118.0,36.4,76.0,2023
+Rajanna Sircilla,September,133.51,21.5,88.0,2015
+Vikarabad,January,7.7,34.1,43.0,2021
+Khammam,January,9.11,44.6,57.0,2018
+Karimnagar,October,95.79,38.3,42.0,2025
+Medak,April,20.82,41.7,90.0,2022
+Hyderabad,October,93.33,30.8,21.0,2015
+Wanaparthy,May,31.17,29.4,29.0,2022
+Sangareddy,April,20.39,32.1,84.0,2025
+Hyderabad,March,14.13,34.1,68.0,2022
+Mulugu,January,9.22,15.5,79.0,2020
+Vikarabad,September,136.85,21.4,81.0,2015
+Mancherial,January,9.61,23.5,78.0,2024
+Peddapalli,April,20.07,30.4,91.0,2023
+Medak,March,16.35,36.8,66.0,2024
+Sangareddy,November,16.83,41.1,29.0,2023
+Medak,August,191.18,41.5,95.0,2018
+Yadadri Bhuvanagiri,July,191.51,16.8,52.0,2017
+Khammam,June,117.56,33.4,35.0,2024
+Rajanna Sircilla,March,15.38,29.5,63.0,2020
+Mahabubabad,January,11.97,15.2,64.0,2025
+Nirmal,March,11.63,17.3,92.0,2015
+Suryapet,September,136.67,26.2,74.0,2020
+Suryapet,January,6.15,19.3,56.0,2022
+Nirmal,December,2.52,43.3,27.0,2015
+Hyderabad,August,189.61,21.3,35.0,2018
+Hanamkonda,September,137.88,28.0,90.0,2017
+Rajanna Sircilla,January,10.71,31.1,24.0,2025
+Wanaparthy,December,6.07,38.2,75.0,2017
+Yadadri Bhuvanagiri,March,16.03,43.6,33.0,2025
+Peddapalli,July,191.84,21.8,70.0,2018
+Mahabubabad,June,119.18,31.8,100.0,2021
+Vikarabad,May,31.34,16.2,47.0,2022
+Vikarabad,January,10.74,31.8,83.0,2016
+Kamareddy,March,12.67,30.0,71.0,2022
+Nizamabad,December,4.93,28.8,71.0,2024
+Hyderabad,June,116.21,18.8,26.0,2019
+Mahabubabad,October,92.92,34.6,39.0,2020
+Sangareddy,January,10.4,42.1,28.0,2021
+Wanaparthy,October,93.25,42.4,60.0,2025
+Kamareddy,December,5.87,20.0,44.0,2024
+Mahabubnagar,June,123.68,36.6,64.0,2023
+Nagarkurnool,June,119.52,24.7,81.0,2025
+Mahabubabad,July,190.53,36.7,78.0,2019
+Peddapalli,June,118.11,39.8,43.0,2024
+Jagtial,November,16.73,39.6,30.0,2015
+Siddipet,April,18.83,34.4,59.0,2017
+Mancherial,March,15.15,31.1,62.0,2020
+Nalgonda,April,20.77,24.2,85.0,2022
+Hanamkonda,February,7.32,44.3,45.0,2025
+Yadadri Bhuvanagiri,September,137.03,22.9,53.0,2025
+Mahabubnagar,February,10.01,39.9,23.0,2016
+Hanamkonda,October,91.51,20.3,33.0,2017
+Nirmal,July,189.01,27.8,79.0,2020
+Sangareddy,March,12.34,16.9,30.0,2017
+Suryapet,November,15.99,36.8,71.0,2021
+Hanamkonda,May,26.77,29.2,37.0,2018
+Nizamabad,November,17.3,22.5,59.0,2023
+Suryapet,October,97.49,27.3,47.0,2016
+Sangareddy,August,191.57,19.0,62.0,2017
+Mancherial,March,13.66,21.5,70.0,2016
+Vikarabad,May,31.27,22.4,94.0,2020
+Nizamabad,February,5.96,25.2,62.0,2018
+Kamareddy,February,6.67,43.9,66.0,2018
+Adilabad,November,19.62,41.1,50.0,2023
+Hanamkonda,May,29.94,18.2,56.0,2022
+Mulugu,December,5.36,30.7,37.0,2020
+Wanaparthy,February,1.99,39.6,49.0,2022
+Kamareddy,May,31.35,23.1,37.0,2018
+Karimnagar,January,9.5,26.0,47.0,2024
+Nalgonda,December,6.8,41.1,92.0,2017
+Mahabubnagar,May,27.37,34.7,57.0,2017
+Mancherial,October,91.06,42.8,68.0,2022
+Mahabubnagar,June,120.55,41.8,49.0,2021
+Hyderabad,February,4.25,15.7,51.0,2020
+Mahabubnagar,January,10.68,27.2,30.0,2017
+Kumurambheem Asifabad,May,28.86,36.3,36.0,2022
+Nirmal,April,17.55,21.8,50.0,2025
+Rangareddy,February,9.92,36.5,46.0,2021
+Mancherial,June,118.62,35.1,55.0,2022
+Suryapet,March,14.86,19.4,91.0,2016
+Jogulamba Gadwal,August,190.79,20.7,27.0,2022
+Kamareddy,May,35.28,22.1,32.0,2025
+Nalgonda,October,92.24,37.5,73.0,2019
+Mancherial,June,116.95,39.1,98.0,2025
+Suryapet,November,20.58,44.5,31.0,2021
+Kamareddy,March,13.04,30.2,58.0,2015
+Kumurambheem Asifabad,September,139.37,40.7,65.0,2016
+Hanamkonda,August,190.77,20.4,41.0,2021
+Khammam,January,9.04,25.0,25.0,2021
+Kumurambheem Asifabad,November,17.76,19.2,62.0,2020
+Nagarkurnool,September,138.32,36.9,97.0,2021
+Jagtial,February,4.63,25.5,87.0,2022
+Siddipet,November,18.15,40.3,77.0,2025
+Vikarabad,April,21.65,39.3,91.0,2025
+Yadadri Bhuvanagiri,August,192.55,44.7,61.0,2016
+Jagtial,November,16.63,40.0,61.0,2018
+Kamareddy,July,192.24,20.6,33.0,2016
+Suryapet,July,194.86,29.5,72.0,2021
+Hanamkonda,June,117.39,15.2,95.0,2024
+Karimnagar,November,19.98,37.6,66.0,2022
+Khammam,November,17.36,35.1,97.0,2016
+Adilabad,December,8.35,27.8,96.0,2019
+Rangareddy,October,89.22,31.1,85.0,2022
+Yadadri Bhuvanagiri,September,140.32,32.0,62.0,2023
+Adilabad,May,30.98,28.2,57.0,2019
+Mancherial,January,8.85,39.6,90.0,2020
+Yadadri Bhuvanagiri,January,8.71,43.5,24.0,2017
+Mahabubnagar,November,16.9,43.7,28.0,2023
+Sangareddy,June,120.48,34.3,37.0,2024
+Jagtial,June,120.39,26.7,20.0,2017
+Yadadri Bhuvanagiri,March,15.14,16.2,70.0,2022
+Nagarkurnool,September,140.47,28.9,67.0,2015
+Khammam,November,17.68,20.7,26.0,2016
+Rajanna Sircilla,February,5.99,30.8,53.0,2023
+Nizamabad,November,18.51,27.9,22.0,2022
+Medak,May,27.77,25.9,22.0,2017
+Siddipet,April,21.45,40.9,36.0,2016
+Sangareddy,January,10.94,18.1,93.0,2018
+Jogulamba Gadwal,August,190.68,36.9,89.0,2018
+Jagtial,February,7.35,40.8,21.0,2016
+Wanaparthy,June,121.28,25.1,50.0,2016
+Mancherial,January,11.63,24.4,21.0,2022
+Jagtial,December,5.66,39.3,46.0,2024
+Mahabubabad,May,26.79,33.5,68.0,2021
+Yadadri Bhuvanagiri,December,3.77,30.2,50.0,2023
+Siddipet,October,92.53,36.0,78.0,2015
+Nalgonda,December,4.7,33.2,72.0,2024
+Siddipet,June,120.82,44.4,49.0,2024
+Jogulamba Gadwal,June,120.99,38.1,72.0,2017
+Medak,August,189.57,19.8,94.0,2018
+Vikarabad,March,12.88,20.1,44.0,2024
+Siddipet,January,8.57,18.1,38.0,2019
+Yadadri Bhuvanagiri,March,16.76,40.8,70.0,2017
+Mulugu,July,189.69,29.2,24.0,2021
+Adilabad,September,137.16,31.7,30.0,2019
+Jogulamba Gadwal,March,12.41,25.4,96.0,2017
+Rangareddy,February,8.31,20.5,77.0,2015
+Rajanna Sircilla,September,138.79,38.9,72.0,2025
+Mulugu,May,31.98,21.7,20.0,2020
+Adilabad,August,188.16,34.3,30.0,2020
+Nagarkurnool,June,118.6,30.2,93.0,2025
+Adilabad,February,7.55,42.4,84.0,2019
+Kamareddy,January,11.32,30.4,79.0,2020
+Rangareddy,April,18.62,29.1,21.0,2016
+Hanamkonda,February,7.97,27.3,47.0,2020
+Kumurambheem Asifabad,July,189.61,39.9,50.0,2021
+Mahabubnagar,September,138.54,35.5,27.0,2019
+Karimnagar,June,119.65,38.0,44.0,2019
+Jogulamba Gadwal,September,135.07,18.5,47.0,2019
+Vikarabad,February,7.03,31.3,32.0,2023
+Karimnagar,September,136.11,34.2,44.0,2016
+Nagarkurnool,March,15.62,30.1,28.0,2021
+Peddapalli,February,5.62,31.7,60.0,2024
+Rajanna Sircilla,January,9.99,39.5,52.0,2020
+Mancherial,June,120.97,17.3,80.0,2023
+Sangareddy,August,189.55,39.1,37.0,2016
+Peddapalli,June,117.6,23.3,72.0,2016
+Wanaparthy,April,20.55,33.9,88.0,2017
+Hyderabad,September,138.17,30.2,61.0,2020
+Kumurambheem Asifabad,May,30.27,21.8,20.0,2021
+Vikarabad,January,6.91,22.9,63.0,2015
+Yadadri Bhuvanagiri,September,135.28,40.6,31.0,2024
+Siddipet,April,17.68,18.3,75.0,2017
+Nalgonda,January,8.97,35.2,57.0,2019
+Mulugu,October,93.17,32.9,81.0,2022
+Mulugu,October,93.73,38.2,91.0,2024
+Rangareddy,January,10.29,43.6,84.0,2021
+Khammam,May,27.8,34.6,59.0,2025
+Suryapet,February,4.4,33.7,74.0,2019
+Medak,January,10.32,38.0,49.0,2025
+Suryapet,April,18.42,36.7,66.0,2020
+Mancherial,July,191.53,29.1,34.0,2016
+Peddapalli,April,20.21,18.3,60.0,2021
+Sangareddy,February,5.07,17.7,91.0,2020
+Mahabubabad,January,12.27,34.5,88.0,2025
+Mancherial,June,116.29,30.0,84.0,2017
+Nalgonda,October,91.4,42.6,23.0,2024
+Vikarabad,October,94.91,15.9,56.0,2023
+Vikarabad,July,193.81,17.5,49.0,2025
+Rajanna Sircilla,October,93.0,43.6,56.0,2023
+Karimnagar,March,15.57,19.9,74.0,2019
+Jagtial,May,29.41,18.1,30.0,2025
+Jogulamba Gadwal,September,136.63,23.9,39.0,2017
+Hyderabad,July,191.15,27.9,71.0,2022
+Mahabubnagar,March,12.98,36.6,100.0,2019
+Adilabad,August,188.75,20.2,64.0,2018
+Nagarkurnool,April,18.55,26.8,97.0,2017
+Hanamkonda,October,91.06,39.4,40.0,2023
+Yadadri Bhuvanagiri,July,190.55,31.9,53.0,2020
+Khammam,December,9.06,25.4,45.0,2017
+Rangareddy,December,6.58,26.0,74.0,2025
+Jagtial,January,8.83,35.4,54.0,2018
+Adilabad,December,6.95,44.3,73.0,2017
+Suryapet,December,1.22,27.8,63.0,2015
+Karimnagar,June,116.94,22.0,88.0,2025
+Mahabubabad,June,122.03,16.6,59.0,2024
+Jogulamba Gadwal,January,10.09,25.6,70.0,2015
+Medak,April,16.64,33.7,28.0,2024
+Rajanna Sircilla,May,30.7,38.4,50.0,2016
+Jogulamba Gadwal,December,3.86,43.8,39.0,2022
+Peddapalli,May,28.07,27.8,55.0,2016
+Kumurambheem Asifabad,May,28.07,43.0,66.0,2025
+Khammam,December,4.37,43.3,35.0,2023
+Yadadri Bhuvanagiri,May,31.39,30.0,25.0,2025
+Adilabad,January,12.78,28.3,86.0,2025
+Khammam,April,20.84,41.2,67.0,2017
+Nagarkurnool,October,90.7,30.5,81.0,2023
+Hanamkonda,May,28.88,44.9,95.0,2021
+Mancherial,February,7.61,20.8,62.0,2018
+Hyderabad,September,138.62,34.3,60.0,2021
+Medak,November,16.27,38.2,58.0,2025
+Mulugu,July,194.77,26.3,24.0,2021
+Adilabad,March,14.37,41.8,25.0,2020
+Mancherial,August,193.3,18.9,20.0,2024
+Suryapet,July,195.71,38.4,34.0,2019
+Mahabubnagar,October,94.01,39.7,57.0,2016
+Jagtial,July,194.86,16.0,60.0,2025
+Vikarabad,April,19.85,18.9,20.0,2020
+Mahabubabad,August,193.19,35.1,34.0,2020
+Karimnagar,May,30.49,28.2,34.0,2017
+Wanaparthy,October,95.47,15.8,48.0,2023
+Wanaparthy,May,30.47,25.1,92.0,2021
+Rangareddy,December,6.06,22.2,33.0,2020
+Suryapet,December,3.76,24.8,88.0,2017
+Wanaparthy,February,3.35,44.4,79.0,2017
+Medak,September,137.6,42.1,25.0,2015
+Adilabad,February,8.77,23.0,79.0,2020
+Mulugu,July,193.32,15.2,51.0,2025
+Jogulamba Gadwal,January,13.58,41.0,47.0,2023
+Sangareddy,November,17.39,39.2,77.0,2017
+Rajanna Sircilla,November,15.43,35.5,27.0,2021
+Hanamkonda,January,9.55,18.6,44.0,2022
+Kamareddy,March,11.66,42.6,88.0,2018
+Nizamabad,September,140.96,18.6,60.0,2019
+Mahabubnagar,May,28.89,44.6,27.0,2022
+Peddapalli,March,12.15,23.3,63.0,2022
+Rajanna Sircilla,November,20.81,39.5,46.0,2017
+Nalgonda,January,8.26,35.5,91.0,2021
+Mahabubnagar,March,14.25,18.5,72.0,2019
+Sangareddy,August,191.02,18.4,93.0,2025
+Medak,August,191.47,32.2,82.0,2025
+Nalgonda,April,14.06,33.2,94.0,2015
+Nizamabad,March,13.28,29.0,24.0,2025
+Nagarkurnool,December,6.61,41.4,87.0,2015
+Wanaparthy,July,195.02,25.0,85.0,2021
+Jagtial,October,92.0,40.0,37.0,2018
+Jogulamba Gadwal,October,92.9,20.5,21.0,2018
+Medak,June,120.4,30.8,23.0,2021
+Yadadri Bhuvanagiri,March,13.48,15.7,55.0,2016
+Hanamkonda,May,32.11,34.4,67.0,2016
+Adilabad,September,139.95,36.2,55.0,2016
+Peddapalli,May,28.14,33.2,65.0,2020
+Jogulamba Gadwal,January,8.18,41.2,89.0,2015
+Medak,May,32.84,15.3,46.0,2020
+Mancherial,December,1.66,44.8,95.0,2022
+Karimnagar,June,120.27,20.1,78.0,2022
+Mulugu,February,6.2,25.1,56.0,2016
+Suryapet,November,15.15,16.3,33.0,2021
+Rangareddy,January,7.43,22.3,77.0,2025
+Siddipet,March,12.52,28.8,22.0,2022
+Jogulamba Gadwal,April,16.96,18.0,78.0,2018
+Rangareddy,February,3.74,15.7,98.0,2023
+Nalgonda,May,28.63,15.1,54.0,2025
+Mahabubabad,February,7.51,29.4,55.0,2019
+Nagarkurnool,September,136.13,20.4,89.0,2016
+Suryapet,May,32.02,41.7,50.0,2022
+Vikarabad,June,118.26,44.0,22.0,2018
+Nagarkurnool,December,5.62,25.2,41.0,2024
+Hyderabad,May,33.41,40.9,29.0,2022
+Suryapet,March,14.19,31.0,87.0,2021
+Siddipet,November,20.41,28.6,90.0,2024
+Hyderabad,October,93.57,37.4,22.0,2022
+Nalgonda,August,188.95,32.9,34.0,2015
+Hyderabad,June,118.88,19.0,71.0,2023
+Kumurambheem Asifabad,February,7.14,39.9,24.0,2024
+Adilabad,May,26.88,43.1,98.0,2022
+Adilabad,August,191.55,17.7,49.0,2020
+Siddipet,September,137.23,20.3,42.0,2025
+Suryapet,March,15.85,33.9,51.0,2021
+Rajanna Sircilla,November,20.6,17.5,87.0,2025
+Sangareddy,November,19.42,36.7,39.0,2022
+Jagtial,August,187.96,28.9,79.0,2025
+Jogulamba Gadwal,November,17.31,36.1,55.0,2022
+Hanamkonda,November,19.89,35.9,24.0,2020
+Hanamkonda,February,4.12,35.6,25.0,2019
+Khammam,June,115.44,21.1,35.0,2024
+Jogulamba Gadwal,September,134.71,37.6,22.0,2017
+Mahabubnagar,March,14.77,26.8,83.0,2025
+Rajanna Sircilla,July,190.38,37.3,38.0,2016
+Suryapet,June,119.71,35.8,100.0,2022
+Peddapalli,January,9.94,16.0,45.0,2019
+Sangareddy,January,8.84,37.0,40.0,2021
+Kamareddy,July,192.35,32.7,90.0,2016
+Jagtial,July,191.38,44.3,43.0,2015
+Jogulamba Gadwal,January,9.01,33.9,99.0,2021
+Vikarabad,December,3.85,15.8,85.0,2024
+Mancherial,May,32.4,17.3,48.0,2016
+Khammam,April,21.56,32.1,30.0,2015
+Nagarkurnool,February,5.57,31.8,56.0,2019
+Nizamabad,March,11.87,24.3,47.0,2021
+Hyderabad,June,124.82,43.4,43.0,2020
+Jagtial,November,16.83,34.8,69.0,2022
+Sangareddy,February,7.13,25.1,22.0,2022
+Vikarabad,October,90.26,41.2,64.0,2015
+Nalgonda,August,190.55,16.8,76.0,2018
+Peddapalli,May,30.75,16.3,91.0,2019
+Mahabubabad,February,8.84,25.5,68.0,2018
+Jagtial,October,90.59,22.4,88.0,2016
+Rajanna Sircilla,July,191.24,39.6,59.0,2021
+Karimnagar,February,9.38,40.5,47.0,2024
+Jagtial,May,31.74,28.4,70.0,2019
+Kamareddy,August,188.19,20.7,60.0,2016
+Rajanna Sircilla,April,20.41,17.0,21.0,2018
+Kamareddy,September,136.81,35.5,51.0,2025
+Mancherial,June,117.16,43.0,77.0,2017
+Karimnagar,February,3.37,23.3,78.0,2021
+Nizamabad,November,19.2,15.3,80.0,2025
+Nalgonda,November,21.3,37.7,75.0,2024
+Mahabubnagar,July,195.28,39.0,65.0,2018
+Nagarkurnool,January,11.37,18.1,63.0,2017
+Mancherial,August,191.82,32.0,27.0,2016
+Kumurambheem Asifabad,April,18.69,15.5,46.0,2020
+Kumurambheem Asifabad,November,18.46,41.5,86.0,2019
+Nagarkurnool,September,134.66,16.1,31.0,2017
+Mancherial,July,190.8,28.7,50.0,2019
+Karimnagar,August,189.71,32.9,83.0,2018
+Vikarabad,April,18.46,38.1,80.0,2023
+Yadadri Bhuvanagiri,December,6.0,15.2,50.0,2021
+Mahabubabad,July,194.86,35.0,72.0,2021
+Nizamabad,November,15.6,39.3,21.0,2022
+Hanamkonda,January,8.65,29.8,28.0,2022
+Hyderabad,September,136.06,26.3,85.0,2018
+Karimnagar,December,4.29,43.1,25.0,2016
+Yadadri Bhuvanagiri,September,134.36,29.7,97.0,2022
+Nalgonda,December,7.26,17.5,85.0,2024
+Mancherial,November,14.47,19.3,47.0,2019
+Rangareddy,January,9.12,42.0,94.0,2015
+Yadadri Bhuvanagiri,November,19.28,39.6,46.0,2023
+Vikarabad,January,6.62,43.7,79.0,2021
+Adilabad,April,18.85,42.6,90.0,2020
+Rajanna Sircilla,May,31.76,43.4,32.0,2024
+Nalgonda,September,138.58,22.9,26.0,2018
+Suryapet,January,8.91,44.1,65.0,2024
+Peddapalli,August,193.28,24.6,45.0,2018
+Nalgonda,May,30.8,38.9,57.0,2023
+Sangareddy,January,7.78,29.2,87.0,2017
+Karimnagar,October,89.31,22.4,72.0,2021
+Siddipet,December,1.38,22.0,33.0,2017
+Kamareddy,June,117.54,21.2,32.0,2022
+Sangareddy,March,13.17,33.5,67.0,2019
+Vikarabad,June,117.81,36.0,22.0,2022
+Jagtial,August,187.99,23.8,57.0,2019
+Karimnagar,April,15.68,43.0,21.0,2025
+Yadadri Bhuvanagiri,March,13.81,23.8,25.0,2019
+Suryapet,February,4.72,42.4,97.0,2019
+Mancherial,February,2.87,17.8,20.0,2016
+Nirmal,July,189.78,18.6,94.0,2024
+Mahabubnagar,September,136.92,34.5,74.0,2015
+Yadadri Bhuvanagiri,January,8.42,29.2,63.0,2019
+Siddipet,November,18.77,39.8,72.0,2015
+Mancherial,September,139.27,40.1,74.0,2021
+Khammam,April,17.33,34.5,28.0,2021
+Peddapalli,January,11.22,23.8,90.0,2023
+Nirmal,July,191.95,29.2,79.0,2025
+Jogulamba Gadwal,October,90.81,26.3,31.0,2021
+Nirmal,January,6.54,22.4,76.0,2020
+Karimnagar,March,13.76,26.7,74.0,2015
+Mulugu,October,91.54,30.6,73.0,2023
+Nirmal,August,192.42,24.7,35.0,2025
+Adilabad,August,189.41,17.4,75.0,2022
+Vikarabad,August,188.84,44.6,91.0,2018
+Yadadri Bhuvanagiri,October,92.88,20.8,65.0,2016
+Medak,April,21.25,16.5,72.0,2022
+Medak,September,137.94,18.2,46.0,2023
+Medak,December,1.45,40.6,85.0,2025
+Mahabubnagar,November,16.44,30.8,68.0,2018
+Nizamabad,March,15.91,27.6,64.0,2015
+Hyderabad,December,4.05,39.1,56.0,2019
+Nirmal,September,141.38,24.6,58.0,2022
+Khammam,May,30.44,36.1,66.0,2015
+Rangareddy,June,120.89,18.9,96.0,2022
+Nagarkurnool,January,9.84,19.3,84.0,2022
+Jogulamba Gadwal,June,118.29,36.6,81.0,2021
+Karimnagar,November,19.2,30.7,42.0,2022
+Suryapet,June,116.84,20.8,26.0,2019
+Khammam,December,7.46,25.6,97.0,2019
+Kumurambheem Asifabad,July,190.96,27.4,55.0,2016
+Nirmal,April,14.45,22.1,62.0,2020
+Rangareddy,April,17.85,43.7,26.0,2015
+Sangareddy,October,91.06,19.2,78.0,2022
+Rangareddy,August,189.01,28.1,64.0,2023
+Mulugu,October,90.89,22.9,36.0,2022
+Vikarabad,February,9.79,29.8,79.0,2022
+Kamareddy,November,17.94,31.7,93.0,2017
+Nirmal,March,14.5,41.8,45.0,2024
+Vikarabad,January,9.18,16.3,99.0,2022
+Jagtial,February,7.11,42.2,30.0,2019
+Kamareddy,April,16.49,36.7,49.0,2018
+Mahabubnagar,March,12.1,21.9,34.0,2018
+Kumurambheem Asifabad,March,15.06,36.6,65.0,2024
+Karimnagar,March,13.69,34.4,54.0,2024
+Nalgonda,November,18.57,20.5,48.0,2024
+Rangareddy,August,189.01,19.8,52.0,2019
+Karimnagar,February,5.45,40.1,48.0,2019
+Suryapet,January,13.33,38.5,29.0,2024
+Wanaparthy,January,8.74,42.6,55.0,2018
+Peddapalli,March,13.23,41.6,86.0,2024
+Kumurambheem Asifabad,June,116.57,37.4,43.0,2023
+Adilabad,March,14.09,37.7,75.0,2019
+Siddipet,July,194.63,30.7,31.0,2025
+Rajanna Sircilla,March,14.79,33.0,72.0,2023
+Nirmal,February,8.02,31.4,100.0,2025
+Nalgonda,November,18.93,34.2,98.0,2017
+Rangareddy,February,8.49,23.2,46.0,2021
+Nalgonda,December,7.68,17.0,24.0,2024
+Vikarabad,June,117.28,39.1,60.0,2017
+Khammam,June,122.98,37.3,28.0,2017
+Kamareddy,November,18.58,24.6,98.0,2024
+Adilabad,July,190.38,20.9,90.0,2019
+Jogulamba Gadwal,May,29.07,40.9,70.0,2015
+Karimnagar,December,10.44,22.6,30.0,2020
+Mancherial,August,191.6,20.5,93.0,2022
+Kamareddy,December,6.45,37.0,46.0,2015
+Kumurambheem Asifabad,September,137.25,40.2,52.0,2018
+Nirmal,April,18.49,43.8,36.0,2021
+Jagtial,March,13.66,43.6,22.0,2016
+Mahabubabad,June,118.27,37.4,81.0,2024
+Rangareddy,March,15.27,24.5,30.0,2017
+Jagtial,March,12.42,43.2,78.0,2015
+Wanaparthy,December,7.6,15.9,76.0,2017
+Jogulamba Gadwal,March,14.1,27.1,87.0,2023
+Mulugu,October,91.16,28.8,81.0,2015
+Siddipet,January,7.87,20.6,57.0,2024
+Rangareddy,May,30.35,27.7,35.0,2022
+Nizamabad,November,15.43,33.0,68.0,2015
+Jagtial,January,11.87,32.4,65.0,2018
+Nirmal,March,12.5,42.4,85.0,2024
+Rangareddy,February,5.02,36.4,23.0,2018
+Hyderabad,July,193.58,28.4,30.0,2021
+Nalgonda,December,1.86,35.1,56.0,2021
+Peddapalli,October,91.51,21.0,97.0,2024
+Vikarabad,July,194.72,28.0,63.0,2022
+Mulugu,July,193.42,34.3,59.0,2020
+Nalgonda,September,137.32,42.4,32.0,2021
+Kamareddy,July,191.36,44.8,60.0,2024
+Mulugu,March,14.83,24.0,24.0,2021
+Nalgonda,March,18.21,42.8,31.0,2025
+Suryapet,November,18.76,24.0,30.0,2024
+Mahabubabad,July,191.61,43.0,51.0,2017
+Mulugu,March,19.58,38.0,38.0,2019
+Nirmal,February,6.36,30.9,22.0,2018
+Rajanna Sircilla,September,136.91,37.8,77.0,2024
+Suryapet,October,92.84,45.0,54.0,2016
+Peddapalli,February,9.77,15.1,87.0,2016
+Medak,October,92.82,42.4,46.0,2022
+Kumurambheem Asifabad,May,30.95,32.1,25.0,2024
+Vikarabad,April,18.71,18.4,90.0,2016
+Mancherial,November,21.71,16.3,35.0,2016
+Siddipet,April,17.8,19.2,75.0,2018
+Jogulamba Gadwal,January,13.04,25.9,69.0,2025
+Mancherial,November,13.91,18.8,54.0,2023
+Hanamkonda,October,92.5,29.2,70.0,2020
+Medak,June,117.55,30.3,75.0,2018
+Mancherial,March,13.95,44.6,53.0,2017
+Yadadri Bhuvanagiri,March,15.76,40.9,49.0,2021
+Mancherial,April,18.08,18.9,93.0,2018
+Adilabad,August,188.9,24.4,51.0,2024
+Mancherial,March,11.44,44.9,78.0,2020
+Sangareddy,May,32.01,44.3,74.0,2017
+Siddipet,December,8.31,36.5,94.0,2022
+Peddapalli,November,20.1,15.6,99.0,2016
+Jagtial,July,190.89,30.7,95.0,2016
+Hanamkonda,February,8.99,31.1,39.0,2016
+Rangareddy,October,93.33,41.4,92.0,2016
+Suryapet,May,32.08,24.6,37.0,2019
+Siddipet,June,120.15,43.9,68.0,2018
+Karimnagar,October,94.34,18.4,30.0,2023
+Suryapet,October,92.25,19.7,36.0,2018
+Hyderabad,November,16.69,45.0,66.0,2022
+Nalgonda,February,7.49,34.2,68.0,2025
+Jagtial,October,94.37,21.0,37.0,2021
+Vikarabad,October,90.39,24.5,81.0,2023
+Suryapet,May,32.33,33.6,99.0,2019
+Sangareddy,June,121.93,27.0,60.0,2020
+Mancherial,April,16.91,23.1,49.0,2018
+Kamareddy,September,138.35,42.5,36.0,2019
+Suryapet,February,7.59,22.9,87.0,2018
+Nirmal,July,189.63,24.1,99.0,2017
+Mahabubabad,July,193.49,28.7,28.0,2015
+Jogulamba Gadwal,October,91.89,21.7,41.0,2023
+Khammam,July,190.36,28.9,51.0,2016
+Medak,March,12.09,40.3,91.0,2016
+Sangareddy,December,3.78,42.3,35.0,2020
+Mancherial,June,124.27,40.1,37.0,2020
+Khammam,January,8.72,44.8,52.0,2025
+Kumurambheem Asifabad,May,28.95,39.2,74.0,2021
+Kumurambheem Asifabad,December,4.49,41.7,56.0,2024
+Hyderabad,April,18.46,35.4,55.0,2020
+Rangareddy,November,17.25,34.9,98.0,2022
+Mulugu,November,16.95,39.5,58.0,2021
+Sangareddy,June,115.7,21.0,77.0,2025
+Nizamabad,July,187.84,22.8,97.0,2020
+Kumurambheem Asifabad,July,196.0,45.0,93.0,2025
+Nirmal,March,14.97,28.8,29.0,2020
+Rangareddy,February,5.09,22.5,75.0,2015
+Jogulamba Gadwal,June,121.04,20.8,42.0,2023
+Rangareddy,May,31.23,36.2,32.0,2024
+Sangareddy,October,91.83,23.8,66.0,2015
+Jagtial,December,4.59,18.6,38.0,2024
+Jagtial,April,20.28,31.0,99.0,2025
+Rajanna Sircilla,April,16.62,26.8,93.0,2018
+Karimnagar,October,90.78,16.7,51.0,2025
+Nizamabad,February,5.17,41.3,92.0,2025
+Nirmal,May,32.49,37.1,84.0,2017
+Medak,August,192.55,44.8,44.0,2017
+Nalgonda,May,28.08,34.9,58.0,2024
+Suryapet,April,14.78,43.6,55.0,2023
+Vikarabad,November,17.92,34.9,86.0,2015
+Mancherial,March,9.38,17.6,75.0,2022
+Adilabad,December,7.35,33.2,40.0,2023
+Nagarkurnool,April,19.51,40.2,60.0,2018
+Mahabubabad,June,118.99,29.3,97.0,2024
+Mahabubnagar,July,193.24,32.9,73.0,2021
+Nalgonda,July,194.97,29.3,67.0,2020
+Rajanna Sircilla,April,18.64,16.4,52.0,2018
+Mahabubabad,December,4.09,39.0,67.0,2015
+Adilabad,November,19.48,26.2,50.0,2015
+Nalgonda,October,92.54,37.4,38.0,2020
+Sangareddy,December,7.3,24.7,63.0,2020
+Jagtial,January,6.71,34.0,92.0,2019
+Hyderabad,July,193.01,40.1,81.0,2018
+Vikarabad,August,191.37,40.7,26.0,2025
+Mancherial,January,12.14,36.9,70.0,2023
+Karimnagar,May,31.11,19.1,33.0,2016
+Kumurambheem Asifabad,November,17.74,22.1,54.0,2022
+Suryapet,December,7.13,16.9,91.0,2023
+Medak,May,29.91,18.6,74.0,2021
+Mahabubnagar,November,20.83,39.0,29.0,2024
+Karimnagar,August,193.83,27.8,91.0,2017
+Siddipet,May,30.91,31.2,53.0,2016
+Mahabubnagar,February,7.78,43.7,41.0,2018
+Khammam,March,16.59,21.5,52.0,2025
+Nalgonda,November,18.54,38.9,39.0,2025
+Mahabubnagar,October,91.74,29.5,20.0,2022
+Siddipet,September,133.08,35.8,64.0,2024
+Kamareddy,December,6.51,21.9,91.0,2021
+Sangareddy,April,17.02,34.0,65.0,2018
+Yadadri Bhuvanagiri,November,20.02,36.2,69.0,2025
+Jagtial,September,141.96,32.6,65.0,2024
+Nirmal,January,9.73,19.4,29.0,2015
+Hanamkonda,December,4.9,27.1,80.0,2022
+Mahabubabad,December,2.61,38.6,100.0,2022
+Mulugu,October,95.24,16.4,80.0,2019
+Hyderabad,November,15.7,16.8,98.0,2015
+Kamareddy,October,94.15,30.3,57.0,2021
+Mahabubnagar,May,30.07,23.0,59.0,2018
+Rajanna Sircilla,July,190.7,20.0,38.0,2015
+Jogulamba Gadwal,January,10.3,28.8,52.0,2019
+Hyderabad,December,1.81,36.9,70.0,2020
+Nagarkurnool,October,86.49,35.2,89.0,2016
+Vikarabad,March,17.45,41.6,41.0,2024
+Sangareddy,July,191.71,30.3,56.0,2023
+Nalgonda,November,19.15,37.7,81.0,2016
+Nirmal,November,17.19,21.6,44.0,2020
+Hyderabad,January,9.72,42.9,73.0,2025
+Nirmal,January,7.04,31.8,96.0,2022
+Rangareddy,December,6.27,29.7,88.0,2020
+Karimnagar,March,14.63,30.5,63.0,2015
+Suryapet,April,16.7,43.4,55.0,2015
+Yadadri Bhuvanagiri,August,190.03,33.3,92.0,2015
+Yadadri Bhuvanagiri,October,91.47,40.7,88.0,2023
+Jogulamba Gadwal,September,136.72,34.2,49.0,2016
+Suryapet,November,19.67,30.6,71.0,2019
+Yadadri Bhuvanagiri,September,135.94,27.9,56.0,2016
+Nalgonda,May,28.26,21.9,89.0,2015
+Hanamkonda,March,9.5,37.8,98.0,2025
+Rangareddy,February,7.28,34.3,34.0,2023
+Yadadri Bhuvanagiri,June,118.92,24.5,85.0,2021
+Sangareddy,August,195.25,35.6,43.0,2016
+Kumurambheem Asifabad,May,30.0,36.7,27.0,2018
+Khammam,March,15.9,33.1,53.0,2020
+Mulugu,February,5.39,20.9,78.0,2024
+Jagtial,October,90.26,27.1,50.0,2017
+Nirmal,May,29.12,32.7,45.0,2023
+Khammam,September,137.3,21.0,77.0,2017
+Jogulamba Gadwal,March,16.97,23.3,55.0,2020
+Yadadri Bhuvanagiri,January,8.72,26.0,37.0,2022
+Suryapet,April,16.7,15.5,95.0,2024
+Vikarabad,February,9.28,26.3,60.0,2016
+Nirmal,December,7.68,19.2,79.0,2015
+Karimnagar,March,15.61,23.2,62.0,2025
+Mulugu,October,93.96,20.9,92.0,2016
+Wanaparthy,January,4.8,39.8,85.0,2021
+Kumurambheem Asifabad,August,191.39,17.1,55.0,2023
+Sangareddy,February,7.29,33.1,94.0,2018
+Wanaparthy,October,89.28,30.7,95.0,2024
+Hanamkonda,January,7.51,31.2,37.0,2018
+Mulugu,December,3.77,21.9,72.0,2019
+Hyderabad,November,17.75,35.5,98.0,2018
+Hyderabad,October,93.39,23.5,91.0,2016
+Kumurambheem Asifabad,July,193.07,18.9,82.0,2025
+Rangareddy,April,17.18,37.7,94.0,2024
+Nirmal,June,119.48,32.3,42.0,2024
+Jagtial,March,14.13,38.9,66.0,2021
+Kumurambheem Asifabad,June,118.89,30.0,83.0,2015
+Jagtial,December,5.15,20.9,48.0,2021
+Nalgonda,July,195.21,19.3,86.0,2024
+Siddipet,March,12.5,17.0,52.0,2022
+Adilabad,May,32.29,36.1,99.0,2018
+Adilabad,July,193.82,17.0,81.0,2024
+Rajanna Sircilla,December,6.39,24.8,99.0,2024
+Mahabubnagar,December,3.14,17.5,68.0,2023
+Wanaparthy,December,4.25,42.2,76.0,2024
+Nirmal,July,190.72,19.3,98.0,2020
+Nalgonda,April,21.92,34.1,51.0,2016
+Wanaparthy,June,122.74,41.3,43.0,2024
+Jagtial,July,189.83,38.8,43.0,2019
+Khammam,March,12.15,31.9,97.0,2017
+Kamareddy,June,119.76,41.5,58.0,2018
+Siddipet,April,16.6,30.1,54.0,2017
+Nirmal,November,15.09,24.2,25.0,2015
+Jagtial,September,134.53,24.8,51.0,2017
+Adilabad,May,30.52,43.5,89.0,2019
+Nizamabad,September,135.64,18.4,34.0,2016
+Nagarkurnool,April,18.19,38.3,41.0,2020
+Suryapet,May,25.82,28.0,34.0,2023
+Nirmal,July,191.52,23.6,85.0,2017
+Kumurambheem Asifabad,May,31.51,38.4,27.0,2019
+Nalgonda,September,137.09,17.1,58.0,2025
+Khammam,July,194.61,21.6,45.0,2016
+Yadadri Bhuvanagiri,March,13.97,44.2,31.0,2019
+Medak,February,6.55,23.7,83.0,2018
+Nizamabad,September,138.15,18.1,30.0,2023
+Hyderabad,September,137.93,39.0,65.0,2024
+Yadadri Bhuvanagiri,July,192.83,38.7,100.0,2022
+Sangareddy,May,27.78,31.5,46.0,2019
+Nizamabad,March,14.23,40.4,42.0,2022
+Hyderabad,November,19.45,31.5,77.0,2025
+Mancherial,December,4.69,42.8,57.0,2015
+Peddapalli,March,17.92,42.7,26.0,2018
+Rangareddy,October,93.85,27.3,99.0,2022
+Hanamkonda,December,7.53,37.0,35.0,2025
+Medak,December,5.47,21.8,44.0,2024
+Wanaparthy,August,187.81,22.9,35.0,2015
+Mancherial,July,194.73,20.3,98.0,2023
+Karimnagar,February,4.92,42.4,24.0,2020
+Vikarabad,October,92.85,40.8,52.0,2021
+Rajanna Sircilla,June,119.6,16.1,70.0,2022
+Jogulamba Gadwal,February,5.78,32.6,42.0,2025
+Jagtial,April,21.23,15.7,26.0,2016
+Adilabad,March,16.57,23.8,32.0,2017
+Yadadri Bhuvanagiri,April,17.73,32.9,79.0,2021
+Khammam,October,94.73,44.4,37.0,2021
+Nalgonda,May,30.18,34.2,60.0,2024
+Medak,June,118.1,43.3,31.0,2018
+Jagtial,May,30.08,41.5,72.0,2025
+Mahabubabad,July,190.04,42.7,49.0,2020
+Hyderabad,October,90.03,30.3,53.0,2019
+Yadadri Bhuvanagiri,May,29.39,37.7,87.0,2017
+Kamareddy,January,8.11,24.9,25.0,2021
+Mulugu,January,8.72,32.6,23.0,2025
+Yadadri Bhuvanagiri,May,30.03,31.0,57.0,2015
+Siddipet,November,15.59,38.9,20.0,2022
+Yadadri Bhuvanagiri,August,191.18,33.4,21.0,2019
+Nalgonda,January,5.56,39.8,63.0,2022
+Hyderabad,December,4.65,42.9,44.0,2017
+Yadadri Bhuvanagiri,November,18.83,23.4,79.0,2020
+Jogulamba Gadwal,July,190.62,39.0,84.0,2016
+Kamareddy,December,4.96,44.2,20.0,2023
+Vikarabad,August,191.65,40.9,49.0,2023
+Yadadri Bhuvanagiri,March,15.69,33.8,81.0,2015
+Mahabubabad,February,8.4,18.1,54.0,2023
+Mahabubabad,May,27.4,25.0,59.0,2015
+Nalgonda,June,122.77,42.0,95.0,2018
+Karimnagar,May,33.01,16.5,68.0,2022
+Rajanna Sircilla,January,8.48,26.5,27.0,2019
+Hanamkonda,October,92.32,42.9,58.0,2023
+Jagtial,September,137.49,18.2,20.0,2024
+Wanaparthy,January,8.85,37.8,96.0,2019
+Peddapalli,October,91.71,37.1,35.0,2015
+Mancherial,March,11.59,44.4,62.0,2018
+Wanaparthy,March,16.07,32.7,49.0,2015
+Kamareddy,September,137.01,28.8,61.0,2025
+Mulugu,February,10.23,20.1,87.0,2022
+Khammam,January,4.5,21.9,46.0,2018
+Vikarabad,August,189.95,36.8,32.0,2025
+Suryapet,August,189.28,37.8,74.0,2023
+Mahabubabad,August,189.29,18.2,73.0,2025
+Medak,November,20.9,15.6,53.0,2019
+Sangareddy,June,120.91,43.4,97.0,2016
+Yadadri Bhuvanagiri,December,4.23,22.0,36.0,2016
+Rangareddy,October,88.25,32.2,84.0,2023
+Karimnagar,July,189.21,17.9,34.0,2022
+Rajanna Sircilla,December,6.06,21.6,34.0,2020
+Sangareddy,August,191.41,41.0,44.0,2022
+Vikarabad,August,192.18,21.7,68.0,2023
+Mancherial,April,21.85,34.2,21.0,2018
+Nalgonda,October,91.2,25.8,47.0,2023
+Nagarkurnool,April,17.36,27.8,80.0,2015
+Mancherial,May,34.06,44.5,62.0,2022
+Rajanna Sircilla,April,14.95,42.1,88.0,2015
+Karimnagar,November,18.04,25.4,65.0,2020
+Rajanna Sircilla,September,138.12,44.1,86.0,2016
+Karimnagar,February,8.3,42.9,67.0,2022
+Jogulamba Gadwal,October,89.34,33.2,69.0,2019
+Kumurambheem Asifabad,May,30.78,28.9,76.0,2016
+Nirmal,December,3.05,26.9,33.0,2024
+Mancherial,March,9.17,30.9,49.0,2015
+Siddipet,November,16.6,31.1,36.0,2016
+Mahabubnagar,October,90.15,27.4,36.0,2016
+Hyderabad,June,119.34,22.2,95.0,2018
+Rangareddy,July,197.64,24.5,67.0,2021
+Nalgonda,October,93.75,15.7,37.0,2015
+Nirmal,December,11.39,42.6,27.0,2022
+Hanamkonda,May,31.46,43.9,51.0,2020
+Jogulamba Gadwal,July,192.37,16.7,54.0,2022
+Vikarabad,January,6.8,38.4,88.0,2024
+Jagtial,June,118.84,44.5,84.0,2023
+Khammam,January,2.04,23.6,57.0,2025
+Nirmal,September,139.29,39.3,98.0,2019
+Rangareddy,September,132.64,41.9,65.0,2017
+Medak,May,29.95,19.3,60.0,2020
+Nirmal,August,189.47,23.9,50.0,2022
+Nagarkurnool,September,135.44,35.3,65.0,2016
+Kumurambheem Asifabad,June,118.57,34.1,67.0,2021
+Nizamabad,May,29.85,25.9,42.0,2024
+Kamareddy,April,18.99,42.7,77.0,2018
+Hanamkonda,September,138.13,15.5,49.0,2019
+Mulugu,October,93.48,41.9,28.0,2022
+Vikarabad,January,8.51,27.7,28.0,2016
+Mahabubnagar,February,6.33,25.7,53.0,2018
+Nirmal,October,91.45,30.8,87.0,2018
+Sangareddy,February,4.79,22.9,64.0,2022
+Nagarkurnool,September,133.98,32.3,55.0,2020
+Mahabubnagar,May,30.19,29.6,30.0,2016
+Wanaparthy,May,33.23,28.7,94.0,2024
+Kumurambheem Asifabad,October,94.3,27.6,55.0,2025
+Wanaparthy,February,4.31,15.5,80.0,2020
+Karimnagar,August,190.3,41.3,38.0,2021
+Wanaparthy,September,138.99,32.5,72.0,2025
+Karimnagar,January,5.91,27.1,33.0,2018
+Karimnagar,August,189.02,34.5,45.0,2019
+Rangareddy,June,118.49,16.8,23.0,2024
+Medak,June,119.02,24.4,46.0,2018
+Wanaparthy,July,191.93,41.9,36.0,2015
+Jogulamba Gadwal,June,114.53,44.8,65.0,2016
+Rajanna Sircilla,April,18.32,36.7,100.0,2018
+Rajanna Sircilla,April,20.06,42.7,38.0,2019
+Hyderabad,March,11.96,20.4,91.0,2018
+Nizamabad,October,90.07,27.1,34.0,2015
+Kumurambheem Asifabad,May,30.19,34.0,83.0,2021
+Yadadri Bhuvanagiri,August,191.89,22.0,60.0,2015
+Mahabubnagar,February,10.14,25.7,78.0,2016
+Jagtial,June,120.61,36.9,35.0,2025
+Jagtial,June,120.47,36.0,45.0,2015
+Jogulamba Gadwal,April,15.12,24.6,44.0,2020
+Mulugu,December,2.9,34.9,64.0,2015
+Mahabubabad,December,4.74,31.1,85.0,2017
+Mulugu,December,2.74,25.1,75.0,2024
+Siddipet,December,3.5,25.2,42.0,2015
+Nalgonda,December,5.34,39.2,32.0,2018
+Siddipet,October,95.7,26.5,24.0,2021
+Mancherial,October,89.53,15.8,80.0,2024
+Nalgonda,October,96.5,43.6,63.0,2019
+Jagtial,May,28.68,38.8,39.0,2019
+Sangareddy,February,9.12,39.8,52.0,2017
+Mahabubnagar,August,192.95,18.7,94.0,2025
+Nalgonda,October,94.41,42.0,23.0,2020
+Nizamabad,August,191.81,16.9,48.0,2020
+Khammam,November,14.33,32.0,40.0,2017
+Mahabubabad,May,27.36,20.5,74.0,2015
+Mulugu,October,92.03,22.5,91.0,2017
+Mulugu,December,5.89,18.7,32.0,2024
+Hanamkonda,November,18.43,24.0,59.0,2023
+Kumurambheem Asifabad,October,91.94,28.1,58.0,2020
+Rangareddy,November,21.68,22.2,31.0,2022
+Khammam,May,31.5,28.0,31.0,2021
+Mulugu,April,20.08,33.0,56.0,2022
+Khammam,February,6.86,19.8,63.0,2019
+Hyderabad,August,191.23,15.9,73.0,2017
+Rangareddy,February,3.57,32.2,63.0,2019
+Wanaparthy,May,30.96,22.4,51.0,2021
+Adilabad,February,2.27,15.4,61.0,2015
+Nalgonda,June,122.14,21.3,41.0,2020
+Jagtial,February,8.44,29.1,29.0,2024
+Rangareddy,August,189.0,27.8,66.0,2025
+Jagtial,September,136.64,43.8,40.0,2022
+Peddapalli,August,193.21,31.5,73.0,2019
+Nirmal,October,93.04,15.7,49.0,2018
+Mahabubabad,August,189.59,44.0,44.0,2020
+Karimnagar,August,187.48,25.7,22.0,2018
+Suryapet,November,15.68,27.5,74.0,2018
+Yadadri Bhuvanagiri,July,193.63,22.2,69.0,2024
+Suryapet,November,19.64,30.4,94.0,2024
+Hanamkonda,October,90.56,22.3,54.0,2019
+Sangareddy,January,7.66,27.4,66.0,2016
+Vikarabad,September,138.57,21.1,93.0,2018
+Medak,February,7.5,29.5,83.0,2022
+Hanamkonda,September,137.95,42.3,65.0,2022
+Mancherial,November,18.59,28.7,77.0,2020
+Peddapalli,February,5.24,33.2,42.0,2017
+Rangareddy,April,19.36,19.1,52.0,2025
+Rajanna Sircilla,May,32.31,34.5,84.0,2021
+Karimnagar,April,19.12,17.8,90.0,2024
+Medak,August,187.6,16.2,91.0,2023
+Rangareddy,April,17.27,32.3,59.0,2015
+Vikarabad,July,193.3,38.1,36.0,2023
+Jogulamba Gadwal,March,12.25,26.1,98.0,2021
+Mulugu,April,17.09,41.7,69.0,2022
+Khammam,April,14.0,40.3,52.0,2023
+Rajanna Sircilla,September,138.66,21.9,76.0,2017
+Jogulamba Gadwal,August,191.0,41.5,29.0,2019
+Rajanna Sircilla,January,6.73,20.0,39.0,2019
+Vikarabad,January,4.53,28.1,66.0,2024
+Yadadri Bhuvanagiri,April,20.49,22.3,74.0,2023
+Khammam,April,17.14,38.3,97.0,2021
+Mancherial,September,137.76,29.2,71.0,2018
+Mahabubnagar,November,19.17,21.1,75.0,2015
+Kamareddy,April,19.87,16.8,93.0,2017
+Rangareddy,December,9.97,22.9,29.0,2017
+Peddapalli,August,192.36,20.7,29.0,2019
+Nagarkurnool,May,29.87,35.0,93.0,2025
+Vikarabad,May,30.88,16.0,20.0,2025
+Rajanna Sircilla,October,93.76,41.0,35.0,2019
+Medak,October,90.26,38.8,61.0,2020
+Peddapalli,October,89.28,26.5,74.0,2017
+Karimnagar,June,116.88,31.6,83.0,2024
+Rajanna Sircilla,February,10.57,17.2,33.0,2017
+Vikarabad,August,192.84,38.1,84.0,2024
+Medak,November,17.52,23.4,20.0,2020
+Adilabad,March,14.22,27.3,57.0,2023
+Vikarabad,June,119.84,22.0,40.0,2017
+Jagtial,February,10.54,27.0,20.0,2017
+Hyderabad,April,17.53,38.6,39.0,2022
+Karimnagar,May,28.83,26.7,90.0,2023
+Siddipet,December,5.12,40.3,44.0,2018
+Hanamkonda,February,6.92,40.4,42.0,2020
+Peddapalli,January,9.6,21.8,80.0,2019
+Sangareddy,January,5.89,43.4,20.0,2021
+Peddapalli,April,17.55,43.7,56.0,2015
+Nalgonda,August,194.86,25.9,71.0,2017
+Rajanna Sircilla,April,16.58,25.5,51.0,2015
+Mahabubabad,September,135.68,33.6,92.0,2015
+Kumurambheem Asifabad,November,18.69,28.4,31.0,2020
+Hanamkonda,July,192.36,21.4,23.0,2015
+Mancherial,March,14.95,17.7,70.0,2015
+Wanaparthy,September,134.67,15.9,67.0,2024
+Rajanna Sircilla,September,135.78,16.1,96.0,2024
+Peddapalli,April,21.19,18.0,23.0,2021
+Wanaparthy,June,118.9,41.0,85.0,2017
+Kumurambheem Asifabad,June,122.94,36.0,76.0,2020
+Mulugu,May,32.24,22.9,20.0,2017
+Nirmal,May,30.61,30.5,94.0,2017
+Mulugu,January,4.98,25.7,30.0,2025
+Sangareddy,January,12.09,26.4,69.0,2015
+Jogulamba Gadwal,August,191.39,27.4,90.0,2016
+Peddapalli,January,8.6,34.6,74.0,2015
+Mancherial,May,31.3,38.3,42.0,2023
+Nizamabad,January,9.24,31.3,81.0,2020
+Vikarabad,November,21.46,24.9,29.0,2023
+Rajanna Sircilla,April,17.72,43.0,78.0,2023
+Mancherial,July,194.13,28.7,20.0,2018
+Peddapalli,May,34.26,15.6,35.0,2024
+Khammam,July,191.0,31.3,94.0,2024
+Hyderabad,October,93.47,36.8,37.0,2025
+Kumurambheem Asifabad,March,11.94,30.7,72.0,2015
+Medak,August,189.05,40.9,89.0,2016
+Rangareddy,September,137.95,42.7,46.0,2021
+Kamareddy,July,194.86,20.9,81.0,2025
+Medak,June,118.22,33.1,53.0,2016
+Nagarkurnool,June,119.93,36.5,41.0,2024
+Khammam,June,117.2,16.7,86.0,2020
+Adilabad,December,7.84,34.9,59.0,2022
+Nizamabad,April,16.07,19.1,67.0,2019
+Nirmal,July,193.22,32.5,44.0,2023
+Karimnagar,December,8.15,32.0,81.0,2016
+Kamareddy,March,15.25,21.8,95.0,2018
+Adilabad,September,138.96,39.8,52.0,2023
+Kamareddy,June,121.75,21.2,53.0,2017
+Kamareddy,November,20.15,19.1,66.0,2025
+Mulugu,July,196.13,15.5,80.0,2021
+Khammam,March,15.44,27.2,89.0,2016
+Yadadri Bhuvanagiri,November,16.76,32.0,40.0,2023
+Khammam,August,188.07,17.4,82.0,2024
+Kamareddy,August,192.82,21.0,36.0,2025
+Wanaparthy,July,190.12,32.5,100.0,2016
+Kamareddy,November,17.72,39.5,34.0,2020
+Wanaparthy,January,6.93,33.2,70.0,2020
+Adilabad,March,15.06,38.5,22.0,2025
+Mancherial,July,192.53,22.6,100.0,2018
+Khammam,October,93.04,23.9,85.0,2019
+Rajanna Sircilla,February,7.85,17.3,20.0,2021
+Jagtial,May,32.36,25.2,78.0,2024
+Mulugu,January,6.25,24.4,27.0,2025
+Nagarkurnool,October,89.51,44.8,76.0,2022
+Suryapet,December,6.37,39.2,47.0,2017
+Hyderabad,January,5.22,19.9,30.0,2017
+Vikarabad,October,91.6,36.5,51.0,2023
+Rangareddy,May,29.51,42.4,67.0,2025
+Rajanna Sircilla,June,120.7,34.7,63.0,2025
+Peddapalli,July,190.78,29.6,64.0,2017
+Nagarkurnool,July,190.5,32.7,29.0,2018
+Karimnagar,February,6.44,32.9,93.0,2023
+Adilabad,September,134.64,28.4,93.0,2016
+Sangareddy,June,115.65,21.3,38.0,2017
+Jagtial,June,117.12,17.0,53.0,2025
+Mahabubabad,March,15.48,19.7,99.0,2025
+Hanamkonda,June,120.32,27.7,29.0,2022
+Rangareddy,February,8.48,16.4,82.0,2022
+Rangareddy,March,15.73,40.2,21.0,2015
+Nagarkurnool,April,15.71,24.2,72.0,2021
+Siddipet,October,95.2,23.1,96.0,2025
+Nirmal,May,33.38,23.2,20.0,2021
+Nalgonda,June,122.7,16.3,55.0,2015
+Kamareddy,November,19.28,33.5,65.0,2021
+Hyderabad,November,15.88,26.0,69.0,2015
+Siddipet,July,191.6,28.5,21.0,2016
+Mahabubabad,August,188.22,41.7,42.0,2022
+Jagtial,July,192.88,39.2,21.0,2023
+Mahabubabad,December,5.29,38.8,63.0,2024
+Medak,January,10.0,44.8,42.0,2015
+Mancherial,October,91.77,34.7,82.0,2024
+Khammam,September,137.24,29.2,89.0,2015
+Khammam,January,8.04,44.3,97.0,2018
+Peddapalli,June,117.46,26.3,61.0,2017
+Nizamabad,October,89.6,21.2,32.0,2023
+Peddapalli,August,191.59,34.3,22.0,2016
+Kamareddy,January,7.33,26.7,41.0,2015
+Rangareddy,April,17.31,17.4,39.0,2023
+Nagarkurnool,September,139.1,40.1,85.0,2015
+Karimnagar,February,7.7,26.1,100.0,2016
+Medak,November,20.9,21.6,94.0,2024
+Mancherial,May,29.77,41.0,49.0,2020
+Rangareddy,May,28.72,26.3,50.0,2015
+Yadadri Bhuvanagiri,October,91.34,38.5,99.0,2024
+Yadadri Bhuvanagiri,August,189.79,20.0,92.0,2019
+Mahabubabad,November,19.59,31.0,82.0,2023
+Peddapalli,June,117.09,23.0,49.0,2019
+Mulugu,June,120.6,26.2,87.0,2022
+Hanamkonda,May,32.39,23.2,62.0,2017
+Suryapet,December,3.38,36.2,73.0,2017
+Wanaparthy,April,19.61,20.5,64.0,2019
+Rajanna Sircilla,September,140.55,29.8,63.0,2020
+Wanaparthy,February,4.16,33.4,98.0,2021
+Wanaparthy,November,21.29,23.8,47.0,2022
+Jogulamba Gadwal,October,90.3,33.4,26.0,2015
+Nagarkurnool,July,194.12,31.7,68.0,2021
+Nagarkurnool,December,5.98,19.7,81.0,2021
+Vikarabad,October,91.09,21.4,100.0,2020
+Jogulamba Gadwal,December,4.07,38.3,92.0,2021
+Mahabubnagar,August,191.81,37.9,72.0,2020
+Wanaparthy,April,18.79,28.1,34.0,2019
+Peddapalli,August,191.06,43.6,86.0,2015
+Yadadri Bhuvanagiri,July,192.75,17.6,28.0,2022
+Hyderabad,February,10.39,38.1,53.0,2024
+Sangareddy,August,191.56,25.8,80.0,2016
+Kumurambheem Asifabad,December,2.23,20.4,89.0,2023
+Mahabubabad,March,16.68,43.5,90.0,2021
+Hyderabad,May,28.51,27.3,86.0,2021
+Jogulamba Gadwal,June,115.65,28.3,37.0,2017
+Siddipet,January,7.99,26.0,60.0,2016
+Mahabubnagar,September,134.89,29.4,55.0,2024
+Siddipet,December,5.95,16.3,36.0,2023
+Nalgonda,March,15.84,39.2,83.0,2023
+Adilabad,May,35.57,29.0,77.0,2022
+Mancherial,January,6.57,30.6,91.0,2022
+Suryapet,January,8.85,31.1,71.0,2018
+Suryapet,April,22.71,38.5,100.0,2024
+Nizamabad,March,17.66,15.7,58.0,2015
+Medak,February,5.01,21.0,82.0,2016
+Hyderabad,January,7.51,44.9,92.0,2022
+Mulugu,September,139.25,22.8,32.0,2018
+Hyderabad,March,16.42,22.8,55.0,2018
+Wanaparthy,April,19.04,31.0,46.0,2025
+Adilabad,March,10.14,29.9,87.0,2021
+Nagarkurnool,February,5.93,37.9,74.0,2016
+Rangareddy,August,190.51,24.6,90.0,2019
+Peddapalli,September,133.15,19.1,100.0,2021
+Nizamabad,November,16.37,18.8,68.0,2025
+Wanaparthy,September,138.02,35.0,39.0,2017
+Jagtial,October,94.74,41.8,31.0,2022
+Peddapalli,June,117.53,44.5,81.0,2015
+Peddapalli,June,115.84,30.9,86.0,2017
+Yadadri Bhuvanagiri,September,134.55,40.7,31.0,2023
+Yadadri Bhuvanagiri,February,5.05,21.5,92.0,2016
+Jogulamba Gadwal,January,9.26,35.5,59.0,2023
+Jogulamba Gadwal,April,17.87,44.2,48.0,2023
+Wanaparthy,April,19.66,25.2,20.0,2017
+Siddipet,March,13.63,24.9,52.0,2025
+Mancherial,June,117.12,19.8,23.0,2020
+Nagarkurnool,February,7.92,19.6,68.0,2025
+Karimnagar,January,7.2,19.3,44.0,2018
+Jagtial,December,5.69,27.9,63.0,2023
+Wanaparthy,March,12.23,38.1,30.0,2023
+Hyderabad,May,28.67,20.6,55.0,2017
+Yadadri Bhuvanagiri,November,16.88,34.6,78.0,2017
+Kumurambheem Asifabad,March,12.73,17.8,74.0,2017
+Medak,October,91.16,37.6,93.0,2017
+Yadadri Bhuvanagiri,June,119.76,34.1,62.0,2022
+Siddipet,November,18.98,42.7,56.0,2019
+Rajanna Sircilla,February,4.0,35.1,41.0,2022
+Nirmal,August,189.16,30.8,82.0,2022
+Sangareddy,February,6.17,21.1,81.0,2020
+Hanamkonda,October,93.94,20.6,75.0,2023
+Suryapet,October,94.11,34.0,69.0,2018
+Kumurambheem Asifabad,May,32.4,45.0,67.0,2020
+Kamareddy,May,29.05,23.7,33.0,2015
+Yadadri Bhuvanagiri,June,116.3,40.0,24.0,2022
+Kamareddy,November,19.73,32.2,31.0,2024
+Mahabubabad,April,22.13,23.9,32.0,2021
+Kamareddy,December,7.23,43.0,52.0,2015
+Hanamkonda,January,6.3,21.3,55.0,2023
+Sangareddy,September,138.76,16.5,83.0,2024
+Hanamkonda,May,30.93,36.9,33.0,2023
+Mahabubabad,October,92.05,18.1,95.0,2024
+Jogulamba Gadwal,September,137.9,39.4,36.0,2024
+Jagtial,January,6.94,42.9,21.0,2018
+Adilabad,July,192.09,33.6,43.0,2018
+Khammam,June,116.69,16.8,96.0,2022
+Adilabad,November,19.74,22.1,93.0,2022
+Hanamkonda,August,189.61,41.2,93.0,2025
+Hyderabad,January,9.42,17.6,31.0,2023
+Mancherial,October,90.67,29.8,23.0,2018
+Hyderabad,August,193.32,42.6,29.0,2017
+Hanamkonda,July,186.93,40.0,84.0,2019
+Rangareddy,November,21.67,42.8,49.0,2024
+Karimnagar,July,188.73,38.4,66.0,2019
+Wanaparthy,August,191.36,19.5,73.0,2017
+Suryapet,July,191.73,37.4,80.0,2022
+Nirmal,May,33.47,41.0,32.0,2018
+Rajanna Sircilla,May,29.84,33.8,29.0,2024
+Hanamkonda,July,191.73,34.9,89.0,2023
+Karimnagar,June,117.58,15.3,63.0,2025
+Sangareddy,June,117.88,30.9,73.0,2020
+Siddipet,March,14.18,25.3,49.0,2023
+Medak,March,15.34,40.6,80.0,2019
+Nizamabad,October,91.58,22.7,49.0,2024
+Kumurambheem Asifabad,September,134.27,33.2,87.0,2019
+Vikarabad,January,7.29,42.6,63.0,2019
+Khammam,June,116.07,19.5,41.0,2022
+Siddipet,January,11.86,32.7,80.0,2016
+Nagarkurnool,April,20.7,17.1,70.0,2018
+Mahabubabad,October,91.6,40.4,57.0,2017
+Hyderabad,May,27.49,39.3,96.0,2021
+Karimnagar,October,92.35,30.2,51.0,2022
+Adilabad,January,7.71,39.2,57.0,2020
+Nirmal,May,30.45,23.9,78.0,2022
+Hyderabad,September,134.79,43.4,76.0,2018
+Adilabad,July,194.64,40.0,29.0,2015
+Rangareddy,August,189.98,19.2,70.0,2019
+Jagtial,February,6.17,42.9,28.0,2024
+Nizamabad,April,17.74,32.5,55.0,2021
+Adilabad,December,8.04,22.4,48.0,2018
+Peddapalli,January,8.93,44.7,98.0,2023
+Jogulamba Gadwal,October,95.79,23.8,54.0,2025
+Karimnagar,August,189.38,43.2,52.0,2017
+Nagarkurnool,January,5.71,18.8,52.0,2021
+Mulugu,April,17.78,26.5,41.0,2021
+Siddipet,July,195.02,43.7,78.0,2022
+Khammam,July,190.04,27.5,51.0,2016
+Suryapet,August,190.44,20.0,80.0,2020
+Nagarkurnool,April,17.45,41.3,63.0,2023
+Karimnagar,October,95.17,29.5,31.0,2024
+Khammam,May,26.5,43.0,85.0,2022
+Nagarkurnool,December,4.59,41.6,40.0,2019
+Medak,March,14.41,44.5,79.0,2017
+Nalgonda,February,8.07,35.1,26.0,2015
+Nizamabad,December,2.51,29.7,24.0,2021
+Nalgonda,January,7.79,38.3,84.0,2016
+Kumurambheem Asifabad,July,191.9,17.2,27.0,2025
+Jagtial,January,12.21,21.3,89.0,2025
+Sangareddy,August,185.26,17.7,91.0,2022
+Hyderabad,July,186.69,25.9,25.0,2020
+Siddipet,April,16.43,23.0,62.0,2021
+Mahabubabad,May,31.59,22.0,49.0,2018
+Suryapet,September,138.65,22.8,32.0,2015
+Peddapalli,April,18.55,34.2,78.0,2017
+Medak,July,193.27,26.7,68.0,2024
+Mancherial,March,13.54,26.0,100.0,2021
+Karimnagar,June,119.21,37.8,70.0,2024
+Kamareddy,November,21.02,38.5,46.0,2023
+Medak,July,192.31,22.3,64.0,2018
+Nalgonda,October,92.77,36.0,42.0,2020
+Medak,October,92.04,31.6,31.0,2021
+Mancherial,July,189.61,22.1,63.0,2025
+Adilabad,June,121.22,44.6,90.0,2025
+Siddipet,July,187.14,40.0,25.0,2024
+Karimnagar,October,93.59,23.2,54.0,2019
+Jogulamba Gadwal,December,5.59,26.2,77.0,2017
+Adilabad,August,194.66,16.5,38.0,2021
+Nalgonda,November,18.63,37.3,96.0,2016
+Suryapet,January,2.76,25.4,40.0,2021
+Mahabubabad,September,134.46,21.9,98.0,2016
+Khammam,November,13.22,44.3,100.0,2019
+Yadadri Bhuvanagiri,October,94.66,33.3,21.0,2016
+Wanaparthy,October,91.81,24.8,42.0,2017
+Mancherial,February,9.03,18.2,59.0,2019
+Jagtial,November,19.48,22.7,27.0,2024
+Mahabubabad,May,30.61,35.5,98.0,2016
+Nalgonda,August,193.83,31.1,38.0,2020
+Jogulamba Gadwal,May,33.26,43.3,44.0,2024
+Khammam,June,118.25,26.1,57.0,2017
+Vikarabad,August,188.75,33.1,56.0,2023
+Hyderabad,December,3.5,34.7,98.0,2015
+Siddipet,January,8.46,19.6,57.0,2019
+Sangareddy,August,192.86,23.3,44.0,2025
+Mancherial,April,14.6,38.3,24.0,2024
+Mancherial,June,119.28,32.4,32.0,2024
+Karimnagar,July,191.78,30.5,86.0,2020
+Sangareddy,August,191.25,37.5,86.0,2018
+Vikarabad,November,16.33,36.2,30.0,2017
+Kamareddy,August,191.09,31.0,61.0,2025
+Kumurambheem Asifabad,March,14.13,18.5,64.0,2020
+Hanamkonda,February,8.56,42.9,70.0,2019
+Suryapet,November,14.55,22.8,44.0,2020
+Nalgonda,August,192.64,38.4,100.0,2023
+Jogulamba Gadwal,May,32.37,42.9,76.0,2017
+Hanamkonda,June,118.92,44.6,57.0,2025
+Rangareddy,November,14.42,26.9,27.0,2018
+Rajanna Sircilla,June,119.66,20.4,40.0,2025
+Nirmal,July,192.22,33.5,69.0,2018
+Kumurambheem Asifabad,December,2.77,24.9,84.0,2019
+Peddapalli,October,89.4,28.8,70.0,2017
+Hyderabad,March,13.01,33.1,74.0,2023
+Nalgonda,September,134.63,23.5,58.0,2016
+Rajanna Sircilla,November,19.31,25.5,99.0,2023
+Suryapet,June,118.59,27.9,34.0,2020
+Sangareddy,August,189.01,33.7,29.0,2021
+Wanaparthy,March,16.55,30.9,55.0,2023
+Nagarkurnool,July,196.69,15.1,92.0,2021
+Mahabubabad,May,30.41,22.2,74.0,2021
+Hanamkonda,August,190.52,26.3,82.0,2015
+Jogulamba Gadwal,December,5.7,23.2,22.0,2017
+Hanamkonda,November,20.82,43.1,72.0,2020
+Yadadri Bhuvanagiri,April,19.67,23.8,44.0,2016
+Hyderabad,October,90.19,32.0,20.0,2023
+Rangareddy,June,117.94,29.7,37.0,2015
+Nirmal,August,191.11,21.3,90.0,2023
+Adilabad,May,30.68,20.2,85.0,2018
+Nagarkurnool,January,9.21,25.3,45.0,2025
+Jagtial,November,20.27,39.5,49.0,2025
+Khammam,January,8.93,40.2,49.0,2020
+Peddapalli,June,119.19,25.3,75.0,2019
+Nirmal,October,92.52,37.9,41.0,2025
+Nagarkurnool,January,10.7,21.3,31.0,2020
+Rangareddy,June,122.01,22.3,91.0,2017
+Jogulamba Gadwal,August,192.09,31.6,79.0,2025
+Medak,September,139.49,24.4,61.0,2018
+Nirmal,September,137.28,27.4,27.0,2021
+Hanamkonda,December,2.92,23.0,97.0,2018
+Jogulamba Gadwal,April,20.91,19.6,79.0,2025
+Suryapet,February,8.74,19.7,20.0,2016
+Kamareddy,May,28.87,40.8,88.0,2016
+Kumurambheem Asifabad,February,7.95,24.4,29.0,2022
+Suryapet,July,197.17,33.8,60.0,2025
+Siddipet,February,6.94,31.2,51.0,2018
+Mahabubnagar,September,137.81,44.4,40.0,2017
+Hanamkonda,January,10.4,20.3,85.0,2017
+Hanamkonda,December,3.94,39.2,44.0,2016
+Nirmal,June,122.46,28.1,79.0,2022
+Hanamkonda,May,30.66,42.8,95.0,2015
+Mahabubnagar,February,4.96,44.9,50.0,2021
+Suryapet,May,29.25,37.1,46.0,2025
+Rangareddy,February,4.16,27.1,57.0,2017
+Hyderabad,November,19.32,22.3,95.0,2019
+Jogulamba Gadwal,March,15.46,16.0,83.0,2018
+Suryapet,September,135.82,34.4,79.0,2019
+Khammam,June,120.72,34.0,46.0,2022
+Mulugu,April,20.52,22.5,33.0,2025
+Hanamkonda,December,2.53,24.8,24.0,2017
+Hyderabad,December,6.53,42.7,62.0,2015
+Kamareddy,May,28.58,41.5,97.0,2015
+Mahabubnagar,August,191.61,44.2,33.0,2024
+Medak,August,190.6,24.7,62.0,2019
+Karimnagar,May,29.21,40.1,89.0,2022
+Adilabad,January,5.79,35.3,80.0,2020
+Vikarabad,April,19.57,34.8,38.0,2019
+Sangareddy,November,17.66,23.5,35.0,2020
+Nizamabad,December,5.52,17.4,87.0,2016
+Karimnagar,November,19.77,23.6,52.0,2019
+Nirmal,February,8.74,20.7,34.0,2024
+Rangareddy,January,10.84,25.5,42.0,2021
+Karimnagar,December,4.37,24.7,99.0,2023
+Nirmal,February,7.51,16.0,79.0,2016
+Peddapalli,July,190.09,19.8,83.0,2024
+Medak,March,13.19,22.5,84.0,2015
+Mancherial,July,190.39,34.3,93.0,2022
+Mahabubnagar,October,94.06,24.1,92.0,2025
+Karimnagar,November,19.6,41.5,51.0,2019
+Medak,June,117.59,43.4,61.0,2022
+Mahabubabad,August,192.5,40.9,83.0,2024
+Peddapalli,July,190.73,17.5,84.0,2018
+Jagtial,June,118.71,40.9,97.0,2024
+Hyderabad,February,7.1,38.9,99.0,2024
+Suryapet,May,32.75,29.2,87.0,2019
+Medak,April,16.25,32.6,25.0,2025
+Mancherial,March,14.49,25.9,57.0,2019
+Nizamabad,November,17.92,37.4,60.0,2022
+Sangareddy,September,138.44,29.8,39.0,2015
+Hanamkonda,March,12.08,17.5,75.0,2019
+Vikarabad,May,32.82,29.1,75.0,2023
+Khammam,February,5.22,32.1,60.0,2023
+Karimnagar,June,121.44,28.5,38.0,2017
+Hyderabad,October,92.93,39.6,59.0,2021
+Nalgonda,March,15.02,43.7,92.0,2023
+Kamareddy,August,191.49,17.5,80.0,2017
+Jagtial,December,6.28,36.8,42.0,2017
+Jagtial,September,140.06,19.1,75.0,2021
+Wanaparthy,June,119.89,28.8,62.0,2024
+Karimnagar,October,93.52,43.4,79.0,2020
+Vikarabad,October,88.62,38.2,30.0,2025
+Mancherial,July,190.64,19.9,72.0,2021
+Yadadri Bhuvanagiri,February,6.72,27.0,66.0,2020
+Kumurambheem Asifabad,October,91.69,38.2,43.0,2022
+Mulugu,December,4.5,23.6,28.0,2016
+Mahabubabad,April,17.93,40.3,80.0,2024
+Rajanna Sircilla,May,28.77,23.1,87.0,2015
+Peddapalli,July,193.19,31.8,22.0,2023
+Jogulamba Gadwal,October,91.57,26.8,81.0,2018
+Wanaparthy,May,32.55,18.3,58.0,2015
+Khammam,February,5.57,38.5,85.0,2018
+Siddipet,January,11.63,32.1,39.0,2017
+Nirmal,May,30.15,33.0,94.0,2021
+Adilabad,January,10.05,43.5,67.0,2022
+Suryapet,September,137.71,20.3,31.0,2020
+Karimnagar,November,16.11,19.0,54.0,2023
+Medak,February,4.74,16.2,68.0,2021
+Sangareddy,July,193.66,20.4,59.0,2021
+Nizamabad,November,16.0,25.0,68.0,2015
+Wanaparthy,November,18.13,42.1,100.0,2022
+Nalgonda,November,19.28,16.3,52.0,2022
+Mancherial,December,6.24,30.1,81.0,2023
+Nagarkurnool,November,19.55,41.5,89.0,2015
+Rangareddy,July,192.37,28.2,65.0,2024
+Rangareddy,August,192.34,31.9,80.0,2025
+Rangareddy,March,11.69,44.1,32.0,2025
+Jogulamba Gadwal,April,15.24,38.5,46.0,2025
+Adilabad,January,3.22,19.9,65.0,2017
+Kumurambheem Asifabad,May,28.62,27.5,59.0,2024
+Vikarabad,April,17.53,26.5,86.0,2015
+Nagarkurnool,May,32.03,20.1,100.0,2020
+Wanaparthy,September,137.09,41.1,98.0,2015
+Suryapet,November,22.66,19.8,32.0,2025
+Hanamkonda,January,13.29,34.1,97.0,2022
+Kamareddy,March,12.63,43.9,33.0,2019
+Mancherial,April,17.64,37.4,22.0,2018
+Rajanna Sircilla,June,118.93,33.8,81.0,2015
+Medak,February,9.22,32.3,22.0,2022
+Sangareddy,August,190.1,39.4,82.0,2022
+Wanaparthy,October,96.18,16.8,86.0,2015
+Adilabad,December,7.08,35.8,40.0,2018
+Vikarabad,July,191.32,21.5,88.0,2015
+Peddapalli,October,92.39,20.2,27.0,2017
+Hanamkonda,January,6.73,25.1,83.0,2017
+Medak,July,190.75,31.1,90.0,2018
+Mulugu,March,11.47,28.2,76.0,2018
+Mahabubabad,October,91.49,24.9,97.0,2024
+Mulugu,October,91.23,28.8,45.0,2020
+Rangareddy,September,132.65,43.6,37.0,2018
+Nagarkurnool,September,137.02,42.9,87.0,2020
+Kamareddy,March,12.74,37.5,40.0,2016
+Hyderabad,November,17.08,24.9,84.0,2025
+Yadadri Bhuvanagiri,September,140.38,31.3,87.0,2023
+Kamareddy,February,6.96,35.7,97.0,2018
+Medak,September,135.76,22.9,86.0,2018
+Hyderabad,November,19.88,31.2,54.0,2019
+Jogulamba Gadwal,March,12.32,32.7,98.0,2015
+Mulugu,September,136.85,21.1,68.0,2017
+Mahabubnagar,June,116.74,21.3,51.0,2017
+Adilabad,July,190.73,22.6,71.0,2015
+Nagarkurnool,July,191.69,31.8,96.0,2021
+Khammam,March,14.12,31.0,84.0,2022
+Wanaparthy,July,192.83,24.6,96.0,2017
+Sangareddy,June,119.04,17.1,95.0,2021
+Jagtial,October,91.85,41.3,30.0,2024
+Kumurambheem Asifabad,November,19.4,29.1,61.0,2016
+Sangareddy,August,190.42,37.3,91.0,2017
+Rangareddy,October,90.9,41.3,34.0,2018
+Peddapalli,November,17.92,34.8,63.0,2015
+Karimnagar,January,9.15,32.0,91.0,2024
+Mahabubnagar,November,20.42,44.6,34.0,2021
+Nizamabad,November,18.97,24.4,92.0,2020
+Mancherial,October,92.87,36.4,87.0,2019
+Vikarabad,May,29.08,35.9,85.0,2025
+Hyderabad,August,190.05,22.3,34.0,2025
+Nirmal,February,5.69,27.5,54.0,2025
+Wanaparthy,August,188.21,35.0,30.0,2023
+Sangareddy,February,1.99,32.8,70.0,2016
+Mancherial,March,13.76,38.4,93.0,2025
+Rajanna Sircilla,May,30.29,23.3,28.0,2020
+Siddipet,July,189.35,18.3,76.0,2019
+Adilabad,May,30.79,43.2,35.0,2019
+Jagtial,May,29.51,15.2,33.0,2019
+Sangareddy,November,17.09,36.9,34.0,2023
+Wanaparthy,November,18.27,41.6,56.0,2015
+Adilabad,February,8.72,17.0,66.0,2019
+Mahabubabad,July,192.37,19.5,27.0,2024
+Nizamabad,January,8.53,21.0,29.0,2024
+Jogulamba Gadwal,October,94.33,34.3,98.0,2023
+Sangareddy,May,30.61,29.3,75.0,2023
+Peddapalli,May,30.2,25.8,83.0,2019
+Hyderabad,July,190.27,34.6,28.0,2016
+Kamareddy,October,90.47,21.2,31.0,2015
+Mahabubabad,April,19.39,38.0,26.0,2022
+Nizamabad,June,119.59,34.3,94.0,2015
+Mancherial,April,14.71,39.2,70.0,2024
+Hanamkonda,January,11.48,36.5,80.0,2023
+Kumurambheem Asifabad,April,14.59,44.1,41.0,2016
+Khammam,March,14.39,40.1,48.0,2023
+Karimnagar,March,14.87,29.9,20.0,2018
+Mancherial,January,6.49,36.3,91.0,2016
+Siddipet,July,190.25,42.4,96.0,2020
+Yadadri Bhuvanagiri,April,16.94,27.9,91.0,2022
+Jagtial,April,18.94,44.5,83.0,2022
+Peddapalli,December,5.23,26.9,98.0,2024
+Rajanna Sircilla,July,191.77,28.2,100.0,2022
+Yadadri Bhuvanagiri,May,31.67,31.3,48.0,2017
+Medak,October,90.81,39.0,74.0,2021
+Peddapalli,May,29.59,38.9,64.0,2024
+Hyderabad,April,17.21,26.2,71.0,2015
+Kamareddy,March,11.48,28.7,45.0,2015
+Sangareddy,February,6.07,34.7,53.0,2020
+Mulugu,November,15.66,35.4,89.0,2017
+Medak,September,135.48,33.5,83.0,2019
+Mulugu,April,18.77,30.1,94.0,2019
+Karimnagar,October,94.48,19.3,30.0,2018
+Nagarkurnool,July,194.77,23.7,31.0,2016
+Rangareddy,March,15.18,29.2,91.0,2025
+Karimnagar,December,7.2,19.2,38.0,2016
+Khammam,June,119.68,21.4,76.0,2020
+Adilabad,December,9.44,26.9,85.0,2025
+Medak,August,189.84,41.4,67.0,2023
+Karimnagar,November,16.4,42.6,25.0,2022
+Adilabad,February,6.57,45.0,37.0,2025
+Wanaparthy,May,30.89,37.4,44.0,2022
+Hanamkonda,June,119.83,24.6,77.0,2020
+Mancherial,September,139.02,32.7,64.0,2024
+Jagtial,June,119.27,33.5,24.0,2015
+Nirmal,July,188.33,41.6,75.0,2019
+Vikarabad,April,17.95,15.8,66.0,2020
+Adilabad,December,6.78,20.5,93.0,2017
+Khammam,December,7.64,22.0,44.0,2025
+Wanaparthy,July,188.32,16.1,90.0,2015
+Karimnagar,July,191.49,32.2,32.0,2022
+Rangareddy,April,18.08,32.1,21.0,2022
+Nirmal,November,18.19,40.3,80.0,2015
+Medak,June,122.09,43.1,84.0,2017
+Mahabubabad,August,189.41,40.1,31.0,2023
+Nagarkurnool,November,16.57,43.9,76.0,2023
+Kamareddy,April,16.73,42.7,90.0,2016
+Hyderabad,March,13.02,20.9,41.0,2018
+Jogulamba Gadwal,June,121.24,20.6,27.0,2024
+Peddapalli,April,20.24,21.9,74.0,2025
+Kamareddy,July,193.31,42.4,24.0,2022
+Medak,May,30.93,29.3,93.0,2018
+Kamareddy,August,190.24,25.7,67.0,2018
+Mahabubabad,December,4.56,17.7,37.0,2016
+Kamareddy,August,191.44,20.8,54.0,2019
+Khammam,June,118.28,36.9,88.0,2022
+Siddipet,November,14.81,24.7,34.0,2015
+Mahabubnagar,December,4.32,21.6,66.0,2020
+Sangareddy,March,15.39,42.3,39.0,2023
+Nagarkurnool,May,30.25,21.9,60.0,2017
+Sangareddy,January,9.28,34.3,54.0,2021
+Khammam,June,117.09,38.7,78.0,2025
+Nizamabad,October,92.43,15.2,78.0,2019
+Mahabubabad,January,7.86,28.4,47.0,2016
+Wanaparthy,June,117.47,40.8,24.0,2015
+Mulugu,October,92.09,36.3,41.0,2018
+Khammam,December,9.97,26.9,59.0,2018
+Khammam,May,30.87,19.1,85.0,2019
+Vikarabad,October,88.83,37.0,91.0,2018
+Karimnagar,August,191.63,38.5,41.0,2020
+Khammam,August,188.71,15.7,32.0,2023
+Adilabad,September,137.44,24.3,62.0,2025
+Medak,March,12.66,23.1,91.0,2023
+Hyderabad,October,87.06,34.1,65.0,2016
+Jogulamba Gadwal,September,138.47,15.8,93.0,2024
+Rajanna Sircilla,April,15.8,31.5,61.0,2018
+Jagtial,August,191.03,27.0,84.0,2025
+Sangareddy,March,13.12,36.4,63.0,2024
+Sangareddy,September,138.08,30.5,58.0,2015
+Siddipet,February,4.29,32.6,90.0,2017
+Adilabad,October,94.32,31.1,48.0,2019
+Nalgonda,March,12.35,37.5,30.0,2015
+Kumurambheem Asifabad,June,118.79,26.8,79.0,2015
+Nagarkurnool,September,136.61,41.1,52.0,2022
+Siddipet,August,189.17,41.0,46.0,2018
+Mancherial,November,21.62,26.6,20.0,2022
+Khammam,February,3.84,23.7,100.0,2020
+Mahabubnagar,November,16.17,17.3,80.0,2017
+Wanaparthy,January,6.78,44.1,69.0,2021
+Mahabubabad,April,15.92,24.3,92.0,2017
+Adilabad,October,94.83,15.7,20.0,2025
+Nalgonda,March,11.45,27.3,37.0,2022
+Nirmal,October,93.11,33.2,53.0,2018
+Mancherial,July,193.21,19.1,31.0,2016
+Vikarabad,January,7.82,22.8,32.0,2015
+Khammam,January,8.9,35.0,81.0,2015
+Siddipet,June,121.7,20.7,54.0,2018
+Siddipet,April,20.11,34.5,29.0,2022
+Yadadri Bhuvanagiri,October,93.84,23.6,30.0,2015
+Nalgonda,January,7.98,34.0,82.0,2023
+Jagtial,March,15.61,33.0,93.0,2023
+Medak,February,6.77,16.1,48.0,2023
+Kamareddy,July,192.32,15.3,33.0,2019
+Vikarabad,April,19.16,34.9,51.0,2015
+Khammam,July,191.5,43.4,83.0,2022
+Peddapalli,June,120.75,22.6,54.0,2025
+Mahabubabad,November,14.89,26.5,24.0,2015
+Hanamkonda,June,122.7,34.2,29.0,2015
+Nagarkurnool,January,5.58,27.6,81.0,2015
+Nalgonda,September,138.1,19.6,75.0,2024
+Nirmal,November,16.0,38.1,76.0,2022
+Kumurambheem Asifabad,March,14.3,27.9,67.0,2017
+Medak,January,9.89,18.7,62.0,2024
+Karimnagar,December,7.86,19.2,62.0,2018
+Hyderabad,February,8.48,41.5,50.0,2019
+Nalgonda,July,195.95,24.6,55.0,2017
+Mulugu,July,189.22,43.1,26.0,2018
+Mahabubnagar,December,4.46,27.9,48.0,2020
+Suryapet,September,133.42,17.0,56.0,2025
+Karimnagar,April,17.31,38.7,67.0,2024
+Hyderabad,October,92.64,16.0,78.0,2016
+Rangareddy,January,9.16,16.2,64.0,2020
+Nalgonda,November,17.91,15.8,25.0,2025
+Wanaparthy,February,5.24,32.3,98.0,2021
+Nirmal,October,92.72,34.2,35.0,2021
+Rajanna Sircilla,October,92.34,29.8,93.0,2017
+Mulugu,April,17.77,21.1,60.0,2024
+Nagarkurnool,April,19.81,18.4,28.0,2017
+Peddapalli,November,16.91,30.8,62.0,2016
+Khammam,March,12.67,19.5,38.0,2016
+Yadadri Bhuvanagiri,November,16.65,36.7,71.0,2015
+Medak,January,7.41,34.2,58.0,2024
+Nirmal,August,190.0,32.6,38.0,2019
+Mahabubnagar,July,193.51,24.1,26.0,2019
+Kamareddy,October,89.59,29.6,93.0,2019
+Yadadri Bhuvanagiri,January,9.15,17.7,55.0,2023
+Rajanna Sircilla,August,186.02,22.8,47.0,2022
+Kamareddy,October,90.38,15.2,20.0,2022
+Nagarkurnool,March,10.47,16.6,51.0,2016
+Kumurambheem Asifabad,September,138.54,24.3,63.0,2017
+Karimnagar,April,17.99,18.7,88.0,2020
+Mancherial,July,190.07,17.5,45.0,2021
+Rangareddy,January,9.13,41.2,92.0,2016
+Mulugu,December,4.8,26.8,95.0,2015
+Peddapalli,August,192.76,18.9,55.0,2017
+Nizamabad,November,17.6,26.9,62.0,2024
+Medak,December,2.92,40.7,46.0,2020
+Rangareddy,August,189.09,21.5,58.0,2019
+Karimnagar,November,21.45,27.1,94.0,2022
+Wanaparthy,May,28.39,39.6,69.0,2021
+Rajanna Sircilla,April,15.35,41.2,44.0,2024
+Jagtial,February,6.37,31.8,69.0,2017
+Kamareddy,December,7.46,27.7,62.0,2024
+Kumurambheem Asifabad,October,88.93,17.7,82.0,2019
+Wanaparthy,September,139.19,30.1,44.0,2023
+Hyderabad,June,115.74,21.7,22.0,2018
+Jogulamba Gadwal,June,116.09,35.9,90.0,2015
+Hanamkonda,September,140.15,37.1,38.0,2020
+Nagarkurnool,August,192.56,40.4,24.0,2015
+Vikarabad,April,14.7,20.8,79.0,2019
+Nirmal,December,6.35,37.6,68.0,2017
+Siddipet,February,4.64,29.0,67.0,2023
+Khammam,June,118.85,28.8,42.0,2019
+Hanamkonda,May,30.84,29.5,49.0,2022
+Nagarkurnool,March,13.93,29.1,41.0,2016
+Hanamkonda,July,192.85,24.0,68.0,2019
+Vikarabad,August,190.41,24.0,86.0,2020
+Nalgonda,December,3.34,42.2,90.0,2022
+Hyderabad,July,188.35,22.1,39.0,2025
+Nirmal,December,2.9,20.2,76.0,2015
+Kamareddy,February,5.25,43.8,54.0,2025
+Wanaparthy,April,19.38,35.0,57.0,2020
+Rajanna Sircilla,February,7.8,26.1,46.0,2019
+Nirmal,January,7.69,28.2,45.0,2016
+Mahabubabad,July,191.95,29.6,98.0,2019
+Medak,October,91.13,33.8,25.0,2019
+Suryapet,August,190.11,23.2,70.0,2017
+Hyderabad,October,92.22,16.0,45.0,2024
+Siddipet,April,16.56,44.7,89.0,2018
+Nizamabad,February,7.64,15.2,72.0,2020
+Mahabubnagar,January,7.41,37.7,69.0,2015
+Siddipet,February,9.21,29.2,72.0,2023
+Khammam,March,13.43,31.2,75.0,2018
+Jagtial,December,7.16,18.8,44.0,2018
+Sangareddy,July,191.63,44.1,84.0,2019
+Sangareddy,November,17.7,18.1,74.0,2019
+Kamareddy,July,194.37,21.7,69.0,2024
+Wanaparthy,September,134.93,21.9,46.0,2022
+Sangareddy,June,116.41,31.6,58.0,2021
+Rajanna Sircilla,January,9.89,34.5,87.0,2021
+Mahabubabad,May,31.5,17.0,67.0,2017
+Nalgonda,April,19.29,20.1,43.0,2023
+Mancherial,May,33.33,21.8,47.0,2025
+Jagtial,May,32.36,27.7,59.0,2023
+Mulugu,March,8.81,37.1,80.0,2023
+Mancherial,June,120.91,32.2,75.0,2018
+Kumurambheem Asifabad,January,9.6,30.2,87.0,2022
+Kumurambheem Asifabad,June,118.43,33.1,52.0,2019
+Peddapalli,February,7.34,33.5,50.0,2023
+Mulugu,January,12.44,23.8,84.0,2017
+Nagarkurnool,March,14.24,35.5,25.0,2020
+Rangareddy,August,192.93,24.5,51.0,2024
+Nirmal,April,15.83,23.9,73.0,2015
+Nagarkurnool,January,9.44,38.1,59.0,2016
+Nagarkurnool,June,116.67,16.6,92.0,2017
+Hyderabad,November,18.05,34.0,42.0,2023
+Mahabubabad,December,5.26,43.1,94.0,2021
+Rangareddy,July,193.83,25.6,72.0,2018
+Hyderabad,May,29.24,22.7,56.0,2023
+Karimnagar,July,191.93,19.6,45.0,2017
+Wanaparthy,June,114.01,38.4,21.0,2023
+Jogulamba Gadwal,July,193.76,21.5,49.0,2018
+Jagtial,October,93.62,22.4,58.0,2024
+Mahabubnagar,September,137.15,41.1,32.0,2022
+Nagarkurnool,February,7.95,34.9,70.0,2019
+Peddapalli,October,94.07,19.7,25.0,2024
+Jogulamba Gadwal,April,17.72,20.9,65.0,2021
+Mahabubnagar,February,3.93,44.1,24.0,2019
+Suryapet,October,90.7,17.1,65.0,2017
+Nagarkurnool,June,118.0,23.3,40.0,2023
+Mulugu,May,29.17,24.1,80.0,2018
+Khammam,May,30.83,24.4,86.0,2021
+Khammam,October,94.37,22.0,49.0,2017
+Mahabubnagar,January,10.82,30.9,40.0,2015
+Kamareddy,December,7.63,26.3,28.0,2016
+Mancherial,April,14.67,19.6,75.0,2018
+Yadadri Bhuvanagiri,July,192.52,37.2,70.0,2024
+Kumurambheem Asifabad,October,94.1,44.1,83.0,2023
+Rajanna Sircilla,April,16.37,42.0,85.0,2024
+Vikarabad,March,11.34,38.5,43.0,2024
+Kumurambheem Asifabad,March,10.24,25.1,88.0,2024
+Rangareddy,December,5.91,21.6,57.0,2017
+Rajanna Sircilla,June,119.18,30.8,53.0,2020
+Yadadri Bhuvanagiri,September,138.2,16.2,95.0,2021
+Siddipet,December,8.01,33.3,59.0,2022
+Yadadri Bhuvanagiri,May,34.43,27.2,50.0,2019
+Mulugu,April,21.32,35.9,77.0,2016
+Kamareddy,March,15.3,39.7,27.0,2021
+Peddapalli,July,194.76,20.0,84.0,2021
+Jogulamba Gadwal,November,22.33,27.6,59.0,2022
+Suryapet,October,93.93,34.8,98.0,2016
+Rangareddy,August,194.19,24.9,54.0,2017
+Hyderabad,April,17.51,41.2,39.0,2020
+Mulugu,October,94.14,21.4,63.0,2019
+Adilabad,August,191.33,30.0,56.0,2020
+Mahabubnagar,February,9.0,16.2,48.0,2020
+Karimnagar,July,193.55,22.0,55.0,2019
+Hanamkonda,August,194.32,44.1,58.0,2015
+Nirmal,December,4.68,39.0,72.0,2018
+Rangareddy,November,18.97,35.6,90.0,2019
+Hyderabad,September,134.57,17.6,69.0,2016
+Rajanna Sircilla,April,18.55,40.5,41.0,2020
+Suryapet,October,94.7,36.1,90.0,2019
+Kumurambheem Asifabad,June,118.22,37.7,54.0,2025
+Nizamabad,February,4.13,25.0,88.0,2020
+Nalgonda,August,189.24,19.2,29.0,2022
+Mancherial,March,14.52,25.3,52.0,2024
+Nalgonda,August,191.4,23.0,24.0,2020
+Yadadri Bhuvanagiri,March,12.81,25.1,33.0,2015
+Kamareddy,December,7.4,23.0,37.0,2017
+Hanamkonda,May,33.42,42.0,66.0,2017
+Suryapet,February,6.5,40.2,98.0,2015
+Mahabubabad,December,4.59,36.7,24.0,2020
+Yadadri Bhuvanagiri,February,9.1,19.9,31.0,2019
+Peddapalli,February,5.45,23.9,51.0,2022
+Nalgonda,July,189.98,29.2,100.0,2022
+Siddipet,November,20.84,32.1,58.0,2016
+Sangareddy,June,118.28,32.2,40.0,2016
+Kamareddy,July,193.34,36.5,26.0,2025
+Hyderabad,March,10.59,35.1,94.0,2015
+Jogulamba Gadwal,April,19.66,35.8,89.0,2022
+Kamareddy,April,17.09,22.4,24.0,2019
+Nizamabad,September,140.25,44.2,25.0,2018
+Nirmal,May,33.44,16.1,40.0,2021
+Mulugu,March,13.34,18.7,58.0,2021
+Rangareddy,April,15.53,35.9,70.0,2021
+Nalgonda,May,30.0,24.6,53.0,2021
+Yadadri Bhuvanagiri,March,15.26,42.6,95.0,2023
+Medak,September,140.98,17.4,81.0,2015
+Medak,August,192.07,20.1,98.0,2019
+Karimnagar,October,90.37,21.1,84.0,2016
+Mahabubnagar,February,5.91,17.7,46.0,2017
+Mulugu,January,6.22,31.8,79.0,2020
+Rangareddy,June,118.88,15.1,51.0,2015
+Mahabubabad,October,91.24,17.2,45.0,2015
+Mahabubabad,October,91.76,41.4,77.0,2015
+Mahabubnagar,October,89.71,30.4,93.0,2015
+Rangareddy,April,18.87,39.8,60.0,2021
+Mancherial,September,136.23,35.6,35.0,2024
+Mancherial,December,7.01,44.4,64.0,2017
+Hanamkonda,November,14.31,32.5,26.0,2020
+Mahabubnagar,November,17.01,21.7,59.0,2016
+Kumurambheem Asifabad,September,137.33,40.5,70.0,2023
+Mahabubnagar,January,11.93,17.1,38.0,2018
+Mahabubnagar,May,34.72,25.1,30.0,2023
+Kamareddy,September,138.54,20.7,97.0,2017
+Vikarabad,October,89.75,39.0,28.0,2020
+Nalgonda,June,120.04,24.3,96.0,2020
+Suryapet,November,19.83,25.9,46.0,2024
+Suryapet,May,29.14,37.7,100.0,2025
+Adilabad,February,5.81,26.2,55.0,2017
+Peddapalli,March,15.73,16.4,73.0,2020
+Khammam,February,9.06,45.0,75.0,2023
+Mahabubabad,March,15.0,39.9,73.0,2025
+Khammam,March,17.12,32.8,40.0,2019
+Jagtial,July,190.6,40.8,58.0,2022
+Vikarabad,July,190.36,43.8,80.0,2016
+Yadadri Bhuvanagiri,September,136.07,17.7,55.0,2022
+Suryapet,March,12.05,43.6,20.0,2023
+Medak,July,188.91,16.8,48.0,2019
+Karimnagar,July,191.8,44.0,27.0,2021
+Nalgonda,March,12.97,20.8,78.0,2023
+Jagtial,March,10.09,16.5,36.0,2023
+Peddapalli,August,193.48,24.7,59.0,2017
+Rangareddy,September,134.7,29.8,40.0,2024
+Rangareddy,June,116.44,42.0,30.0,2021
+Nizamabad,November,15.18,21.7,87.0,2020
+Nalgonda,October,90.05,27.8,82.0,2020
+Nagarkurnool,December,9.41,39.6,90.0,2018
+Mahabubnagar,January,7.48,29.2,75.0,2025
+Peddapalli,June,118.97,35.7,55.0,2023
+Jagtial,June,122.62,44.6,39.0,2020
+Peddapalli,December,5.81,42.2,97.0,2016
+Sangareddy,May,30.95,39.4,73.0,2022
+Mulugu,August,189.76,29.6,35.0,2017
+Mulugu,August,194.25,28.7,35.0,2017
+Rangareddy,January,6.38,20.0,86.0,2015
+Nagarkurnool,November,18.32,31.3,70.0,2019
+Kumurambheem Asifabad,October,93.95,44.8,87.0,2017
+Karimnagar,November,15.52,26.1,48.0,2025
+Kamareddy,June,117.53,40.3,44.0,2021
+Khammam,December,5.88,32.5,93.0,2021
+Nizamabad,January,8.35,20.5,30.0,2025
+Kumurambheem Asifabad,March,12.44,37.3,43.0,2015
+Medak,June,119.71,36.5,42.0,2018
+Jogulamba Gadwal,March,13.68,22.1,99.0,2018
+Suryapet,July,190.37,21.1,82.0,2020
+Kamareddy,September,137.87,25.9,74.0,2019
+Mulugu,July,192.62,27.3,97.0,2024
+Nizamabad,November,19.36,44.2,77.0,2022
+Yadadri Bhuvanagiri,April,16.57,26.9,77.0,2021
+Sangareddy,July,191.37,42.1,81.0,2015
+Vikarabad,April,18.61,35.9,47.0,2019
+Siddipet,July,191.35,37.6,92.0,2018
+Jagtial,September,135.18,32.7,45.0,2021
+Rangareddy,October,90.49,15.2,46.0,2025
+Siddipet,October,92.91,29.9,80.0,2015
+Mancherial,April,19.44,17.8,80.0,2015
+Adilabad,October,91.85,24.5,42.0,2017
+Adilabad,March,14.74,18.5,90.0,2015
+Medak,July,193.93,31.3,70.0,2020
+Mancherial,November,17.0,33.2,33.0,2018
+Mancherial,December,6.82,30.5,20.0,2019
+Sangareddy,October,89.86,44.5,72.0,2015
+Mancherial,July,192.98,29.5,78.0,2020
+Suryapet,July,191.03,39.8,90.0,2018
+Jogulamba Gadwal,July,192.31,35.9,25.0,2025
+Adilabad,April,17.05,28.4,83.0,2018
+Mancherial,January,8.62,38.7,38.0,2022
+Vikarabad,December,4.9,28.1,26.0,2022
+Nalgonda,September,138.22,25.1,22.0,2022
+Khammam,August,190.92,42.5,54.0,2023
+Kamareddy,January,8.16,37.3,77.0,2016
+Yadadri Bhuvanagiri,July,190.38,38.2,58.0,2016
+Rangareddy,June,121.34,42.9,99.0,2023
+Mulugu,March,12.84,41.6,34.0,2018
+Rangareddy,November,20.38,29.7,99.0,2024
+Kumurambheem Asifabad,April,20.35,17.9,94.0,2022
+Khammam,January,10.92,28.7,73.0,2025
+Wanaparthy,June,118.78,26.0,42.0,2015
+Mulugu,February,7.72,42.7,85.0,2022
+Hyderabad,June,117.49,18.9,88.0,2018
+Sangareddy,February,8.3,42.8,85.0,2019
+Nirmal,December,7.63,28.4,91.0,2023
+Hyderabad,October,93.36,24.6,31.0,2017
+Kumurambheem Asifabad,July,192.57,39.1,71.0,2019
+Rangareddy,October,92.92,21.7,32.0,2019
+Nizamabad,June,118.66,32.8,84.0,2019
+Mancherial,May,31.69,35.3,26.0,2021
+Jagtial,April,16.84,26.6,54.0,2024
+Rajanna Sircilla,March,11.81,25.0,59.0,2025
+Mulugu,June,116.48,36.5,73.0,2020
+Siddipet,March,16.3,38.8,84.0,2022
+Karimnagar,March,14.0,30.6,93.0,2024
+Medak,May,31.64,24.1,99.0,2015
+Sangareddy,May,30.28,20.3,76.0,2020
+Nalgonda,August,193.26,35.3,56.0,2016
+Siddipet,June,120.5,16.2,100.0,2018
+Wanaparthy,June,120.73,27.8,100.0,2017
+Nagarkurnool,September,134.32,34.8,73.0,2022
+Nalgonda,November,17.94,39.6,48.0,2024
+Nirmal,May,30.72,32.1,56.0,2016
+Nagarkurnool,April,18.08,32.6,96.0,2017
+Peddapalli,August,189.34,32.1,65.0,2023
+Adilabad,April,18.29,30.4,40.0,2024
+Wanaparthy,December,4.94,17.0,72.0,2015
+Mancherial,June,121.29,31.0,39.0,2022
+Karimnagar,August,189.84,36.8,90.0,2018
+Medak,November,21.04,24.3,43.0,2016
+Jogulamba Gadwal,May,30.74,40.9,43.0,2019
+Nirmal,July,190.0,19.9,88.0,2020
+Nagarkurnool,August,190.41,42.5,22.0,2023
+Kamareddy,April,17.86,30.0,58.0,2015
+Mahabubnagar,May,33.1,30.3,94.0,2015
+Vikarabad,July,188.2,27.7,79.0,2018
+Nizamabad,March,10.93,22.1,98.0,2024
+Nizamabad,June,115.74,26.4,21.0,2018
+Hanamkonda,December,7.31,42.4,98.0,2020
+Nizamabad,August,192.92,15.7,25.0,2018
+Kumurambheem Asifabad,June,116.43,23.7,32.0,2022
+Karimnagar,October,89.9,20.2,24.0,2023
+Kamareddy,July,189.69,39.4,82.0,2024
+Peddapalli,March,15.16,25.2,98.0,2022
+Nizamabad,June,119.6,40.1,30.0,2015
+Siddipet,May,25.95,18.8,93.0,2021
+Peddapalli,September,135.34,38.8,51.0,2017
+Medak,August,190.21,17.8,53.0,2016
+Nalgonda,April,18.85,31.9,39.0,2016
+Peddapalli,November,20.1,35.2,34.0,2017
+Nalgonda,June,114.59,27.7,86.0,2018
+Nagarkurnool,June,117.86,30.8,49.0,2025
+Jagtial,March,14.05,33.7,71.0,2022
+Mahabubabad,May,31.55,22.9,58.0,2018
+Mahabubnagar,July,195.26,28.6,66.0,2018
+Jogulamba Gadwal,August,190.2,24.8,22.0,2025
+Vikarabad,May,33.9,33.4,36.0,2023
+Nizamabad,May,29.27,26.3,30.0,2017
+Rangareddy,June,118.95,16.8,57.0,2016
+Rajanna Sircilla,March,12.02,38.3,73.0,2016
+Rangareddy,April,20.53,26.2,21.0,2023
+Medak,April,16.75,26.7,49.0,2025
+Peddapalli,May,27.47,32.0,81.0,2020
+Nalgonda,August,190.81,39.6,55.0,2021
+Jogulamba Gadwal,February,8.82,18.9,81.0,2021
+Hyderabad,April,16.87,25.7,47.0,2015
+Suryapet,May,27.72,32.9,85.0,2025
+Rajanna Sircilla,May,29.63,36.7,89.0,2018
+Wanaparthy,June,120.5,20.9,90.0,2023
+Nizamabad,September,136.72,36.5,79.0,2020
+Yadadri Bhuvanagiri,May,33.74,22.0,69.0,2025
+Mahabubnagar,January,9.68,22.4,55.0,2017
+Adilabad,November,14.91,37.7,62.0,2025
+Mulugu,October,90.79,43.9,84.0,2024
+Suryapet,May,31.5,44.0,53.0,2024
+Kumurambheem Asifabad,June,117.56,25.3,42.0,2019
+Suryapet,July,191.69,25.6,57.0,2022
+Vikarabad,November,15.55,34.0,49.0,2021
+Nagarkurnool,May,32.21,25.8,48.0,2024
+Vikarabad,February,8.03,19.9,94.0,2015
+Hanamkonda,November,18.37,42.8,34.0,2021
+Peddapalli,January,7.91,23.7,35.0,2020
+Mulugu,July,191.55,28.3,86.0,2016
+Sangareddy,December,4.6,33.7,94.0,2017
+Mahabubabad,December,5.2,26.8,62.0,2024
+Wanaparthy,August,190.26,39.6,93.0,2025
+Nalgonda,November,19.64,21.1,65.0,2019
+Rajanna Sircilla,August,188.49,31.3,48.0,2024
+Nalgonda,February,6.8,40.3,27.0,2015
+Kamareddy,May,30.57,35.0,20.0,2021
+Peddapalli,December,3.48,19.2,40.0,2017
+Kumurambheem Asifabad,September,138.75,40.2,27.0,2017
+Karimnagar,August,187.89,19.0,51.0,2025
+Kamareddy,July,188.25,31.2,41.0,2015
+Medak,December,5.87,41.4,20.0,2018
+Vikarabad,January,12.06,29.2,75.0,2018
+Vikarabad,May,33.19,30.0,77.0,2023
+Kumurambheem Asifabad,March,15.15,34.5,73.0,2015
+Khammam,May,30.07,21.5,92.0,2021
+Suryapet,July,193.69,20.6,67.0,2019
+Mulugu,July,192.05,20.8,84.0,2025
+Jogulamba Gadwal,March,17.08,41.2,52.0,2023
+Nirmal,June,115.56,37.1,31.0,2019
+Wanaparthy,November,15.65,26.6,90.0,2016
+Jagtial,September,135.79,36.8,89.0,2019
+Mancherial,February,6.63,18.4,56.0,2017
+Nirmal,May,28.26,42.7,94.0,2022
+Nizamabad,June,119.55,26.0,48.0,2024
+Rangareddy,October,93.44,41.1,24.0,2021
+Karimnagar,July,194.33,24.0,71.0,2023
+Mahabubabad,September,137.68,28.7,26.0,2020
+Rajanna Sircilla,October,87.84,30.5,81.0,2016
+Mulugu,June,119.65,38.3,99.0,2016
+Mancherial,March,12.77,32.1,81.0,2025
+Karimnagar,May,29.17,19.3,70.0,2025
+Siddipet,October,93.16,41.0,75.0,2022
+Mulugu,November,19.61,21.6,31.0,2025
+Jagtial,April,16.03,44.7,72.0,2019
+Kamareddy,May,31.77,40.9,20.0,2015
+Vikarabad,June,119.12,31.9,97.0,2020
+Yadadri Bhuvanagiri,October,92.49,18.4,82.0,2019
+Hyderabad,August,188.57,24.1,59.0,2017
+Hyderabad,August,187.64,32.4,96.0,2020
+Mahabubnagar,January,7.75,30.9,22.0,2022
+Medak,October,94.26,31.5,59.0,2019
+Rangareddy,March,11.54,21.7,45.0,2024
+Nalgonda,December,6.7,16.3,43.0,2023
+Jagtial,February,4.58,39.8,34.0,2015
+Nagarkurnool,August,191.67,15.6,60.0,2019
+Khammam,March,11.52,21.8,39.0,2020
+Mancherial,February,7.85,33.6,59.0,2020
+Nirmal,June,117.45,44.5,80.0,2015
+Yadadri Bhuvanagiri,May,33.01,28.5,20.0,2017
+Hyderabad,August,189.44,42.1,26.0,2019
+Mahabubnagar,February,3.14,39.8,57.0,2018
+Sangareddy,June,119.29,44.4,26.0,2021
+Rangareddy,October,94.96,15.6,26.0,2017
+Mancherial,December,1.95,16.2,45.0,2016
+Mancherial,December,5.29,18.3,48.0,2015
+Siddipet,April,17.47,25.9,89.0,2018
+Mahabubabad,August,191.97,26.0,23.0,2025
+Mulugu,October,91.02,37.6,50.0,2015
+Mahabubnagar,June,116.59,42.6,21.0,2021
+Karimnagar,November,16.96,44.7,28.0,2022
+Kumurambheem Asifabad,August,188.51,43.4,58.0,2015
+Nalgonda,February,8.25,25.4,41.0,2022
+Rajanna Sircilla,December,1.1,44.8,100.0,2019
+Rajanna Sircilla,November,15.84,32.5,61.0,2020
+Sangareddy,December,7.68,31.2,59.0,2023
+Yadadri Bhuvanagiri,January,11.09,31.8,21.0,2019
+Wanaparthy,April,19.43,20.5,85.0,2022
+Mahabubabad,May,30.31,29.5,23.0,2020
+Hanamkonda,May,33.02,41.7,88.0,2020
+Kumurambheem Asifabad,February,11.94,37.8,46.0,2015
+Kamareddy,November,18.66,17.9,49.0,2015
+Nagarkurnool,June,117.42,37.5,24.0,2020
+Jogulamba Gadwal,June,123.82,26.0,38.0,2021
+Nalgonda,November,15.73,30.3,71.0,2021
+Yadadri Bhuvanagiri,November,15.89,34.9,40.0,2024
+Medak,April,17.68,37.1,47.0,2024
+Mulugu,June,116.93,36.6,90.0,2016
+Vikarabad,August,191.76,24.4,33.0,2015
+Mancherial,August,192.24,20.1,26.0,2017
+Adilabad,January,12.26,36.2,80.0,2015
+Jagtial,February,8.49,44.0,97.0,2025
+Medak,February,5.15,34.8,92.0,2015
+Peddapalli,August,192.16,16.6,31.0,2018
+Hyderabad,October,92.69,39.3,64.0,2016
+Kamareddy,December,5.36,32.6,68.0,2021
+Mahabubnagar,November,17.07,24.9,76.0,2016
+Kamareddy,June,118.16,37.6,28.0,2022
+Nirmal,November,18.47,42.6,73.0,2015
+Sangareddy,May,31.06,34.1,71.0,2015
+Karimnagar,April,16.41,26.9,90.0,2015
+Nirmal,September,136.32,42.3,58.0,2025
+Nagarkurnool,September,140.13,43.2,70.0,2021
+Nizamabad,October,89.4,31.1,44.0,2024
+Peddapalli,May,26.91,21.8,40.0,2015
+Suryapet,March,15.86,25.2,55.0,2024
+Siddipet,June,117.86,43.2,56.0,2020
+Sangareddy,January,5.58,37.4,60.0,2017
+Mahabubabad,October,91.85,34.9,66.0,2015
+Peddapalli,September,137.31,40.0,97.0,2025
+Nirmal,June,119.15,41.8,32.0,2022
+Mahabubnagar,December,2.73,30.8,100.0,2018
+Jogulamba Gadwal,February,6.47,30.7,56.0,2025
+Sangareddy,September,138.53,32.5,82.0,2020
+Rajanna Sircilla,January,6.13,39.4,34.0,2025
+Sangareddy,November,18.52,43.6,22.0,2017
+Mancherial,December,5.49,38.1,27.0,2016
+Kamareddy,April,16.09,24.6,34.0,2019
+Mancherial,June,115.93,17.8,20.0,2023
+Mulugu,March,12.69,36.7,88.0,2017
+Wanaparthy,March,18.89,22.9,76.0,2015
+Kamareddy,January,10.92,30.0,53.0,2017
+Mancherial,July,194.46,24.7,23.0,2020
+Wanaparthy,December,6.3,35.1,91.0,2017
+Mahabubnagar,December,7.14,36.3,60.0,2019
+Wanaparthy,August,190.88,28.8,42.0,2023
+Siddipet,January,9.8,33.7,56.0,2021
+Kamareddy,September,133.72,38.3,20.0,2025
+Mancherial,October,92.0,25.9,37.0,2023
+Jagtial,August,190.38,26.9,82.0,2016
+Medak,August,192.07,39.2,33.0,2022
+Karimnagar,May,31.84,23.8,79.0,2019
+Hanamkonda,June,116.25,24.0,41.0,2015
+Jogulamba Gadwal,April,15.97,28.1,61.0,2018
+Nirmal,March,15.31,15.6,50.0,2021
+Jagtial,March,13.11,45.0,25.0,2015
+Suryapet,November,16.57,19.0,59.0,2021
+Rajanna Sircilla,January,6.37,34.5,79.0,2020
+Mancherial,August,194.45,15.7,94.0,2015
+Khammam,November,17.14,18.3,88.0,2021
+Adilabad,January,9.19,18.5,56.0,2022
+Sangareddy,June,119.19,37.7,32.0,2016
+Sangareddy,September,140.21,19.0,83.0,2016
+Hanamkonda,December,7.54,40.4,55.0,2021
+Yadadri Bhuvanagiri,January,8.65,28.6,90.0,2022
+Mahabubabad,November,17.36,27.8,76.0,2023
+Mancherial,May,29.95,23.4,20.0,2016
+Siddipet,March,10.82,25.8,86.0,2019
+Sangareddy,July,188.24,38.9,78.0,2022
+Medak,June,119.44,21.6,50.0,2016
+Wanaparthy,May,31.17,21.3,41.0,2022
+Mahabubabad,June,117.05,16.0,25.0,2024
+Nagarkurnool,April,19.17,27.5,32.0,2022
+Siddipet,July,191.52,40.1,60.0,2020
+Adilabad,December,7.33,43.6,26.0,2019
+Mulugu,June,116.75,21.2,88.0,2015
+Mancherial,August,189.61,39.8,41.0,2019
+Khammam,February,3.41,33.2,28.0,2017
+Mahabubnagar,March,13.98,21.6,75.0,2015
+Khammam,January,10.85,21.8,77.0,2018
+Rangareddy,August,192.31,23.3,99.0,2020
+Khammam,December,2.04,40.1,48.0,2015
+Wanaparthy,September,136.87,40.3,25.0,2015
+Medak,November,18.77,36.2,24.0,2019
+Vikarabad,June,120.39,32.9,81.0,2016
+Kamareddy,October,91.27,31.8,73.0,2016
+Rajanna Sircilla,July,192.23,30.7,43.0,2017
+Rajanna Sircilla,July,192.45,44.9,55.0,2024
+Siddipet,February,10.02,31.8,53.0,2025
+Khammam,March,15.59,27.9,37.0,2023
+Kumurambheem Asifabad,October,93.48,24.4,77.0,2024
+Nalgonda,December,3.87,41.2,37.0,2024
+Hyderabad,June,121.51,30.4,61.0,2016
+Sangareddy,February,8.72,30.4,35.0,2024
+Hyderabad,June,119.35,42.2,32.0,2024
+Kumurambheem Asifabad,September,138.84,31.2,43.0,2016
+Adilabad,March,14.18,17.9,61.0,2017
+Adilabad,January,8.98,42.4,44.0,2021
+Suryapet,August,190.07,43.2,24.0,2024
+Karimnagar,September,137.19,20.6,47.0,2022
+Kumurambheem Asifabad,December,6.5,44.0,48.0,2024
+Rangareddy,July,194.61,39.4,61.0,2025
+Jogulamba Gadwal,August,190.58,28.0,22.0,2018
+Mahabubnagar,January,10.16,42.2,68.0,2019
+Hyderabad,March,9.4,38.0,24.0,2016
+Wanaparthy,November,18.45,20.1,52.0,2024
+Wanaparthy,June,116.42,36.8,84.0,2019
+Yadadri Bhuvanagiri,February,5.32,29.6,83.0,2022
+Hyderabad,May,34.48,21.2,61.0,2021
+Nizamabad,September,135.23,20.1,21.0,2025
+Mulugu,September,138.46,26.6,48.0,2015
+Jogulamba Gadwal,April,15.82,43.8,85.0,2023
+Peddapalli,October,92.0,37.7,23.0,2017
+Nagarkurnool,July,192.87,27.1,62.0,2016
+Peddapalli,April,15.04,27.6,89.0,2019
+Mahabubnagar,October,91.92,38.0,23.0,2024
+Jagtial,March,13.55,31.3,88.0,2017
+Mahabubabad,June,121.77,18.5,43.0,2016
+Jagtial,July,193.54,37.4,23.0,2025
+Medak,May,34.2,27.6,90.0,2021
+Hanamkonda,June,116.85,43.2,28.0,2019
+Mulugu,November,20.27,36.5,71.0,2021
+Karimnagar,November,15.21,15.8,45.0,2016
+Nalgonda,November,20.48,39.0,35.0,2020
+Rangareddy,May,31.85,15.8,20.0,2018
+Kamareddy,January,9.88,19.7,83.0,2017
+Karimnagar,May,30.94,31.2,81.0,2024
+Karimnagar,September,134.23,26.1,63.0,2022
+Mahabubnagar,December,4.06,40.8,90.0,2016
+Mancherial,April,16.38,31.1,38.0,2020
+Suryapet,August,189.23,42.2,55.0,2019
+Jagtial,April,14.56,28.6,51.0,2018
+Mancherial,June,119.67,37.6,96.0,2023
+Khammam,December,8.51,26.3,47.0,2021
+Rajanna Sircilla,May,32.55,16.4,40.0,2018
+Nirmal,January,10.95,33.1,41.0,2022
+Siddipet,November,18.42,17.3,59.0,2016
+Kamareddy,October,92.73,39.2,63.0,2015
+Nirmal,May,28.57,24.7,35.0,2017
+Nalgonda,March,12.04,18.9,98.0,2015
+Kumurambheem Asifabad,November,22.72,43.1,91.0,2025
+Kamareddy,September,136.97,21.1,31.0,2023
+Nagarkurnool,March,14.26,43.4,36.0,2019
+Khammam,January,12.01,19.5,59.0,2024
+Mulugu,February,7.37,24.6,35.0,2023
+Peddapalli,October,91.09,23.1,81.0,2016
+Nirmal,November,19.38,34.5,96.0,2022
+Mahabubnagar,December,2.43,16.0,83.0,2024
+Sangareddy,April,16.84,32.6,30.0,2020
+Kumurambheem Asifabad,December,7.47,32.3,67.0,2020
+Khammam,August,192.31,23.9,65.0,2024
+Mancherial,July,189.52,42.1,54.0,2015
+Khammam,May,30.22,38.3,49.0,2017
+Siddipet,December,7.58,28.2,33.0,2024
+Hanamkonda,June,119.67,31.8,38.0,2015
+Kamareddy,February,4.33,41.0,93.0,2024
+Adilabad,July,189.95,41.1,24.0,2022
+Rajanna Sircilla,May,28.73,43.3,87.0,2020
+Khammam,January,8.57,23.0,80.0,2017
+Medak,October,91.85,20.6,23.0,2017
+Suryapet,September,137.64,29.0,84.0,2024
+Mancherial,November,19.51,21.0,23.0,2020
+Karimnagar,December,4.81,40.5,38.0,2019
+Rajanna Sircilla,November,17.7,42.8,35.0,2019
+Kamareddy,September,136.3,41.8,40.0,2021
+Mahabubabad,March,18.46,15.8,88.0,2015
+Jagtial,January,10.44,20.9,68.0,2015
+Vikarabad,August,191.71,38.4,38.0,2024
+Yadadri Bhuvanagiri,April,17.05,33.6,82.0,2017
+Mahabubabad,April,18.54,28.7,59.0,2020
+Vikarabad,March,12.55,27.1,70.0,2024
+Mahabubabad,July,187.28,38.1,83.0,2016
+Hanamkonda,July,195.24,29.9,47.0,2020
+Karimnagar,March,15.72,34.9,83.0,2019
+Hyderabad,November,15.8,28.0,20.0,2024
+Mahabubnagar,April,18.78,38.5,82.0,2016
+Adilabad,January,8.93,27.4,78.0,2020
+Kamareddy,August,189.9,27.6,47.0,2024
+Mahabubabad,December,5.18,39.4,56.0,2024
+Nizamabad,March,16.17,34.4,42.0,2019
+Suryapet,January,10.41,34.2,91.0,2024
+Kumurambheem Asifabad,October,91.66,21.8,66.0,2020
+Bhadradri Kothagudem,May,34.49,21.3,55.5,2021
+Narayanpet,January,9.36,20.3,50.4,2022
+Jayashankar Bhupalpally,March,13.85,20.3,54.6,2023
+Warangal,April,20.85,21.3,60.3,2021
+Jangoan,May,29.06,22.4,60.2,2022
+Hanumakonda,April,13.54,21.2,59.8,2024
+Medchal_Malkajgiri,May,33.74,22.0,60.2,2022
